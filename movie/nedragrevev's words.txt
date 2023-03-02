@@ -1,0 +1,48 @@
+In this Corner of the World (この世界の片隅に | Kono Sekai no Katasumi ni) Subs by nedragrevev (v2)
+
+• US Shout! Factory Blu-ray Release. With some time shifting, these subs should sync up fine with all other releases (except for the extended 3+ hour release, obviously).
+	Encode starts at frame: 575 (as Handbrake reports, from the extracted mkv). This removes the loud publisher ads from Shout! Factory but retains the three sponsor ads you'll find on the JP Blu-ray (Tokyo Theater's 70th Anniversary, Genco and MAPRA).
+	Dimensions: 1920 x 1036
+	
+	I also own the UK release. If you have this release, you've probably already noticed the signs and OP song are hardsubbed (why?). But if that's all you have, it should sync up perfectly up to 1:29:35 (assuming you simply encoded the full extracted mkv) but for some reason, after this point, you'll need to shift the lines forward by 0.04 secs (one extra frame was added around that time).
+
+• Started with: MTBB (who used the official translation).
+	Completely reworked.
+
+• Translation: Extensive work. Pretty much every line painstakingly translated. This is where the majority of my time went. As such, this translation can be called my own [edited version].
+	MTBB made a couple of edits to the official stuff.
+	This was a big challenge because of the old Hiroshima dialect. Plenty of Japanese people would struggle with some lines.
+	The official translation simplified the dialogue, removing a fair bit of extra information unnecessarily, in a lot more lines than was acceptable for me.
+	Radio broadcasts: Added in quite a few extra lines that the official subs omitted entirely. For Hirohito's surrender broadcast, I've used the text/translation as it appeared in the New York Times paper of July 26, 1945.
+	Thought put into trying to understand the true meaning behind the dialogue, so it was a true translation. Tried to retain any connection between lines/phrases at the beginning and end.
+	
+	Honorific and 2 non-honorifics version provided (take your pick, I figure it's best to do it this way since everyone has a preferred style):
+		Honorifics: Onee-san is kept where there is dialogue between characters. When it's just Suzu narrating, I've translated it as appropriately as possible.
+		No honorifics: Retains the Japanese naming order but no honorifics. Onii-chan is translated as "my brother" in most cases. Localized/translated food. For example, instead of "warabi-mochi", this version renders it as "bracken-starch dumplings".
+		No honorifics and western naming order: Identical to the above except the naming order uses the Western style/convention.
+
+	As always, you're the viewer, so you be the judge on translation quality. My hope is you find this translation the best out there and in some parts, maybe even making more sense than the dub.
+	
+	NOTE: July 2022 v2 sees all errors identified and fixed (see below). With the other improvements, I'm confident with the quality of these subs; they will present well.
+
+• Timing. Completely and carefully retimed as I usually do. Thought given to presentation quality.
+
+• Typesetting: MTBB did good work on the signs that they did typeset, but they missed quite a few important signs, so a bit of time was spent typesetting more signs.
+	New signs: Realistically typeset quite a few more signs.
+	Improved some of MTBB's typesetting, but nothing special as MTBB already did a pretty good job on what they did typeset.
+
+• Songs: No karaoke effects. Romaji added and made some translation adjustments, but otherwise I just went with simple fades which works well for the overall depressing tones of the songs.
+	OP: Simply added the romaji.
+	ED (みぎてのうた, Song of the Right Hand): Partial translation because of... reasons (primarily: many verses are barely audible). Where translated, I tried to make the lyrics understandable and sensible. I couldn't work out what one line was going on about. Literally: "darkness of nori embraces you." There could be a few reasons as to what this might mean (I won't give any spoilers, but the imagery during this verse, with the hairy "monster" and what Suzu uses over the monocular, and just after is probably key). Essentially, incorporating "nori" or "seaweed" into the lyrics sounded completely ridiculous so I removed that reference altogether. The Japanese here is just as weird so not sure if removing was the right thing to do.
+	Song During Rolling Credits (たんぽぽ, Dandelion): Did not translate. Lazy on my part. Lyrics require too much time to do an acceptable job.
+
+• As of the July 2022 update, I'm very confident this is error-free and presents well. But if you encounter any issues, please let me know on my GitHub issues page. Any feedback is appreciated.
+
+tl:dr: Enjoy these subs!
+
+Last Update: 14/07/2022
+	Complete dialogue check in a text editor.
+		All errors identified and fixed. I was disappointed in myself in seeing quite a few errors still present. I had been going about checking for error in dialogue (grammar, missing particles [rare] ) all wrong when I first worked on these. The good thing is that I've now identified and fixed all the errors.
+		Translation improvements to quite a few lines. A few significant, but most are minor.
+		Punctuation: More fine tuning and adjustments to grammatically optional commas (some added and some removed) for subs that read more easily/naturally.
+	These are now error-free, so it will likely be the last update/release.
