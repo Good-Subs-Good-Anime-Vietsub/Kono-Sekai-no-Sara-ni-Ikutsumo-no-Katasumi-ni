@@ -30,12 +30,12 @@ subs {
 
         from(get("raw")) {
             video {
-                name("BDRip by GOA")
+                name("BDRip by p1zrv(Beatrice)")
                 lang("jpn")
                 default(true)
             }
             audio(0) {
-                name("DTS 2.0")
+                name("FLAC 2.0")
                 lang("jpn")
                 default(true)
             }
