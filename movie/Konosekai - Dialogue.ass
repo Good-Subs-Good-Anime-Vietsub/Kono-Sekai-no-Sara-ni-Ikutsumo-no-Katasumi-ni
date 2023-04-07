@@ -15,14 +15,14 @@ Audio File: ../raw/[Clara] Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BDRi
 Video File: ../raw/[Clara] Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BDRip 1920x1038 HEVC FLAC] [8A616E73].mkv
 Video AR Mode: 4
 Video AR Value: 1.849711
-Video Zoom Percent: 0.375000
-Scroll Position: 758
-Active Line: 776
-Video Position: 62881
+Video Zoom Percent: 0.500000
+Scroll Position: 846
+Active Line: 862
+Video Position: 72101
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Adobe Clean,78,&H00FFFFFF,&H000000FF,&H00411D07,&HC44B2108,-1,0,0,0,100,100,0,0,1,4.2,4,2,12,12,60,1
+Style: Main,Adobe Clean,76,&H00FFFFFF,&H000000FF,&H00411D07,&HC44B2108,-1,0,0,0,100,100,0,0,1,4,2,2,12,12,72,1
 Style: Signs,I Did This!,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,52,52,14,1
 Style: Song-EN,Bembo Std Semibold,65,&H00927CB9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,65,65,85,1
 Style: Song-RO,Bembo Std Semibold,60,&H00927CB9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,65,65,26,1
@@ -34,29 +34,6 @@ Style: GT 2,Adobe Clean,50,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:05:28.80,0:05:28.80,Main,chapter,0,0,0,,{August 1935}
-Comment: 0,0:08:32.03,0:08:32.03,Main,chapter,0,0,0,,{February 1938}
-Comment: 0,0:13:37.20,0:13:37.20,Main,chapter,0,0,0,,{The War Escalates}
-Comment: 0,0:13:48.19,0:13:48.19,Main,chapter,0,0,0,,{December 1943}
-Comment: 0,0:18:11.41,0:18:11.41,Main,chapter,0,0,0,,{February 1944}
-Comment: 0,0:26:31.62,0:26:31.62,Main,chapter,0,0,0,,{March 1944}
-Comment: 0,0:35:58.56,0:35:58.56,Main,chapter,0,0,0,,{April 1944}
-Comment: 0,0:39:34.99,0:39:34.99,Main,chapter,0,0,0,,{May 1944}
-Comment: 0,0:45:25.44,0:45:25.44,Main,chapter,0,0,0,,{June 1944}
-Comment: 0,0:46:43.43,0:46:43.43,Main,chapter,0,0,0,,{July 1944}
-Comment: 0,0:54:55.76,0:54:55.76,Main,chapter,0,0,0,,{August 1944}
-Comment: 0,1:01:53.09,1:01:53.09,Main,chapter,0,0,0,,{September 1944}
-Comment: 0,1:20:25.20,1:20:25.20,Main,chapter,0,0,0,,{December 1944}
-Comment: 0,1:27:36.72,1:27:36.72,Main,chapter,0,0,0,,{February 1945}
-Comment: 0,1:34:22.23,1:34:22.23,Main,chapter,0,0,0,,{March 1945}
-Comment: 0,1:39:05.79,1:39:05.79,Main,chapter,0,0,0,,{April 1945}
-Comment: 0,1:46:11.50,1:46:11.50,Main,chapter,0,0,0,,{May 1945}
-Comment: 0,1:50:09.40,1:50:09.40,Main,chapter,0,0,0,,{June 1945}
-Comment: 0,1:59:09.07,1:59:09.07,Main,chapter,0,0,0,,{July 1945}
-Comment: 0,2:10:15.52,2:10:15.52,Main,chapter,0,0,0,,{August 1945}
-Comment: 0,2:25:14.37,2:25:14.37,Main,chapter,0,0,0,,{October 1945}
-Comment: 0,2:29:10.71,2:29:10.71,Main,chapter,0,0,0,,{November 1945}
-Comment: 0,2:32:03.98,2:32:03.98,Main,chapter,0,0,0,,{January 1946}
 Dialogue: 5,0:02:09.83,0:02:15.78,Song-EN,,0,0,0,,{\fad(400,0)\blur0.78\c&H655282&\fscx95}The sky's brilliance flows into my heart
 Dialogue: 4,0:02:09.83,0:02:15.78,Song-EN,,0,0,0,,{\fad(400,0)\blur5.019\c&HFFFFFF&\fscx95}The sky's brilliance flows into my heart
 Dialogue: 3,0:02:09.83,0:02:15.78,Song-EN,,0,0,0,,{\fad(400,0)\blur5.019\c&HFFFFFF&\fscx95}The sky's brilliance flows into my heart
@@ -252,7 +229,7 @@ Dialogue: 12,0:06:38.50,0:06:41.17,Main,,0,0,0,,{\an8}Nói chung cũng khó khă
 Dialogue: 12,0:06:41.17,0:06:42.63,Main,,0,0,0,,{\an8}Thấy bảo sắp xây cảng mới.
 Dialogue: 12,0:06:42.63,0:06:43.92,Main,,0,0,0,,{\an8}Vậy cơ à?
 Dialogue: 12,0:06:47.01,0:06:48.85,Main,,0,0,0,,{\an8}Ôi ban ngày mà chuột nó hoành hành kìa!
-Dialogue: 12,0:06:50.37,0:06:51.89,Main,,0,0,0,,{\i1}Cũng có chuyện này chuyện kia cơ mà...
+Dialogue: 12,0:06:50.34,0:06:51.89,Main,,0,0,0,,{\i1}Cũng có chuyện này chuyện kia cơ mà...
 Dialogue: 12,0:06:54.48,0:06:57.69,Main,,0,0,0,,{\i1}nhìn chung làm trẻ con không hề tệ.
 Dialogue: 12,0:06:57.69,0:07:00.11,Main,,0,0,0,,{\i1}Cảm giác như mình có thể nhìn ngắm được nhiều thứ.
 Dialogue: 12,0:07:18.92,0:07:21.46,Main,,0,0,0,,X-Xin chào!
@@ -279,7 +256,7 @@ Dialogue: 12,0:08:36.79,0:08:40.92,Main,,0,0,0,,Suzu, đặt thấp hơn đi,\N 
 Dialogue: 12,0:08:42.67,0:08:45.25,Main,,0,0,0,,À mẹ ơi, cho con 2 sen được không?
 Dialogue: 12,0:08:45.25,0:08:46.92,Main,,0,0,0,,Con làm rơi mất bút chì rồi.
 Dialogue: 12,0:08:46.92,0:08:48.26,Main,,0,0,0,,Kiên nhẫn chờ tiền tiêu vặt đi.
-Dialogue: 12,0:08:49.76,0:08:52.47,Main,,0,0,0,,Bớt vẽ vời nghuệch ngoạc đi là đâu vào đấy thôi.
+Dialogue: 12,0:08:49.76,0:08:52.47,Main,,0,0,0,,Bớt vẽ vời nguệch ngoạc đi là đâu vào đấy thôi.
 Dialogue: 12,0:08:55.31,0:08:57.93,Main,,0,0,0,***,Sumi-chan, đổi bút chì với chị nhé?
 Dialogue: 12,0:08:57.93,0:08:58.52,Main,,0,0,0,,Ứ~
 Dialogue: 12,0:08:58.52,0:09:02.56,Main,,0,0,0,***,Suzu này, \NMizuhara Tetsu-kun có tới trường thường xuyên không?
@@ -314,11 +291,11 @@ Dialogue: 12,0:10:32.56,0:10:35.99,Main,,800,0,0,,Làm cái gì thế hả! Tr�
 Dialogue: 12,0:10:38.01,0:10:39.33,Main,,0,0,0,,Ôi không!
 Dialogue: 12,0:10:40.47,0:10:43.23,Main,,0,0,0,,Mới hôm kia cũng làm rơi xuống \Nđúng cái lỗ này mà!
 Dialogue: 12,0:10:43.23,0:10:45.04,Main,,0,0,0,,Suzu-chan, tội nghiệp~
-Dialogue: 12,0:10:51.34,0:10:54.43,Main,,0,0,0,,Thế thì lối cái này ra nhúng vào mực mà vẽ.
+Dialogue: 12,0:10:51.34,0:10:54.43,Main,,0,0,0,,Thế thì lôi cái này ra nhúng vào mực mà vẽ.
 Dialogue: 12,0:10:54.43,0:10:56.14,Main,,0,0,0,,Au au ui!
 Dialogue: 12,0:10:56.14,0:10:57.85,Main,,0,0,0,,Thôi! Thả cậu ấy ra đi!
 Dialogue: 12,0:10:57.85,0:10:58.76,Main,,0,0,0,,Thôi cơ mà!
-Dialogue: 12,0:11:01.06,0:11:06.60,Main,,0,0,0,,"Hễ thấy Mizuhara thì tức tốc chạy ngay!",\N sao mình lại quên cái phương châm này của con gái chứ.
+Dialogue: 12,0:11:01.06,0:11:06.40,Main,,0,0,0,,"Hễ thấy Mizuhara thì tức tốc chạy ngay!",\N sao mình lại quên cái phương châm này của con gái chứ.
 Dialogue: 12,0:11:10.07,0:11:12.34,Main,,0,0,0,,Hôm nay chủ đề vẽ tự do.
 Dialogue: 12,0:11:12.34,0:11:14.82,Main,,0,0,0,,Ai nộp trước thì về trước.
 Dialogue: 12,0:11:14.82,0:11:15.91,Main,,0,0,0,,Vâng!
@@ -333,9 +310,9 @@ Dialogue: 12,0:11:36.22,0:11:38.70,Main,,0,0,0,,Con đi nhặt lá rụng về n
 Dialogue: 12,0:11:38.70,0:11:40.55,Main,,0,0,0,,Nhờ con nhé!
 Dialogue: 12,0:11:58.74,0:12:04.63,Main,,0,0,0,***,Mizuhara-san, chưa vẽ được gì \Nthì chưa về nhà được đâu.
 Dialogue: 12,0:12:04.63,0:12:05.58,Main,,0,0,0,,Không về.
-Dialogue: 12,0:12:06.51,0:12:10.51,Main,,0,0,0,,Bố mẹ chẳng còn đi làm rong biển,\N suốt ngày chỉ rượu chè.
+Dialogue: 12,0:12:06.51,0:12:10.51,Main,,0,0,0,,Bố mẹ tao chẳng còn đi làm rong biển,\N suốt ngày chỉ rượu chè.
 Dialogue: 12,0:12:10.51,0:12:11.88,Main,,0,0,0,,Mà tao ghét biển.
-Dialogue: 12,0:12:12.67,0:12:14.08,Main,,0,0,0,,Vẽ vời gì.
+Dialogue: 12,0:12:12.67,0:12:14.08,Main,,0,0,0,,Vẽ vời nỗi gì.
 Dialogue: 12,0:12:14.08,0:12:15.63,Main,,0,0,0,,Urano, đưa tay đây.
 Dialogue: 12,0:12:20.50,0:12:21.30,Main,,0,0,0,,Cầm đi.
 Dialogue: 12,0:12:23.70,0:12:25.19,Main,,0,0,0,,Hả?! Cơ mà...
@@ -352,7 +329,7 @@ Dialogue: 12,0:12:54.38,0:12:55.17,Main,,0,0,0,,Thèm vào!
 Dialogue: 12,0:12:56.00,0:13:00.68,Main,,0,0,0,***,"Hễ nhìn thấy anh trai Urano thì tức tốc chạy ngay!",\N phương châm của đám con trai đấy.
 Dialogue: 12,0:13:02.86,0:13:03.89,Main,,0,0,0,,Thế nhưng...
 Dialogue: 12,0:13:04.86,0:13:09.64,Main,,0,0,0,,...vẫn còn tốt hơn tên ngốc nào đó học Trường Hải quân\N mà bị chết đuối.
-Dialogue: 12,0:13:10.80,0:13:14.65,Main,,0,0,0,,Cậu không nói điều nhỉ!\N Giống đàn thỏ trắng thật này.
+Dialogue: 12,0:13:10.80,0:13:14.65,Main,,0,0,0,,Cậu nói không sai,\N giống đàn thỏ trắng thật này.
 Dialogue: 12,0:13:16.97,0:13:18.27,Main,,0,0,0,,Xong rồi.
 Dialogue: 12,0:13:18.27,0:13:19.65,Main,,0,0,0,,Tao gom đầy rồi này.
 Dialogue: 12,0:13:19.65,0:13:20.99,Main,,0,0,0,,C-Cảm ơn.
@@ -360,7 +337,7 @@ Dialogue: 12,0:13:22.55,0:13:24.70,Main,,0,0,0,,Rồi rồi! Toàn làm chuyện
 Dialogue: 12,0:13:25.33,0:13:28.09,Main,,0,0,0,,Giờ vẽ xong rồi thì về nhà thôi nhờ.
 Dialogue: 12,0:13:28.75,0:13:29.71,Main,,0,0,0,,Mà vẽ như này...
 Dialogue: 12,0:13:30.55,0:13:32.46,Main,,0,0,0,,thì tao ghét biển kiểu gì đây.
-Dialogue: 12,0:13:39.14,0:13:43.51,Main,,0,0,0,,{\i1}Hải quân Đế quốc Nhật Bản tiến hành các hoạt động \Nkhắp vùng biển phía Đông Thái Bình Dương...
+Dialogue: 12,0:13:39.14,0:13:43.51,Main,,0,0,0,,{\i1}Hải quân Đế quốc Nhật Bản tiến hành các động thái \Nkhắp vùng biển phía Đông Thái Bình Dương...
 Dialogue: 12,0:13:43.51,0:13:48.22,Main,,0,0,0,,{\t(3739,4710,\c&H000000&\3c&H000000&\4c&H000000&)}Hoan Hô! Hoan Hô! Hoan Hô!
 Dialogue: 12,0:13:49.35,0:13:53.02,Main,,0,0,0,,Con gái nhà Morita ơi! \NQua đây tốt hơn này.
 Dialogue: 12,0:13:53.02,0:13:53.69,Main,,0,0,0,,Vâng.
@@ -368,7 +345,7 @@ Dialogue: 12,0:13:55.61,0:13:56.19,Main,,0,0,0,,Ôi chà~
 Dialogue: 12,0:13:56.69,0:13:59.07,Main,,0,0,0,,Quân phục đẹp thế chứ nị.
 Dialogue: 12,0:14:02.61,0:14:04.20,Main,,0,0,0,,Ui lạnh quá~
 Dialogue: 12,0:14:15.85,0:14:17.62,Main,,0,0,0,,Có tay nghề đấy.
-Dialogue: 12,0:14:17.62,0:14:20.30,Main,,0,0,0,,Được rồi, giờ ăn trưa nào.
+Dialogue: 12,0:14:17.62,0:14:20.30,Main,,0,0,0,,Được rồi, vào ăn trưa nào.
 Dialogue: 12,0:14:21.01,0:14:21.84,Main,,0,0,0,,Vâng!
 Dialogue: 12,0:14:22.66,0:14:23.84,Main,,0,0,0,,Xa~
 Dialogue: 12,0:14:25.39,0:14:28.42,Main,,0,0,0,***,Suzu-neechan sẽ đi lấy chồng xa đấy.
@@ -420,7 +397,7 @@ Dialogue: 12,0:17:10.77,0:17:15.06,Main,,0,0,0,,Chà~ Tìm nhà anh chị đúng
 Dialogue: 12,0:17:15.06,0:17:20.85,Main,,0,0,0,,Thì 3 năm trước người ta đắp bãi cải tạo đất ngoài khơi bờ biển Eba\N nên phải bỏ nghề mà.
 Dialogue: 12,0:17:21.92,0:17:24.23,Main,,0,0,0,,Cháu nó sắp về rồi đấy ạ.
 Dialogue: 12,0:17:24.23,0:17:25.28,Main,,0,0,0,,Dạ.
-Dialogue: 12,0:17:25.28,0:17:28.39,Main,,0,0,0,,{\i1}Mình chả biết là có nên hay là không nữa.
+Dialogue: 12,0:17:25.28,0:17:28.39,Main,,0,0,0,,{\i1}Mình chả biết là nên hay là không nữa.
 Dialogue: 12,0:17:27.19,0:17:28.39,Main,,0,0,0,,{\an8}Xin mời!
 Dialogue: 12,0:17:28.39,0:17:34.08,Main,,0,0,0,,{\i1}Nhưng chả hiểu sao, \Nlại cảm thấy có vị caramel lan tỏa trong miệng.
 Dialogue: 12,0:17:34.08,0:17:35.41,Main,,0,0,0,,Rét quá!
@@ -431,13 +408,13 @@ Dialogue: 12,0:17:47.05,0:17:47.80,Main,,0,0,0,,Dạ?
 Dialogue: 12,0:17:49.65,0:17:51.93,Main,,0,0,0,,Chúng tôi bị lạc đường.
 Dialogue: 12,0:17:51.93,0:17:53.80,Main,,0,0,0,,Đường nào ra được ga ạ?
 Dialogue: 12,0:17:54.30,0:17:55.22,Main,,0,0,0,,Lối này ạ.
-Dialogue: 12,0:17:55.22,0:17:56.54,Main,,0,0,0,,Thank you.
+Dialogue: 12,0:17:55.22,0:17:56.54,Main,,0,0,0,,Làm phiền cô rồi.
 Dialogue: 12,0:17:56.54,0:18:00.30,Main,,0,0,0,,Một thủy thủ tốt bụng \Nđã chỉ đường cho chúng tôi rồi cơ mà...
 Dialogue: 12,0:18:00.30,0:18:03.81,Main,,0,0,0,,À à, anh ta thì hơi có vấn đề đấy ạ.
 Dialogue: 12,0:18:04.47,0:18:09.31,Main,,0,0,0,,Họ kể là nhờ một cô gái kỳ lạ trong rừng dẫn đường\N mới về được tới nhà.
 Dialogue: 12,0:18:13.67,0:18:17.41,Main,,0,0,0,,{\i1}Lỡ mà lần này mình đầu óc trên mây thì sao nhở?
-Dialogue: 12,0:18:18.41,0:18:21.58,Main,,0,0,0,,{\i1}Chả biết là đã bao lâu rồi nhở?
-Dialogue: 12,0:18:31.42,0:18:32.72,Main,,0,0,0,,Trông ổn nhỉ?
+Dialogue: 12,0:18:18.41,0:18:21.58,Main,,0,0,0,,{\i1}Chả biết giờ là mấy giờ nữa.
+Dialogue: 12,0:18:31.42,0:18:32.72,Main,,0,0,0,,Trông được chứ nhỉ?
 Dialogue: 12,0:18:32.72,0:18:37.93,Main,,0,0,0,,Xin quý khách hãy đóng cửa sổ hướng nhìn ra biển.
 Dialogue: 12,0:18:46.98,0:18:48.98,Main,,0,0,0,,Ai đó mở cửa ra đi.
 Dialogue: 12,0:18:53.20,0:18:54.99,Main,,0,0,0,,{\an8\i1\fad(0,100)}Kure.
@@ -449,7 +426,7 @@ Dialogue: 12,0:19:20.81,0:19:23.89,Main,,0,0,0,,Xe buýt chạy than đó\N khô
 Dialogue: 12,0:19:23.89,0:19:26.81,Main,,800,0,0,***,Ôi, Kobayashi-san.
 Dialogue: 12,0:19:24.89,0:19:26.81,Main,,0,800,0,,Xin chào!
 Dialogue: 12,0:19:26.81,0:19:30.23,Main,,0,0,0,***,Kobayashi-san, \Nhôm nay mong được gia đình chiếu cố.
-Dialogue: 12,0:19:30.23,0:19:32.82,Main,,0,0,0,,Thời tiết nay ủng hộ là tốt rồi.
+Dialogue: 12,0:19:30.23,0:19:32.82,Main,,0,0,0,,Thời tiết nay thuận như này là tốt rồi.
 Dialogue: 12,0:19:33.94,0:19:36.32,Main,,0,0,0,,Từ nay mong {\i1}mẹ{\i0} chiếu cố ạ.
 Dialogue: 12,0:19:36.32,0:19:38.78,Main,,0,0,0,,Con còn nhiều thiếu sót\N nhưng sẽ cố gắng làm nàng dâu tốt ạ.
 Dialogue: 12,0:19:38.78,0:19:41.57,Main,,0,0,0,,Bác là Kobayashi, bác của Shūsaku.
@@ -465,11 +442,11 @@ Dialogue: 12,0:20:10.61,0:20:14.07,Main,,0,0,0,,{\an8}Con gái nhà tôi cũng n
 Dialogue: 12,0:20:14.80,0:20:16.71,Main,,0,0,0,,{\an8}Cháu nhà tôi cũng thế.
 Dialogue: 12,0:20:12.07,0:20:13.11,Main,,0,0,0,***,Suzu-chan!
 Dialogue: 12,0:20:13.73,0:20:14.99,Main,,0,0,0,,Ôi không!
-Dialogue: 12,0:20:14.99,0:20:17.49,Main,,0,0,0,,Mất công diện kimono đẹp vậy mà.
+Dialogue: 12,0:20:14.99,0:20:17.49,Main,,0,0,0,,Mất công diện kimono đẹp cơ mà.
 Dialogue: 12,0:20:19.57,0:20:20.57,Main,,0,0,0,,Ơ kìa! Suzu!
 Dialogue: 12,0:20:20.57,0:20:22.53,Main,,0,0,0,,Sao lại cởi ngay ở đây hả!
 Dialogue: 12,0:20:29.75,0:20:31.75,Main,,0,0,0,,Ôi trời thịnh soạn quá!
-Dialogue: 12,0:20:31.75,0:20:34.80,Main,,0,0,0,,Tiếc là anh vợ lại không thể góp mặt.
+Dialogue: 12,0:20:31.75,0:20:34.80,Main,,0,0,0,,Tiếc là anh vợ lại không thể góp vui.
 Dialogue: 12,0:20:34.80,0:20:37.09,Main,,0,0,0,,Nhìn chỗ này mà xem!
 Dialogue: 12,0:20:37.09,0:20:41.43,Main,,0,0,0,***,Được anh chị thông gia mang sang \Nbao nhiêu là rong biển và rau đấy ạ.
 Dialogue: 12,0:20:37.59,0:20:42.89,Main,,0,0,0,,{\an8}Ăn mạnh lên nhé!\N Có đủ cho mọi người ăn cả bữa tối luôn đấy.
@@ -478,11 +455,11 @@ Dialogue: 12,0:20:46.73,0:20:50.06,Main,,0,0,0,,Tốt rồi nhá! Anh ấy có v
 Dialogue: 12,0:20:50.06,0:20:52.27,Main,,0,0,0,,Thì đang trang trọng ai lại làm ầm lên chứ.
 Dialogue: 12,0:20:52.27,0:20:54.94,Main,,0,800,0,,Nói không biết ngượng à!
 Dialogue: 12,0:20:52.69,0:20:54.94,Main,,800,0,0,,Có con thì có!
-Dialogue: 12,0:20:55.48,0:20:58.28,Main,,0,0,0,,Thôi chào, nào về chơi nhé!
+Dialogue: 12,0:20:55.48,0:20:58.28,Main,,0,0,0,,Thôi chào nhé! Nào về chơi nha!
 Dialogue: 12,0:20:58.28,0:21:00.45,Main,,0,0,0,,Chào nhé!
 Dialogue: 12,0:21:02.24,0:21:03.58,Main,,0,0,0,,Gặp lại sau.
-Dialogue: 12,0:21:08.25,0:21:10.71,Main,,0,0,0,,{\i1}Ơ xem nào... {\alpha&HFF&}là ai ấy nhở?
-Dialogue: 12,0:21:10.71,0:21:12.13,Main,,0,0,0,,{\i1}Ơ xem nào... là ai ấy nhở?
+Dialogue: 12,0:21:08.25,0:21:10.71,Main,,0,0,0,,{\i1}Ơ xem nào... {\alpha&HFF&}ai đây nhở?
+Dialogue: 12,0:21:10.71,0:21:12.13,Main,,0,0,0,,{\i1}Ơ xem nào... ai đây nhở?
 Dialogue: 12,0:21:12.13,0:21:13.34,Main,,0,0,0,,Giờ có con dâu rồi,
 Dialogue: 12,0:21:13.88,0:21:17.51,Main,,0,0,0,,cứ để mọi việc cho con nó lo, yên tâm nghỉ ngơi đi.
 Dialogue: 12,0:21:17.51,0:21:18.42,Main,,0,0,0,,Vâng.
@@ -491,14 +468,14 @@ Dialogue: 12,0:21:24.43,0:21:26.22,Main,,0,0,0,,Ấy chết, cả bố mẹ nữ
 Dialogue: 12,0:21:26.93,0:21:29.94,Main,,0,0,0,,Gần đây mẹ hay đau chân.
 Dialogue: 12,0:21:29.94,0:21:32.73,Main,,0,0,0,***,Nhờ cả vào con nha, Suzu-san.
 Dialogue: 12,0:21:32.73,0:21:33.61,Main,,0,0,0,,Vâng.
-Dialogue: 12,0:21:34.61,0:21:36.15,Main,,0,0,0,,Làm phiền con rồi.
-Dialogue: 12,0:21:36.15,0:21:38.86,Main,,0,0,0,,Để Keiko nấu là nó cứ cháy à.
+Dialogue: 12,0:21:34.61,0:21:36.14,Main,,0,0,0,,Làm phiền con rồi.
+Dialogue: 12,0:21:36.14,0:21:38.86,Main,,0,0,0,,Để Keiko nấu là nó cứ cháy à.
 Dialogue: 12,0:21:38.86,0:21:42.95,Main,,0,0,0,***,À~ Ra là chị chồng, người cũng đi lấy chồng.
 Dialogue: 12,0:22:01.80,0:22:04.18,Main,,0,0,0,,Là diễn tập chiếu sáng của hải quân.
 Dialogue: 12,0:22:05.43,0:22:08.81,Main,,0,0,0,,{\i1}Chả biết mình đã đến đâu nữa.
 Dialogue: 12,0:22:15.52,0:22:18.86,Main,,0,0,0,,Cảm ơn anh vì tấm nệm.
 Dialogue: 12,0:22:18.86,0:22:20.11,Main,,0,0,0,,Ừm.
-Dialogue: 12,0:22:24.61,0:22:26.20,Main,,0,0,0,***,Ờ, Suzu-san?
+Dialogue: 12,0:22:24.61,0:22:26.20,Main,,0,0,0,,Ờ, Suzu-san?
 Dialogue: 12,0:22:26.20,0:22:26.91,Main,,0,0,0,,Dạ?
 Dialogue: 12,0:22:27.99,0:22:30.62,Main,,0,0,0,,Em có mang theo ô không?
 Dialogue: 12,0:22:34.54,0:22:36.63,Main,,0,0,0,,Có! Mới tinh ạ...
@@ -508,9 +485,9 @@ Dialogue: 12,0:22:48.47,0:22:49.14,Main,,0,0,0,,Nè.
 Dialogue: 12,0:22:49.85,0:22:52.89,Main,,0,0,0,,Chà~ Đói thật đấy.
 Dialogue: 12,0:22:56.94,0:22:59.15,Main,,0,0,0,,Sao thế? Vẫn còn chát à?
 Dialogue: 12,0:23:00.65,0:23:03.40,Main,,0,0,0,,Cả ngày nay anh không ăn gì đúng không?
-Dialogue: 12,0:23:04.07,0:23:07.20,Main,,0,0,0,,Thấy anh biết đường ăn là em yên tâm rồi.
+Dialogue: 12,0:23:04.07,0:23:07.16,Main,,0,0,0,,Thấy anh {\i1}biết đường ăn{\i0} là em yên tâm rồi.
 Dialogue: 12,0:23:08.03,0:23:10.58,Main,,0,0,0,,À ờ, yên tâm đi, yên tâm đi.
-Dialogue: 12,0:23:10.58,0:23:12.00,Main,,0,0,0,,Anh vừa nuốt cả luôn rồi.
+Dialogue: 12,0:23:10.58,0:23:12.00,Main,,0,0,0,,Anh vừa nuốt trọn luôn rồi.
 Dialogue: 12,0:23:12.66,0:23:14.04,Main,,0,0,0,,Biết đường ăn mà.
 Dialogue: 12,0:23:16.00,0:23:20.25,Main,,0,0,0,,Dạ thưa... chúng ta đã từng gặp nhau rồi ạ?
 Dialogue: 12,0:23:21.59,0:23:23.76,Main,,0,0,0,,Gặp rồi. Em còn nhớ chứ?
@@ -536,21 +513,21 @@ Dialogue: 12,0:25:35.35,0:25:36.22,Main,,0,0,0,,Tôi là Chita.
 Dialogue: 12,0:25:36.22,0:25:37.52,Main,,0,0,0,,Tôi Kariya.
 Dialogue: 12,0:25:42.44,0:25:43.69,Main,,0,0,0,,Này lại nữa rồi.
 Dialogue: 12,0:25:43.69,0:25:45.57,Main,,0,0,0,,Chả đong cẩn thận gì cả.
-Dialogue: 12,0:25:45.94,0:25:47.98,Main,,0,0,0,,Đang ước lượng bằng mắt đúng không!
+Dialogue: 12,0:25:45.94,0:25:47.98,Main,,0,0,0,,Đang đong bằng mắt đúng không!
 Dialogue: 12,0:25:47.98,0:25:48.69,Main,,0,0,0,,Không nhá!
 Dialogue: 12,0:25:48.69,0:25:49.94,Main,,0,0,0,,Chả chia đều gì hết.
 Dialogue: 12,0:25:49.94,0:25:51.07,Main,,0,0,0,,Đều hết!
 Dialogue: 12,0:25:51.07,0:25:52.49,Main,,0,0,0,,Chán chuyện!
 Dialogue: 12,0:25:52.49,0:25:53.53,Main,,0,0,0,,Sao nào?
 Dialogue: 12,0:25:53.53,0:25:56.24,Main,,0,0,0,,Đúng là đến chịu luôn.
-Dialogue: 12,0:25:56.24,0:25:57.58,Main,,0,0,0,,Đâu đâu?
+Dialogue: 12,0:25:56.24,0:25:57.58,Main,,0,0,0,,Đâu nào!
 Dialogue: 12,0:25:57.58,0:25:59.70,Main,,0,0,0,,Hahaha~ Còn trẻ còn khỏe~
-Dialogue: 12,0:25:59.70,0:26:01.58,Main,,0,0,0,,It's gonna fall!
+Dialogue: 12,0:25:59.70,0:26:01.58,Main,,0,0,0,,Coi chừng đổ.
 Dialogue: 12,0:26:08.30,0:26:09.59,Main,,0,0,0,,Cháu xin lỗi ạ!
 Dialogue: 12,0:26:10.05,0:26:13.43,Main,,0,0,0,,...không thể không kể đến khả năng là cực kỳ lớn.
 Dialogue: 12,0:26:13.43,0:26:19.39,Main,,0,0,0,,Nếu... bom cháy rơi xuống,\N thì trước hết cần phản ứng nhanh nhạy.
 Dialogue: 12,0:26:19.77,0:26:20.60,Main,,0,0,0,,{\an8}Đây là...
-Dialogue: 12,0:26:20.27,0:26:22.89,Main,,0,0,0,,Ngồi dịch vào.
+Dialogue: 12,0:26:20.27,0:26:22.89,Main,,0,0,0,,Ngồi dịch vào đây.
 Dialogue: 12,0:26:22.89,0:26:25.10,Main,,0,0,0,,Chỗ này lạnh lắm đấy.
 Dialogue: 12,0:26:26.19,0:26:26.86,Main,,0,0,0,,Vâng.
 Dialogue: 12,0:26:28.44,0:26:31.61,Main,,0,0,0,,{\i1}Và thế là đây trở thành nếp sống hàng ngày.
@@ -568,20 +545,20 @@ Dialogue: 12,0:27:21.16,0:27:27.71,Main,,0,0,0,,Nhưng đâu thể cản đượ
 Dialogue: 12,0:27:27.71,0:27:31.96,Main,,0,0,0,,Vậy thì con cũng sẽ làm việc chăm chỉ\N để không thua kém.
 Dialogue: 12,0:27:33.89,0:27:37.43,Main,,0,0,0,,Hồi đó phải nói khó khăn thật.
 Dialogue: 12,0:27:37.43,0:27:42.43,Main,,0,0,0,,{\an8}Hoan hô! Hoan hô! Hoan hô!
-Dialogue: 12,0:27:38.57,0:27:41.81,Main,,0,0,0,,Khó khăn đến nỗi hoài niệm.
+Dialogue: 12,0:27:38.57,0:27:41.81,Main,,0,0,0,,Khó khăn đến nỗi hoài niệm quá đi thôi.
 Dialogue: 12,0:27:51.43,0:27:52.82,Main,,0,0,0,,Xin chào!
 Dialogue: 12,0:27:53.48,0:27:54.57,Main,,0,0,0,,Về rồi đây!
 Dialogue: 12,0:27:55.74,0:27:57.91,Main,,0,0,0,***,Mừng chị về nhà!
-Dialogue: 12,0:28:00.74,0:28:01.62,Main,,0,0,0,,Phát chán!
+Dialogue: 12,0:28:00.74,0:28:01.62,Main,,0,0,0,,Chán luôn!
 Dialogue: 12,0:28:04.04,0:28:07.96,Main,,0,0,0,,Sao lại chán chứ?\N Thời buổi này gạo là thứ hàng xa xỉ mà.
-Dialogue: 12,0:28:07.96,0:28:09.33,Main,,0,0,0,,Là nói cô ấy.
+Dialogue: 12,0:28:07.96,0:28:09.33,Main,,0,0,0,,Là nói cô đấy.
 Dialogue: 12,0:28:10.08,0:28:13.88,Main,,0,0,0,,Mang tiếng dân Hiroshima,\N tưởng đâu cô sành điệu hơn chứ.
 Dialogue: 12,0:28:13.88,0:28:16.34,Main,,0,0,0,,Mặc quần cái kiểu gì mà vá chằng vá đụp thế kia!
 Dialogue: 12,0:28:17.13,0:28:19.14,Main,,0,0,0,,Bà đang rang đỗ à?
 Dialogue: 12,0:28:19.14,0:28:21.85,Main,,0,0,0,***,Ôi chà~ Harumi-chan! Chào cháu!
-Dialogue: 12,0:28:21.85,0:28:25.22,Main,,0,0,0,,Mẹ gần đây cái gì cũng bực được ấy.
-Dialogue: 12,0:28:25.22,0:28:27.14,Main,,0,0,0,,Nên Harumi toàn im re.
-Dialogue: 12,0:28:26.56,0:28:30.10,Main,,0,0,0,,{\an8}Em xin lỗi, hiện tại em có mỗi vầy thôi.
+Dialogue: 12,0:28:21.85,0:28:25.22,Main,,0,0,0,,Mẹ cháu gần đây động cái là bực.
+Dialogue: 12,0:28:25.22,0:28:27.14,Main,,0,0,0,,Nên Harumi toàn im re à.
+Dialogue: 12,0:28:26.56,0:28:30.10,Main,,0,0,0,,{\an8}Em xin lỗi, hiện tại em có vậy thôi ạ.
 Dialogue: 12,0:28:27.14,0:28:28.35,Main,,0,0,0,,Cũng phải.
 Dialogue: 12,0:28:30.10,0:28:31.65,Main,,0,0,0,,{\an8}Vậy may đi! Ngay và luôn!
 Dialogue: 12,0:28:35.82,0:28:38.15,Main,,0,0,0,,Mà không phải đây biếu gạo đâu đấy.
@@ -604,7 +581,7 @@ Dialogue: 12,0:29:37.46,0:29:38.55,Main,,0,0,0,,Thế là xong!
 Dialogue: 12,0:29:38.55,0:29:39.55,Main,,0,0,0,,Được rồi.
 Dialogue: 12,0:29:43.14,0:29:44.72,Main,,0,0,0,***,Cháu là Kuromura Harumi ạ.
 Dialogue: 12,0:29:44.72,0:29:47.02,Main,,0,0,0,***,Mợ là Hōjo Suzu! Chào cháu.
-Dialogue: 12,0:29:48.14,0:29:50.10,Main,,0,0,0,***,Suzu-san, cho cháu 1 sợi dây nhé?
+Dialogue: 12,0:29:48.14,0:29:50.10,Main,,0,0,0,***,Suzu-san, cho cháu 1 sợi nhé?
 Dialogue: 12,0:29:51.06,0:29:52.48,Main,,0,0,0,,Cái này được không?
 Dialogue: 12,0:30:08.12,0:30:09.16,Main,,0,0,0,,Ui giời~
 Dialogue: 12,0:30:10.00,0:30:12.08,Main,,0,0,0,***,Suzu-san, mợ ra ngoài à?
@@ -622,14 +599,14 @@ Dialogue: 12,0:31:21.03,0:31:23.28,Main,,0,0,0,,Keiko và Harumi đấy à.
 Dialogue: 12,0:31:23.28,0:31:24.36,Main,,0,0,0,,Hai người thôi à?
 Dialogue: 12,0:31:24.36,0:31:25.91,Main,,0,0,0,,Mừng bố về.
 Dialogue: 12,0:31:25.91,0:31:27.78,Main,,0,0,0,,Mà cứ tự nhiên đi.
-Dialogue: 12,0:31:29.45,0:31:34.62,Main,,0,0,0,***,Lạ thế nhở~ Nay chị nếu cơm không bị cháy này.
+Dialogue: 12,0:31:29.45,0:31:34.62,Main,,0,0,0,***,Lạ thế nhở~ Nay chị nấu cơm không bị cháy này.
 Dialogue: 12,0:31:34.62,0:31:36.71,Main,,0,0,0,,Này nhá! Shūsaku!
 Dialogue: 12,0:31:36.71,0:31:38.42,Main,,0,0,0,***,Dạ thưa chị...
-Dialogue: 12,0:31:39.13,0:31:42.42,Main,,0,0,0,,Nhờ có chị mà mới sửa được bộ kimono.
+Dialogue: 12,0:31:39.13,0:31:42.42,Main,,0,0,0,,Nhờ có chị mà em mới sửa được bộ kimono.
 Dialogue: 12,0:31:44.05,0:31:45.59,Main,,0,0,0,,Có gì đâu.
 Dialogue: 12,0:31:45.59,0:31:48.34,Main,,0,0,0,,Chân mẹ bị thì bị đau ấy.
-Dialogue: 12,0:31:48.34,0:31:52.72,Main,,0,0,0,,Còn mợ thì phải tới đây trong khi \Nkhông biết gì về chỗ này cả.
-Dialogue: 12,0:31:52.72,0:31:56.19,Main,,0,0,0,,Giá như tôi có thể ở lại đây mãi thì đỡ hơn rồi.
+Dialogue: 12,0:31:48.34,0:31:52.72,Main,,0,0,0,,Còn mợ thì mới chân ướt chân ráo tới đây.
+Dialogue: 12,0:31:52.72,0:31:56.19,Main,,0,0,0,,Giá mà tôi có thể ở lại đây mãi thì đỡ hơn rồi.
 Dialogue: 12,0:31:57.19,0:32:01.19,Main,,0,0,0,***,Suzu-san, sao mợ không quay về Hiroshima đi nhỉ?
 Dialogue: 12,0:32:03.61,0:32:04.78,Main,,0,0,0,,Cũng được mà.
 Dialogue: 12,0:32:10.20,0:32:11.83,Main,,0,0,0,,Con về rồi đây.
@@ -673,7 +650,7 @@ Dialogue: 12,0:33:51.72,0:33:52.76,Main,,0,0,0,,Ui chà~
 Dialogue: 12,0:33:52.76,0:33:56.14,Main,,0,0,0,,Tự dưng lại được nghe bí mật Lục Quân.
 Dialogue: 12,0:33:56.14,0:33:58.22,Main,,0,0,0,***,Thế Suzu-chan sao rồi?
 Dialogue: 12,0:33:58.22,0:33:59.81,Main,,0,0,0,,Ở Kure tốt chứ?
-Dialogue: 12,0:33:59.81,0:34:03.98,Main,,0,0,0,,Ừm... Chả rõ nữa, có nhiều điều phải hoc lắm.
+Dialogue: 12,0:33:59.81,0:34:03.98,Main,,0,0,0,,Ưm~ Chả rõ nữa, có nhiều điều phải hoc lắm.
 Dialogue: 12,0:34:05.52,0:34:12.28,Main,,0,0,0,,Cảm giác như em vừa khám phá ra một bí mật Hải Quân.
 Dialogue: 12,0:34:12.28,0:34:13.20,Main,,0,0,0,,L-Là gì thế?
 Dialogue: 12,0:34:13.20,0:34:14.03,Main,,0,0,0,,Mà ngủ thôi!
@@ -692,23 +669,23 @@ Dialogue: 12,0:35:35.24,0:35:36.82,Main,,0,0,0,,{\i1}Tạm biệt, Hiroshima.
 Dialogue: 12,0:35:42.16,0:35:43.20,Main,,0,0,0,,Ơ?!
 Dialogue: 12,0:35:43.20,0:35:45.83,Main,,0,0,0,,Thế là quay về à?
 Dialogue: 12,0:35:45.83,0:35:48.92,Main,,0,0,0,,Thế này thì mặt mo với ông bà thông gia.
-Dialogue: 12,0:35:56.51,0:35:58.55,Main,,0,0,0,,{\t(1026,2040,\c&H000000&\3c&H000000&\4c&H000000&)}A~ Về rồi đây ạ.
-Dialogue: 12,0:36:00.39,0:36:02.56,Main,,0,0,0,***,{\i1}Chị chồng ở đây suốt.
+Dialogue: 12,0:35:56.51,0:35:58.55,Main,,0,0,0,,{\t(1026,2040,\c&H000000&\3c&H000000&\4c&H000000&)}A~ Em về rồi đây ạ.
+Dialogue: 12,0:36:00.39,0:36:02.56,Main,,0,0,0,***,{\i1}Chị chồng cứ ở đây suốt.
 Dialogue: 12,0:36:06.60,0:36:10.15,Main,,0,0,0,,Mẹ ơi, cho con mượn nghiên mực đi.
-Dialogue: 12,0:36:10.15,0:36:12.07,Main,,0,0,0,,Để làm thế Harumi?
+Dialogue: 12,0:36:10.15,0:36:12.07,Main,,0,0,0,,Để làm gì thế Harumi?
 Dialogue: 12,0:36:12.44,0:36:14.49,Main,,0,0,0,,Đi mà.
 Dialogue: 12,0:36:14.49,0:36:15.44,Main,,0,0,0,***,Này, Suzu-san!
 Dialogue: 12,0:36:16.40,0:36:18.07,Main,,0,0,0,,Mợ đã nói gì với Harumi thế?
 Dialogue: 12,0:36:19.95,0:36:23.16,Main,,0,0,0,,Bảng thông cáo... mang trả được chưa ạ?
 Dialogue: 12,0:36:23.16,0:36:24.29,Main,,0,0,0,,Cứ lấy đi.
 Dialogue: 12,0:36:25.70,0:36:27.12,Main,,0,0,0,,Con đi ạ.
-Dialogue: 12,0:36:27.12,0:36:31.25,Main,,0,0,0,,Từ khi trở về Hiroshima là con bé như vầy suốt.
+Dialogue: 12,0:36:27.12,0:36:31.25,Main,,0,0,0,,Từ khi trở về từ Hiroshima là con bé cứ vầy suốt.
 Dialogue: 12,0:36:31.25,0:36:33.21,Main,,0,0,0,,Kệ nó đi mẹ, còn trẻ con lắm.
-Dialogue: 12,0:36:33.21,0:36:35.84,Main,,0,0,0,,Vậy cảm ơn và xin phép ạ!
+Dialogue: 12,0:36:33.21,0:36:35.84,Main,,0,0,0,,Vậy cảm ơn ạ! Xin phép ạ!
 Dialogue: 12,0:36:36.51,0:36:37.59,Main,,0,0,0,,Nha! Nha!
 Dialogue: 12,0:36:37.59,0:36:39.47,Main,,0,0,0,,Không được là không được.
 Dialogue: 12,0:36:39.47,0:36:41.14,Main,,0,0,0,,Cho con mượn bút lông đi.
-Dialogue: 12,0:36:41.14,0:36:43.81,Main,,0,0,0,,Con cần nó làm gì đâu.\NKhông là không.
+Dialogue: 12,0:36:41.14,0:36:43.81,Main,,0,0,0,,Con có cần nó làm gì đâu.\NKhông là không.
 Dialogue: 12,0:37:08.16,0:37:09.37,Main,,0,0,0,,Mừng anh về.
 Dialogue: 12,0:37:11.00,0:37:13.13,Main,,0,0,0,,Hái rau dại à?
 Dialogue: 12,0:37:13.13,0:37:16.88,Main,,0,0,0,,Vâng, coi như làm món phụ cho bữa tối.
@@ -717,8 +694,8 @@ Dialogue: 12,0:37:21.89,0:37:23.64,Main,,0,0,0,,Ở Eba thì khác sao?
 Dialogue: 12,0:37:24.31,0:37:26.97,Main,,0,0,0,,Ồ~ Có màu vàng này.
 Dialogue: 12,0:37:29.37,0:37:31.65,Main,,0,0,0,,Khả năng nó đã phải đi cả một chặng đường dài.
 Dialogue: 12,0:37:33.65,0:37:36.65,Main,,0,0,0,,Cứ thắc mắc sao em trông ảm đạm thế.
-Dialogue: 12,0:37:36.65,0:37:38.57,Main,,0,0,0,,Ra là yêu mến Hiroshima đây mà.
-Dialogue: 12,0:37:38.57,0:37:39.86,Main,,0,0,0,,Không phải thế ạ.
+Dialogue: 12,0:37:36.65,0:37:38.57,Main,,0,0,0,,Ra là thương nhớ Hiroshima đây mà.
+Dialogue: 12,0:37:38.57,0:37:39.86,Main,,0,0,0,,Không phải đâu ạ.
 Dialogue: 12,0:37:46.29,0:37:48.25,Main,,0,0,0,,Xem đi! Kìa!
 Dialogue: 12,0:37:48.25,0:37:50.37,Main,,0,0,0,,Nay có tàu sân bay kìa.
 Dialogue: 12,0:37:50.37,0:37:52.37,Main,,0,0,0,,Hiyō​ và Junyō​ ha.
@@ -755,16 +732,16 @@ Dialogue: 12,0:39:26.26,0:39:29.22,Main,,0,0,0,***,Để con vẽ đầu cho m�
 Dialogue: 12,0:39:29.22,0:39:32.89,Main,,0,0,0,,Đã bảo là không rồi.\NKiểu gì con cũng bôi bẩn lung tung cho xem.
 Dialogue: 12,0:39:41.73,0:39:42.86,Main,,0,0,0,,Mẹ ơi!
 Dialogue: 12,0:39:43.19,0:39:46.61,Main,,0,0,0,,Lấy được từ chỗ phân bổ, hạt giống cải bó xôi.
-Dialogue: 12,0:39:47.95,0:39:50.12,Main,,0,0,0,,Rau chất lượng Tokyo đấy.
+Dialogue: 12,0:39:47.95,0:39:50.12,Main,,0,0,0,,Rau chất lượng Tōkyō đấy.
 Dialogue: 12,0:39:50.78,0:39:52.79,Main,,0,0,0,,Gieo ở đâu cũng lên hết.
-Dialogue: 12,0:39:54.04,0:39:58.54,Main,,0,0,0,,Mấy việc chân lấm tay bùn này làm mợ thạo lắm ha,\N Suzu-san?
+Dialogue: 12,0:39:54.04,0:39:58.54,Main,,0,0,0,,Mấy việc chân lấm tay bùn này là mợ thạo lắm nhỉ,\N Suzu-san?
 Dialogue: 12,0:39:58.92,0:39:59.84,Main,,0,0,0,,Vầng!
 Dialogue: 12,0:40:00.29,0:40:01.13,Main,,0,0,0,,Ôi giời~
 Dialogue: 12,0:40:02.63,0:40:04.76,Main,,0,0,0,,Đi gieo thôi nào.
 Dialogue: 12,0:40:07.26,0:40:12.26,Main,,0,0,0,,♪ Cho đến ngày ca khúc khải hoàn...
-Dialogue: 12,0:40:13.89,0:40:15.31,Main,,0,0,0,,Xin mời Harumi-san!
+Dialogue: 12,0:40:13.89,0:40:15.31,Main,,0,0,0,,Harumi-san, mời cháu!
 Dialogue: 12,0:40:41.50,0:40:46.09,Main,,0,0,0,,Tóm lại... {\i1}canh tác thử nghiệm{\i0} thế là đủ rồi.
-Dialogue: 12,0:40:45.34,0:40:50.51,Main,,0,0,0,,{\an8}Lớn tướng rồi còn đi nghịch ngợm với đứa nhóc 6 tuổi,\N Shūsaku ơi là Shūsaku, sao lại đi lấy vợ thế này chứ.
+Dialogue: 12,0:40:45.34,0:40:50.51,Main,,0,0,0,,{\an8}Lớn tướng rồi còn đi nghịch ngợm với đứa nhóc 6 tuổi,\N Shūsaku ơi là Shūsaku, lấy vợ cái kiểu gì thế này.
 Dialogue: 12,0:40:46.09,0:40:49.18,Main,,0,0,0,,Giờ là lúc canh tác trên ruộng rồi.
 Dialogue: 12,0:40:50.51,0:40:53.39,Main,,0,0,0,,Mẹ ơi! Yamato kìa.
 Dialogue: 12,0:40:53.81,0:40:57.56,Main,,0,0,0,,Còn tàu có ống khói như mũ thầy tu kia là Junyō.
@@ -787,15 +764,15 @@ Dialogue: 12,0:42:08.13,0:42:11.76,Main,,0,0,0,,{\i1}Và nếu cứ xếp hàng 
 Dialogue: 12,0:42:12.26,0:42:13.55,Main,,0,0,0,,À, hiểu rồi.
 Dialogue: 12,0:42:15.18,0:42:16.26,Main,,0,0,0,,{\i1}Tử linh lan.
 Dialogue: 12,0:42:16.68,0:42:18.22,Main,,0,0,0,,{\i1}Tinh thảo.
-Dialogue: 12,0:42:18.22,0:42:19.22,Main,,0,0,0,,{\i1}Tháp bút.
+Dialogue: 12,0:42:18.22,0:42:19.22,Main,,0,0,0,,{\i1}Cỏ tháp bút.
 Dialogue: 12,0:42:19.77,0:42:23.85,Main,,0,0,0,,{\i1}Bồ công anh, me đất, cá mòi khô, bã đậu,
 Dialogue: 12,0:42:23.85,0:42:27.78,Main,,0,0,0,,{\i1}Khoai tây, khoai lang, bột mì, mận ngâm.
-Dialogue: 12,0:42:30.53,0:42:33.49,Main,,0,0,0,,{\i1}Thái khoai lang... Hấp!
-Dialogue: 12,0:42:33.49,0:42:36.91,Main,,0,0,0,,{\i1}Trần sơ qua tháp bút... đem ngâm nước rồi thái nhỏ.
+Dialogue: 12,0:42:30.53,0:42:33.49,Main,,0,0,0,,{\i1}Thái khoai lang... rồi hấp!
+Dialogue: 12,0:42:33.49,0:42:36.91,Main,,0,0,0,,{\i1}Trần sơ qua cỏ tháp bút... đem ngâm nước rồi thái nhỏ.
 Dialogue: 12,0:42:36.91,0:42:41.04,Main,,0,0,0,,{\i1}Xong rồi đem trộn với khoai lang và bột mì, rồi dát mỏng.
 Dialogue: 12,0:42:41.04,0:42:42.83,Main,,0,0,0,,{\i1}Thế là xong bữa trưa.
-Dialogue: 12,0:42:42.83,0:42:45.00,Main,,0,0,0,,Mẹ con Keiko về cái yên ắng hẳn nhỉ.
-Dialogue: 12,0:42:45.46,0:42:47.92,Main,,0,0,0,,{\i1}Chỗ còn thừaa đem phơi khô gác bếp.
+Dialogue: 12,0:42:42.83,0:42:45.00,Main,,0,0,0,,Mẹ con Keiko về cái là yên ắng hẳn nhỉ.
+Dialogue: 12,0:42:45.46,0:42:47.92,Main,,0,0,0,,{\i1}Chỗ còn thừa đem phơi khô gác bếp.
 Dialogue: 12,0:42:49.38,0:42:51.34,Main,,0,0,0,,{\i1}Còn nữa, chưa xong...
 Dialogue: 12,0:42:51.34,0:42:54.51,Main,,0,0,0,,{\i1}Cho gấp 5 lần nước rồi ninh thành cháo.
 Dialogue: 12,0:42:55.51,0:42:58.85,Main,,0,0,0,,{\i1}Thêm khoai tây xắt nhỏ, ninh thêm 10 phút nữa.
@@ -807,128 +784,118 @@ Dialogue: 12,0:43:15.28,0:43:19.41,Main,,0,0,0,,{\i1}Bóp củ cải thái mỏn
 Dialogue: 12,0:43:21.12,0:43:24.54,Main,,0,0,0,,{\i1}Đun mận ngâm tới khi sôi thì...
 Dialogue: 12,0:43:24.54,0:43:29.29,Main,,0,0,0,,{\i1}thêm cá mòi khô vào, không đậy vung, đun tiếp cùng nước sốt.
 Dialogue: 12,0:43:29.29,0:43:31.34,Main,,0,0,0,,{\i1}Cuối cùng là nêm nếm gia vị.
-Dialogue: 12,0:43:31.34,0:43:35.01,Main,,0,0,0,***,Ồ, ra là Kariya-san dạy còn à.
-Dialogue: 12,0:43:35.01,0:43:39.47,Main,,0,0,0,,Tại khẩu phần gạo được phân chỉ còn một nửa,\N nên là nấu cháo kèm với nhiều khoai tây.
+Dialogue: 12,0:43:31.34,0:43:35.01,Main,,0,0,0,***,Ồ, ra là Kariya-san dạy con à.
+Dialogue: 12,0:43:35.01,0:43:39.47,Main,,0,0,0,,Tại khẩu phần gạo được phân chỉ còn một nửa,\N nên là nấu cháo độn khoai tây.
 Dialogue: 12,0:43:39.47,0:43:40.51,Main,,0,0,0,,Vậy à.
 Dialogue: 12,0:43:40.51,0:43:42.56,Main,,0,0,0,,Yên tâm mai con còn nấu ngon hơn nữa.
-Dialogue: 12,0:43:43.52,0:43:49.69,Main,,0,0,0,,{\i1}The loyal samurai, Kusunoki, devised a recipe to bulk up ration{*meal} size during a siege.{Alt (official): 'The loyal samurai Kusunoki devised the “food increase recipe/method” during a siege.' I think it's about bulking up ration size while maintaining the same raw ingredient weight and therefore saving food supplies from being exhuasted quicker than it normally would. 忠臣楠木公が籠城に耐ゆるため　発明したる食糧増量の法}
-Dialogue: 12,0:43:51.19,0:43:52.07,Main,,0,0,0,,{\i1}First:
-Dialogue: 12,0:43:52.07,0:43:54.03,Main,,0,0,0,,{\i1}Toast and brown some rice.
-Dialogue: 12,0:43:54.99,0:43:58.95,Main,,0,0,0,,{\i1}Add triple the normal amount of water and gently simmer the rice.
-Dialogue: 12,0:44:00.49,0:44:04.45,Main,,0,0,0,,{\i1}If you're saving rice, then you have to save energy, too.{Alt: 'Saving rice is pointless if you're wasting energy.' Official: 'Saving rice and energy must go hand in hand.' 節米しても　燃料を無駄にしては　つまらない}
-Dialogue: 12,0:44:04.45,0:44:09.75,Main,,0,0,0,,{\i1}Leave it to the fireless stove of the Great Empire of Japan.{Alt: Let the fireless stove of the Great Empire of Japan do it's work and...}
-Dialogue: 12,0:44:10.54,0:44:12.38,Main,,0,0,0,,{\i1}Let it sit overnight.
-Dialogue: 12,0:44:14.92,0:44:20.26,Main,,0,0,0,,{\i1}Add miso and violets to yesterday's sardine stew.
-Dialogue: 12,0:44:21.18,0:44:24.31,Main,,0,0,0,,{\i1}On the stove, reheat the rice to a boil.{Alt: Put the rice back on the heat and bring to a boil. ご飯は再び火にかけ　沸騰させておく}
-Dialogue: 12,0:44:24.85,0:44:26.35,Main,,0,0,0,,{\i1}And it's done!
-Dialogue: 12,0:44:26.35,0:44:29.69,Main,,0,0,0,,{\i1}Samurai Kusunoki's special, “Nankomeshi,” is served!
-Dialogue: 12,0:44:30.56,0:44:32.86,Main,,0,0,0,***,{\i1}This one is Father's obento.{Alt: This one is Father's packed lunch. MTBB: Let's pack up a lunch for the father-in-law.}
-Dialogue: 12,0:44:35.40,0:44:37.78,Main,,0,0,0,,We have lots of rice today.
-Dialogue: 12,0:44:37.78,0:44:39.28,Main,,0,0,0,,The grains are swollen.
-Dialogue: 12,0:44:39.28,0:44:41.91,Main,,0,0,0,,I've never seen rice cooked this way.
-Dialogue: 12,0:44:41.91,0:44:44.79,Main,,0,0,0,,All right! Let's eat.
-Dialogue: 12,0:44:42.66,0:44:44.79,Main,,0,0,0,,Let's eat.
-Dialogue: 12,0:44:54.88,0:44:55.46,Main,,0,0,0,,We're off.
-Dialogue: 12,0:44:55.46,0:44:56.42,Main,,0,0,0,,I'm sorry.
-Dialogue: 12,0:44:56.42,0:45:03.18,Main,,0,0,0,,{\fscx99\q2}Samurai Kusunoki must have been a great man indeed if he gladly stomached food like that.{あれを　喜んで飯上がる楠木公は　ほんまの高潔なんじゃろうね}
-Dialogue: 12,0:45:03.18,0:45:04.85,Main,,0,0,0,,That's for sure.
-Dialogue: 12,0:45:09.19,0:45:10.44,Main,,0,0,0,,Oh, it's empty.
-Dialogue: 12,0:45:13.40,0:45:14.69,Main,,0,0,0,,And curry powder?
-Dialogue: 12,0:45:27.58,0:45:31.46,Main,,0,0,0,,{\an8\fad(0,975)}Air raid warning!{It's the most normal thing an English speaker would say. Alt: 'Watch and act!' More literally: 'Precautionary alert issued!' 警戒警報発令}
-Dialogue: 12,0:45:32.58,0:45:36.09,Main,,0,0,0,,{\i1}Air raid alert!{空襲警報発令 this is actually air-raid warning/alert}
-Dialogue: 12,0:45:42.51,0:45:44.81,Main,,0,0,0,,There's nothing on the radio.
-Dialogue: 12,0:45:44.81,0:45:47.27,Main,,0,0,0,,ls Shūsaku off to work already?
-Dialogue: 12,0:45:47.27,0:45:48.02,Main,,0,0,0,,Yes.
-Dialogue: 12,0:45:48.02,0:45:53.90,Main,,0,0,0,,Well, estimates of the enemy's range put only Kyushu in danger for now.
-Dialogue: 12,0:45:53.90,0:45:56.73,Main,,0,0,0,,No need to run to the mountains yet.
-Dialogue: 12,0:45:58.19,0:45:59.86,Main,,0,0,0,,It's only a blackout.
-Dialogue: 12,0:46:02.86,0:46:05.41,Main,,0,0,0,,Don't fall now.
-Dialogue: 12,0:46:05.41,0:46:07.70,Main,,0,0,0,,They're tearing houses down, now.
-Dialogue: 12,0:46:08.37,0:46:11.08,Main,,0,0,0,,They need to build firebreaks throughout the city.
-Dialogue: 12,0:46:11.08,0:46:12.08,Main,,0,0,0,,Oh...
-Dialogue: 12,0:46:12.08,0:46:15.46,Main,,0,0,0,,Well, I don't think we need to worry about that here.
-Dialogue: 12,0:46:15.46,0:46:17.38,Main,,0,0,0,,That's terrible.
-Dialogue: 12,0:46:17.38,0:46:19.88,Main,,0,0,0,,I hope they can find a place to live.
-Dialogue: 12,0:46:20.55,0:46:22.18,Main,,0,0,0,,Oh, thank you.
-Dialogue: 12,0:46:23.05,0:46:24.93,Main,,0,0,0,,You're welcome.
-Dialogue: 12,0:46:25.80,0:46:28.35,Main,,0,0,0,,If you need firewood, I have plenty.
-Dialogue: 12,0:46:28.35,0:46:30.98,Main,,0,0,0,,My house was torn down.{MTBB: My house got pruned.}
-Dialogue: 12,0:46:30.98,0:46:31.94,Main,,0,0,0,,Oh no.
-Dialogue: 12,0:46:32.60,0:46:35.44,Main,,0,0,0,,My family's moving to Shimonoseki.
-Dialogue: 12,0:46:35.44,0:46:36.23,Main,,0,0,0,,{\an2}What?
-Dialogue: 12,0:46:36.23,0:46:38.32,Main,,0,0,0,,So I figured I might as well break ties with them.{MTBB did good}
-Dialogue: 12,0:46:38.32,0:46:39.32,Main,,0,0,0,,Huh?!
-Dialogue: 12,0:46:39.99,0:46:43.45,Main,,0,0,0,,Don't worry. I'll find myself a job and start working.{go to work; get working}
-Dialogue: 12,0:46:44.36,0:46:47.28,Main,,0,0,0,,It needs to fit a few more people.{Alt: There will be more of us in there now, so...}
-Dialogue: 12,0:46:47.28,0:46:49.12,Main,,0,0,0,,Hmm, like this?
-Dialogue: 12,0:46:49.12,0:46:50.45,Main,,0,0,0,,Yeah.{Apprehensive to use this since I've gone with the formal 'Yes' so far but it is just an interjection. Alt: Uh-huh.}
-Dialogue: 12,0:46:54.96,0:46:58.34,Main,,0,0,0,,I heard shots on Mt. Haigamine yesterday.{keyframe}
-Dialogue: 12,0:46:58.34,0:47:01.09,Main,,0,0,0,,I guess there's big guns way up there, too.{More precisely it's 'artillery' (大砲) but since they're working women 'big guns' might sound better?}
-Dialogue: 12,0:47:01.09,0:47:03.68,Main,,0,0,0,,Things are getting rough.{Official: Things are getting more precarious.}
-Dialogue: 12,0:47:03.68,0:47:05.51,Main,,0,0,0,,Thank you for helping us.
-Dialogue: 12,0:47:04.30,0:47:05.51,Main,,0,0,0,,Well, thanks again.
-Dialogue: 12,0:47:06.26,0:47:10.14,Main,,0,0,0,,Well, this ought to make a nice bomb shelter.
-Dialogue: 12,0:47:10.14,0:47:10.93,Main,,0,0,0,,Yeah.
-Dialogue: 12,0:47:10.93,0:47:12.27,Main,,0,0,0,,All right!
-Dialogue: 12,0:47:12.27,0:47:15.48,Main,,0,0,0,,With all that overtime at work, he got a bit carried away here, didn't he?{Official: So admirable of him to build this shelter even with all that overtime. 残業続きなんに　張り切りんにさったけえね}
-Dialogue: 12,0:47:16.56,0:47:21.11,Main,,0,0,0,***,The pillars and tatami mats from Nee-chan's house were a godsend.
-Dialogue: 12,0:47:23.45,0:47:27.28,Main,,0,0,0,,Shūsaku, did you place this here?
-Dialogue: 12,0:47:27.28,0:47:29.24,Main,,0,0,0,,Oh that. It was nothing.
-Dialogue: 12,0:47:30.37,0:47:33.12,Main,,0,0,0,,Okay, let's clean up out here.
-Dialogue: 12,0:47:33.79,0:47:34.87,Main,,0,0,0,,All right...{More literally: Hup; Upsy-daisy. Neither fits well as he says this before picking those shovels up.}
-Dialogue: 12,0:47:35.46,0:47:40.38,Main,,0,0,0,***,Shūsaku-san, can I have some of this dirt for the fields?
-Dialogue: 12,0:47:40.38,0:47:42.96,Main,,0,0,0,,Sure, take it.
-Dialogue: 12,0:47:42.96,0:47:43.84,Main,,0,0,0,,Just be careful, okay?
-Dialogue: 12,0:47:44.72,0:47:47.43,Main,,0,0,0,,Oh, so this is where you've been.
-Dialogue: 12,0:47:47.43,0:47:49.68,Main,,0,0,0,,Yep. I'm looking at ships.
-Dialogue: 12,0:47:50.31,0:47:51.60,Main,,0,0,0,,Made it.{Alt's: Hup; And, hup; Up I get.}
-Dialogue: 12,0:47:51.60,0:47:54.81,Main,,0,0,0,,Ah, there's a lot of ships today.
-Dialogue: 12,0:47:54.81,0:47:56.31,Main,,0,0,0,,I see two Yamato ships.{She's talking about the Yamato class of ships (only two of these existed) but doesn't say 大和型, so just leaving as "two Yamato ships."}
-Dialogue: 12,0:47:57.52,0:47:59.31,Main,,0,0,0,,One of them is the Musashi.
-Dialogue: 12,0:47:59.31,0:48:03.57,Main,,0,0,0,,I see lots of {big }battleships, but no aircraft carriers.{戦艦 and 航空母艦}
-Dialogue: 12,0:48:03.57,0:48:04.65,Main,,0,0,0,,Yeah?
-Dialogue: 12,0:48:04.65,0:48:06.70,Main,,0,0,0,,Oh, that's the Tone.
-Dialogue: 12,0:48:06.70,0:48:08.82,Main,,0,0,0,,She has no rear turrets.
-Dialogue: 12,0:48:08.82,0:48:10.78,Main,,0,0,0,,She's an aircraft cruiser.
-Dialogue: 12,0:48:10.78,0:48:11.95,Main,,0,0,0,,Really?
-Dialogue: 12,0:48:11.95,0:48:15.29,Main,,0,0,0,,I'm amazed. You know so much.
-Dialogue: 12,0:48:15.29,0:48:18.83,Main,,0,0,0,***,Yeah, Onii-san taught me.{This is where using these titles works but otherwise, what to do? MTBB went with "he" but it's too out of place}
-Dialogue: 12,0:48:18.83,0:48:20.42,Main,,0,0,0,,I see.
-Dialogue: 12,0:48:20.42,0:48:21.96,Main,,0,0,0,,I also learned a thing or two.
-Dialogue: 12,0:48:23.05,0:48:24.76,Main,,0,0,0,,That's a destroyer.
-Dialogue: 12,0:48:24.76,0:48:26.47,Main,,0,0,0,,Oh, there's a small one headed this way.
-Dialogue: 12,0:48:27.59,0:48:28.97,Main,,0,0,0,,That's a motor launch.{内火艇}
-Dialogue: 12,0:48:29.64,0:48:30.93,Main,,0,0,0,,Really?
-Dialogue: 12,0:48:30.93,0:48:32.97,Main,,0,0,0,,Well then, I'll teach you something in return.
-Dialogue: 12,0:48:33.68,0:48:35.73,Main,,0,0,0,,You see that big cloud?
-Dialogue: 12,0:48:35.73,0:48:36.39,Main,,0,0,0,,Yeah.
-Dialogue: 12,0:48:36.39,0:48:38.23,Main,,0,0,0,,It's called an anvil cloud.
-Dialogue: 12,0:48:38.60,0:48:39.69,Main,,0,0,0,,Okay.
-Dialogue: 12,0:48:39.69,0:48:41.57,Main,,0,0,0,,It causes heavy rain.
-Dialogue: 12,0:48:41.57,0:48:42.23,Main,,0,0,0,,What?
-Dialogue: 12,0:48:44.73,0:48:46.32,Main,,0,0,0,***,Ahh! Shūsaku-san!
-Dialogue: 12,0:48:46.32,0:48:49.24,Main,,0,0,0,,For the moment, just take whatever you can into the shelter!{Alt: whatever's around you (more literal, less natural)}
-Dialogue: 12,0:48:58.17,0:48:59.62,Main,,0,0,0,,Oh, thanks.
-Dialogue: 12,0:49:07.09,0:49:08.68,Main,,0,0,0,,I can do it. I can do it.
-Dialogue: 12,0:49:10.01,0:49:12.22,Main,,0,0,0,,You really like your battleships, huh?
-Dialogue: 12,0:49:11.85,0:49:12.22,Main,,0,0,0,,Huh?{Omit. Lead in quite long but works ok. Still very short}
-Dialogue: 12,0:49:12.80,0:49:14.68,Main,,0,0,0,***,Harumi-san was telling me about them.
-Dialogue: 12,0:49:14.68,0:49:16.14,Main,,0,0,0,,Oh...
-Dialogue: 12,0:49:16.14,0:49:18.98,Main,,0,0,0,,I didn't teach Harumi.
-Dialogue: 12,0:49:18.98,0:49:20.06,Main,,0,0,0,,It was Hi-bo.{Alt: Hi-bo did.}
-Dialogue: 12,0:49:20.06,0:49:21.27,Main,,0,0,0,,He...?
-Dialogue: 12,0:49:21.27,0:49:25.03,Main,,0,0,0,,Yeah, Hi-bo loves battleships.
-Dialogue: 12,0:49:25.03,0:49:26.74,Main,,0,0,0,***,You'll meet him one day.
-Dialogue: 12,0:49:27.57,0:49:28.74,Main,,0,0,0,,Is it...
-Dialogue: 12,0:49:28.74,0:49:31.49,Main,,0,0,0,,this “Hisao” here?{lead in works ok since it's a connected sentence.}
-Dialogue: 12,0:49:31.49,0:49:32.32,Main,,0,0,0,,Yeah.
-Dialogue: 12,0:49:43.17,0:49:46.67,Main,,0,0,0,,{\i1}I can't believe I'm here, doing this with him.
-Dialogue: 12,0:49:51.38,0:49:52.14,Main,,0,0,0,,Good.
-Dialogue: 12,0:49:52.14,0:49:56.64,Main,,0,0,0,,We can go back in the house, now that it's only drizzling.
-Dialogue: 12,0:49:57.06,0:49:58.14,Main,,0,0,0,,Um...
-Dialogue: 12,0:49:58.14,0:50:00.19,Main,,0,0,0,,You're a married couple.
-Dialogue: 12,0:50:00.19,0:50:02.65,Main,,0,0,0,,It's nice that you get along.
-Dialogue: 12,0:50:02.65,0:50:07.19,Main,,0,0,0,,Isn't that nice? Two married couples getting along so well.{Alt: getting along so splendidly.}
+Dialogue: 12,0:43:43.52,0:43:49.69,Main,,0,0,0,,{\i1}Trung Thần Nam Công Kusunoki,\N đã phát minh ra cách tăng khẩu phần trong một cuộc bao vây.
+Dialogue: 12,0:43:51.19,0:43:52.07,Main,,0,0,0,,{\i1}Đầu tiên:
+Dialogue: 12,0:43:52.07,0:43:54.03,Main,,0,0,0,,{\i1}Rang gạo thật kỹ.
+Dialogue: 12,0:43:54.99,0:43:58.95,Main,,0,0,0,,{\i1}Thêm nước gấp 3 lần bình thường và đun nhỏ lửa.
+Dialogue: 12,0:44:00.49,0:44:04.45,Main,,0,0,0,,{\i1}Đã tiết kiệm gạo mà lãng phí nhiên liệu thì bằng hòa.
+Dialogue: 12,0:44:04.45,0:44:09.75,Main,,0,0,0,,{\i1}Vậy nên hãy giao phần việc này cho\N cái bếp không lửa tiện dụng của Đế quốc Nhật Bản...
+Dialogue: 12,0:44:10.54,0:44:12.42,Main,,0,0,0,,{\i1}Để qua đêm.
+Dialogue: 12,0:44:14.92,0:44:20.26,Main,,0,0,0,,{\i1}Thêm tử linh lan và canh miso vào\N món cá mòi ninh còn thừa hôm qua rồi đun sôi.
+Dialogue: 12,0:44:21.18,0:44:24.31,Main,,0,0,0,,{\i1}Nấu lại cơm một lần nữa.
+Dialogue: 12,0:44:24.85,0:44:26.35,Main,,0,0,0,,{\i1}Cơm nước xong xuôi!
+Dialogue: 12,0:44:26.35,0:44:29.69,GT 2,,0,0,0,,{\i1}(Nồi Cơm Nam Công - Nankōmeshi)
+Dialogue: 12,0:44:26.35,0:44:29.69,Main,,0,0,0,,{\i1}Đây chính là...\N"Nồi Cơm Nam Công" của Nam Công Kusunoki.
+Dialogue: 12,0:44:30.56,0:44:32.86,Main,,0,0,0,,{\i1}Còn đây là cho hộp cơm trưa của bố chồng.
+Dialogue: 12,0:44:35.40,0:44:37.78,Main,,0,0,0,,Sáng nay xem ra cơm đầy ú ụ này.
+Dialogue: 12,0:44:37.78,0:44:39.32,Main,,0,0,0,,Cơm mà sóng sánh bồng bềnh luôn kìa.
+Dialogue: 12,0:44:39.32,0:44:41.91,Main,,0,0,0,,Con có cách nấu trông hay nhở.
+Dialogue: 12,0:44:41.91,0:44:44.79,Main,,900,0,0,,Vâng! Mời cả nhà ăn cơm!
+Dialogue: 12,0:44:42.66,0:44:44.79,Main,,0,900,0,,Mời cả nhà ăn cơm!
+Dialogue: 12,0:44:54.88,0:44:55.46,Main,,0,0,0,,Đi đây nha!
+Dialogue: 12,0:44:55.46,0:44:56.42,Main,,0,0,0,,Xin lỗi ạ.
+Dialogue: 12,0:44:56.42,0:45:03.18,Main,,0,0,0,,Nam Công Kusunoki hẳn phải là thánh nhân\N mới có thể vui vẻ mà ngồi ăn món đó nhỉ?
+Dialogue: 12,0:45:03.18,0:45:04.85,Main,,0,0,0,,Con đồng tình~
+Dialogue: 12,0:45:09.19,0:45:10.44,Main,,0,0,0,,Ôi hết trơn.
+Dialogue: 12,0:45:13.40,0:45:14.69,Main,,0,0,0,,Bột cà ri?
+Dialogue: 12,0:45:27.58,0:45:31.46,Main,,0,0,0,,{\fad(0,975)}Báo động sơ tán!
+Dialogue: 12,0:45:32.58,0:45:36.09,Main,,0,0,0,,{\i1}Báo động không kích!
+Dialogue: 12,0:45:42.51,0:45:44.81,Main,,0,0,0,,Chả thấy đài báo gì cả.
+Dialogue: 12,0:45:44.81,0:45:47.27,Main,,0,0,0,,Shūsaku sang khu bên kia làm rồi à?
+Dialogue: 12,0:45:47.27,0:45:48.02,Main,,0,0,0,,Vâng.
+Dialogue: 12,0:45:48.02,0:45:53.90,Main,,0,0,0,,Mà, theo phạm vi ước tính của địch thì khả năng cao\N Kyūshū sẽ là nơi hứng chịu đầu tiên.
+Dialogue: 12,0:45:53.90,0:45:56.73,Main,,0,0,0,,Không cần phải vội vã chạy lên núi làm g—
+Dialogue: 12,0:45:58.19,0:45:59.77,Main,,0,0,0,,Mất điện thôi mà.
+Dialogue: 12,0:46:02.86,0:46:05.41,Main,,0,0,0,,Cẩn thận rớt đấy.
+Dialogue: 12,0:46:05.41,0:46:07.70,Main,,0,0,0,,Người ta dỡ nhà cửa ấy.
+Dialogue: 12,0:46:08.37,0:46:11.08,Main,,0,0,0,,Họ đang cần xây dựng nhiều chốt cứu hỏa\N toàn thành phố.
+Dialogue: 12,0:46:11.95,0:46:15.46,Main,,0,0,0,,Mà chúng ta ở đây thì chắc khỏi cần lo.
+Dialogue: 12,0:46:15.46,0:46:17.38,Main,,0,0,0,,Cực nhỉ.
+Dialogue: 12,0:46:17.38,0:46:19.88,Main,,0,0,0,,Mong là mọi người có thể tìm được nơi để dọn đi.
+Dialogue: 12,0:46:20.55,0:46:22.18,Main,,0,0,0,,Ôi, xin ạ.
+Dialogue: 12,0:46:23.05,0:46:24.93,Main,,0,0,0,,Không có gì.
+Dialogue: 12,0:46:25.80,0:46:28.35,Main,,0,0,0,,Củi thì bao nhiêu cũng có.
+Dialogue: 12,0:46:28.35,0:46:30.98,Main,,0,0,0,,Dù sao nhà tôi cũng bị phá rồi.
+Dialogue: 12,0:46:30.98,0:46:31.94,Main,,0,0,0,,Ôi trời~
+Dialogue: 12,0:46:32.60,0:46:35.44,Main,,0,0,0,,Cả nhà con dọn đến Shimonoseki \Nnhưng con chả muốn.
+Dialogue: 12,0:46:36.23,0:46:38.27,Main,,0,0,0,,Nhân dịp này con cũng cắt đứt quan hệ luôn.
+Dialogue: 12,0:46:39.99,0:46:43.45,Main,,0,0,0,,Không cần lo, con sẽ kiếm việc và đi làm.
+Dialogue: 12,0:46:44.36,0:46:47.28,Main,,0,0,0,,Sẽ có nhiều người tới đấy.
+Dialogue: 12,0:46:47.28,0:46:49.12,Main,,0,0,0,,Như thế này ạ?
+Dialogue: 12,0:46:49.12,0:46:50.45,Main,,0,0,0,,Ừm ừm.
+Dialogue: 12,0:46:54.96,0:46:58.28,Main,,0,0,0,,Qua cứ ầm ầm trên đỉnh Haigamine ấy.
+Dialogue: 12,0:46:58.28,0:47:01.09,Main,,0,0,0,,Chắc là còn có cả pháo binh cũng nên.
+Dialogue: 12,0:47:01.09,0:47:03.68,Main,,0,0,0,,Ôi trời càng lúc càng nguy.
+Dialogue: 12,0:47:03.68,0:47:05.51,Main,,0,800,0,,Cảm ơn mọi người ạ.
+Dialogue: 12,0:47:04.30,0:47:05.51,Main,,800,0,0,,Đa tạ.
+Dialogue: 12,0:47:06.26,0:47:10.14,Main,,0,0,0,,Chà~ Thế là xong hầm phòng không.
+Dialogue: 12,0:47:10.14,0:47:10.93,Main,,0,0,0,,Vâng.
+Dialogue: 12,0:47:10.93,0:47:12.27,Main,,0,0,0,,Được rồi.
+Dialogue: 12,0:47:12.27,0:47:15.48,Main,,0,0,0,,Ổng vẫn hăng say luôn tay luôn chân \Ndù phải tăng ca rất nhiều.
+Dialogue: 12,0:47:16.52,0:47:21.11,Main,,0,0,0,,Chiếu tatami và cột mà Nē-chan đem sang\N phải nói quý như vàng.
+Dialogue: 12,0:47:23.45,0:47:27.28,Main,,0,0,0,,Shūsaku, đây là em làm à?
+Dialogue: 12,0:47:27.28,0:47:29.24,Main,,0,0,0,,Có gì đâu mà.
+Dialogue: 12,0:47:30.37,0:47:33.12,Main,,0,0,0,,Giờ thì dọn ngoài này luôn nhỉ.
+Dialogue: 12,0:47:33.79,0:47:34.87,Main,,0,0,0,,Được rồi...
+Dialogue: 12,0:47:35.46,0:47:40.34,Main,,0,0,0,***,Shūsaku-san, em mang ít đất chỗ này ra ruộng nhé?
+Dialogue: 12,0:47:40.34,0:47:42.96,Main,,0,0,0,,Ờ, cứ lấy đi.
+Dialogue: 12,0:47:42.96,0:47:43.84,Main,,0,0,0,,Cẩn thận nhé.
+Dialogue: 12,0:47:44.72,0:47:47.43,Main,,0,0,0,,Ôi dào, ra là cháu tới đây à.
+Dialogue: 12,0:47:47.43,0:47:49.68,Main,,0,0,0,,Vâng, cháu nhìn mấy con tàu.
+Dialogue: 12,0:47:50.31,0:47:51.60,Main,,0,0,0,,Rồi~
+Dialogue: 12,0:47:51.60,0:47:54.81,Main,,0,0,0,,Chà~ Nay nhiều quá nhỉ.
+Dialogue: 12,0:47:54.81,0:47:56.31,Main,,0,0,0,,Có 2 Yamato kìa.
+Dialogue: 12,0:47:57.52,0:47:59.31,Main,,0,0,0,,Một cái là Musashi.
+Dialogue: 12,0:47:59.31,0:48:03.57,Main,,0,0,0,,Cháu thấy có Thiết giáp hạm\Nnhưng chả thấy Tàu sân bay đâu cả.
+Dialogue: 12,0:48:04.63,0:48:06.70,Main,,0,0,0,,Ồ, kia là Tone đó ạ.
+Dialogue: 12,0:48:06.70,0:48:08.82,Main,,0,0,0,,Nó không có tháp pháo đằng sau.
+Dialogue: 12,0:48:08.82,0:48:10.78,Main,,0,0,0,,Là Tàu tuần dương đấy.
+Dialogue: 12,0:48:11.95,0:48:15.29,Main,,0,0,0,,Giỏi quá! Cháu biết rõ nhỉ.
+Dialogue: 12,0:48:15.29,0:48:18.83,Main,,0,0,0,***,Vầng! Onī-san chỉ cho cháu.
+Dialogue: 12,0:48:18.83,0:48:20.42,Main,,0,0,0,,Mợ hiểu rồi.
+Dialogue: 12,0:48:20.42,0:48:21.96,Main,,0,0,0,,Mợ cũng học được một chút đấy.
+Dialogue: 12,0:48:23.05,0:48:24.76,Main,,0,0,0,,Tàu khu trục.
+Dialogue: 12,0:48:24.76,0:48:26.47,Main,,0,0,0,,Ồ, có cái đang tiến về hướng này kìa.
+Dialogue: 12,0:48:27.59,0:48:28.97,Main,,0,0,0,,Đó là tăng lôi nước.
+Dialogue: 12,0:48:30.93,0:48:32.97,Main,,0,0,0,,Vậy để mợ đáp lễ nè.
+Dialogue: 12,0:48:33.68,0:48:35.73,Main,,0,0,0,,Đám mây lớn đằng kia...
+Dialogue: 12,0:48:36.39,0:48:38.23,Main,,0,0,0,,được gọi là mây vũ tích.
+Dialogue: 12,0:48:39.69,0:48:41.57,Main,,0,0,0,,Sắp có mưa to đấy.
+Dialogue: 12,0:48:45.61,0:48:46.32,Main,,0,0,0,***,Shūsaku-san!
+Dialogue: 12,0:48:46.32,0:48:49.24,Main,,0,0,0,,Trước tiên cất đồ vào hầm đi đã.
+Dialogue: 12,0:48:58.17,0:48:59.62,Main,,0,0,0,,Ôi, anh cảm ơn.
+Dialogue: 12,0:49:07.09,0:49:08.68,Main,,0,0,0,,Để tự em, để tự em.
+Dialogue: 12,0:49:10.01,0:49:11.95,Main,,0,0,0,,Anh thích tàu chiến nhỉ?
+Dialogue: 12,0:49:12.80,0:49:14.68,Main,,0,0,0,,Em nghe Harumi-san bảo.
+Dialogue: 12,0:49:16.14,0:49:18.98,Main,,0,0,0,,Không phải anh chỉ cho Harumi đâu.
+Dialogue: 12,0:49:18.98,0:49:20.06,Main,,0,0,0,,Hībo đó.
+Dialogue: 12,0:49:20.06,0:49:21.27,Main,,0,0,0,,Hi—
+Dialogue: 12,0:49:21.27,0:49:25.03,Main,,0,0,0,,Ừm, Hībo là người thích tàu chiến.
+Dialogue: 12,0:49:25.03,0:49:26.74,Main,,0,0,0,***,Rồi sẽ có ngày em gặp thôi.
+Dialogue: 12,0:49:27.57,0:49:28.74,Main,,0,0,0,,Chính là...
+Dialogue: 12,0:49:28.74,0:49:31.49,Main,,0,0,0,,..."Hisao" ở đây à?
+Dialogue: 12,0:49:31.49,0:49:32.32,Main,,0,0,0,,Ừm.
+Dialogue: 12,0:49:43.17,0:49:46.67,Main,,0,0,0,,{\i1}Không ngờ được là mình đang với anh ấy, ở ngay đây...
+Dialogue: 12,0:49:51.38,0:49:52.14,Main,,0,0,0,,Rồi.
+Dialogue: 12,0:49:52.14,0:49:56.64,Main,,0,0,0,,Mưa cũng ngớt rồi, tranh thủ vào nhà thôi nào.
+Dialogue: 12,0:49:57.06,0:49:58.14,Main,,0,0,0,,Dạ thưa...
+Dialogue: 12,0:49:58.14,0:50:00.19,Main,,0,0,0,,Hai đứa thành vợ thành chồng rồi.
+Dialogue: 12,0:50:00.19,0:50:02.65,Main,,0,0,0,,Tình tứ chút có sao đâu nào.
+Dialogue: 12,0:50:02.65,0:50:07.19,Main,,0,0,0,,Vợ chồng các vị tình tứ với nhau thì tốt rồi!\N Tận 2 cặp luôn!
 Dialogue: 12,0:50:07.19,0:50:08.65,Main,,0,0,0,,Keiko...
 Dialogue: 12,0:50:11.66,0:50:16.41,Main,,0,0,0,,They used to measure their heights together as one happy family.
 Dialogue: 12,0:50:17.04,0:50:22.46,Main,,0,0,0,***,Wait, was Onee-san's husband...
@@ -1599,7 +1566,7 @@ Dialogue: 12,1:39:24.23,1:39:28.69,Main,,0,0,0,,They sound air raid warnings eve
 Dialogue: 12,1:39:28.69,1:39:31.19,Main,,0,0,0,,yet so many people still came to celebrate.
 Dialogue: 12,1:39:31.19,1:39:33.86,Main,,0,0,0,,And we did as well.
 Dialogue: 12,1:39:35.53,1:39:37.99,Main,,0,0,0,,Today's day off at the factory.
-Dialogue: 12,1:39:37.99,1:39:42.46,Main,,0,0,0,,There were terrible fires in Tokyo, Osaka and Nagoya, no celebrations there.
+Dialogue: 12,1:39:37.99,1:39:42.46,Main,,0,0,0,,There were terrible fires in Tōkyō, Osaka and Nagoya, no celebrations there.
 Dialogue: 12,1:39:42.46,1:39:44.92,Main,,0,0,0,,Not much of a holiday this year.
 Dialogue: 12,1:39:48.92,1:39:51.30,Main,,0,0,0,,Long time no see, Suzu-san.
 Dialogue: 12,1:39:51.30,1:39:52.51,Main,,0,0,0,,Rin-san.
