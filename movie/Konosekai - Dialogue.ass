@@ -16,9 +16,9 @@ Video File: ../raw/[Clara] Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BDRi
 Video AR Mode: 4
 Video AR Value: 1.849711
 Video Zoom Percent: 0.500000
-Scroll Position: 846
-Active Line: 862
-Video Position: 72101
+Scroll Position: 1085
+Active Line: 1100
+Video Position: 96646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -897,245 +897,244 @@ Dialogue: 12,0:49:58.14,0:50:00.19,Main,,0,0,0,,Hai đứa thành vợ thành ch
 Dialogue: 12,0:50:00.19,0:50:02.65,Main,,0,0,0,,Tình tứ chút có sao đâu nào.
 Dialogue: 12,0:50:02.65,0:50:07.19,Main,,0,0,0,,Vợ chồng các vị tình tứ với nhau thì tốt rồi!\N Tận 2 cặp luôn!
 Dialogue: 12,0:50:07.19,0:50:08.65,Main,,0,0,0,,Keiko...
-Dialogue: 12,0:50:11.66,0:50:16.41,Main,,0,0,0,,They used to measure their heights together as one happy family.
-Dialogue: 12,0:50:17.04,0:50:22.46,Main,,0,0,0,***,Wait, was Onee-san's husband...
-Dialogue: 12,0:50:22.46,0:50:27.09,Main,,0,0,0,,Even if he tried to, he'd have been too frail to get drafted.{せっかく兵隊に行かんでもいい　細い体じゃったんに}
-Dialogue: 12,0:50:27.09,0:50:28.67,Main,,0,0,0,,I guess he was way too skinny.
-Dialogue: 12,0:50:30.17,0:50:33.59,Main,,0,0,0,,When my father was rehired by the Navy Arsenal,
-Dialogue: 12,0:50:34.05,0:50:36.97,Main,,0,0,0,***,Nee-chan went to buy a watch for him.
-Dialogue: 12,0:50:36.97,0:50:39.47,Main,,0,0,0,,That's where they met.
-Dialogue: 12,0:50:40.52,0:50:45.19,Main,,0,0,0,,They got married and remodeled the store together.{Dub (don't like to copy, but honestly, it's the best translation. Alt: renewed; revamped.}
-Dialogue: 12,0:50:46.02,0:50:52.78,Main,,0,0,0,,But Keiko, with her temper, didn't get along with his family.
-Dialogue: 12,0:50:52.78,0:50:58.91,Main,,0,0,0,,When her husband died, they fought over the business.
-Dialogue: 12,0:50:58.91,0:51:03.83,Main,,0,0,0,,But in the end, the building was torn down, and everything was gone.{Alt: and nothing was left. Official: The building removal took everything away. ほいでも結局　建物疎開でなーんものうなった}
-Dialogue: 12,0:51:05.71,0:51:09.13,Main,,0,0,0,,Hisao is the heir of the Kuromura family.
-Dialogue: 12,0:51:09.13,0:51:11.84,Main,,0,0,0,,He was taken to Shimonoseki.
-Dialogue: 12,0:51:12.59,0:51:15.13,Main,,0,0,0,,As you'd expect, that was hard on her.
-Dialogue: 12,0:51:15.93,0:51:20.14,Main,,0,0,0,,I wish we could all smile and live together in peace.
-Dialogue: 12,0:51:20.14,0:51:21.89,Main,,0,0,0,,Me too.
-Dialogue: 12,0:51:30.69,0:51:32.49,Main,,0,0,0,,I just need to check on the garden.{Alt: I'm just going to check on the garden.}
-Dialogue: 12,0:51:46.29,0:51:51.30,Main,,0,0,0,,{\i1}It took months for me to learn that about her.
-Dialogue: 12,0:51:51.30,0:51:53.38,Main,,0,0,0,,{\i1}That's how much of a scatterbrain I can be.{ボーッとした}
-Dialogue: 12,0:51:58.34,0:51:59.64,Main,,0,0,0,,That's the Yamato.{MTBB: She's Yamato.}
-Dialogue: 12,0:52:01.10,0:52:01.89,Main,,0,0,0,,And that's Tone.
-Dialogue: 12,0:52:08.44,0:52:10.77,Main,,0,0,0,,Sir, um, I was just...
-Dialogue: 12,0:52:12.53,0:52:16.11,Main,,0,0,0,,I just wanted to send a drawing to my nephew.
-Dialogue: 12,0:52:16.11,0:52:18.03,Main,,0,0,0,,Does this woman live here?
-Dialogue: 12,0:52:18.03,0:52:19.66,Main,,0,0,0,,T-The military police?
-Dialogue: 12,0:52:19.66,0:52:20.53,Main,,0,0,0,,What?!
-Dialogue: 12,0:52:20.53,0:52:23.12,Main,,0,0,0,,She was sketching shorelines and ships.
-Dialogue: 12,0:52:23.79,0:52:25.12,Main,,0,0,0,,That's espionage!
-Dialogue: 12,0:52:25.12,0:52:30.71,Main,,0,0,0,,She may look innocent, but who knows what nefarious plots she's scheming!
-Dialogue: 12,0:52:32.25,0:52:37.76,Main,,0,0,0,,Her husband is a two-bit clerk at the navy court-martial office.
-Dialogue: 12,0:52:37.76,0:52:41.05,Main,,0,0,0,,Has she attempted to access military secrets?{keyframe / 女が隙を見て　軍事機密に　目を走らせおる恐れはないか}
-Dialogue: 12,0:52:42.51,0:52:44.97,Main,,0,0,0,,Has she sent coded transmissions?
-Dialogue: 12,0:52:44.97,0:52:48.02,Main,,0,0,0,,Does she have a random number table?
-Dialogue: 12,0:52:48.02,0:52:51.56,Main,,0,0,0,,Is there anything suspicious regarding her background? Well?
-Dialogue: 12,0:52:53.44,0:52:58.36,Main,,0,0,0,,We will not arrest her today, but keep a close eye on her.{監視}
-Dialogue: 12,0:52:58.36,0:53:00.57,Main,,0,0,0,,After all, a daughter-in-law is still a stranger!
-Dialogue: 12,0:53:12.50,0:53:14.05,Main,,0,0,0,,I'm home.
-Dialogue: 12,0:53:14.88,0:53:18.30,Main,,0,0,0,,What's going on? The laundry is still outside.
-Dialogue: 12,0:53:18.30,0:53:20.01,Main,,0,0,0,,Oh, Shūsaku, it's just that
-Dialogue: 12,0:53:20.01,0:53:22.43,Main,,0,0,0,***,the military police investigated Suzu-san, and...
-Dialogue: 12,0:53:25.52,0:53:27.73,Main,,0,0,0,***,Suzu-san, come with me.{keyframe. Start cut looks fine.}
-Dialogue: 12,0:53:35.48,0:53:38.61,Main,,0,0,0,,It's pretty small, so you won't be able to draw the shoreline.
-Dialogue: 12,0:53:40.82,0:53:44.16,Main,,0,0,0,***,Suzu-san, since you love to draw,{Alt (more literal but unnatural): Suzu-san, since you're one of those people who loves to draw,}
-Dialogue: 12,0:53:44.16,0:53:47.45,Main,,0,0,0,,can you draw me sometime?
-Dialogue: 12,0:53:47.45,0:53:51.79,Main,,0,0,0,,I don't know if I can draw you well...
-Dialogue: 12,0:53:54.04,0:53:56.30,Main,,0,0,0,***,Suzu-san involved in espionage, huh?
-Dialogue: 12,0:53:57.38,0:54:00.30,Main,,0,0,0,,Shūsaku, you were lucky.
-Dialogue: 12,0:54:00.30,0:54:03.89,Main,,0,0,0,,We had to appear apologetic to those MPs.{Official: 'We couldn't be rude to the MPs.' MTBB: 'We had to lower our eyes in front of the officers...'}
-Dialogue: 12,0:54:03.89,0:54:05.97,Main,,0,0,0,,So we couldn't laugh or smile.{MTBB: ...and try not to laugh.}
-Dialogue: 12,0:54:05.97,0:54:08.31,Main,,0,0,0,,The harder we held it in, the funnier it got!
-Dialogue: 12,0:54:11.81,0:54:17.15,Main,,0,0,0,,As soon as she focuses on something, her head goes straight up into the clouds!{MTTB translates the idea well. Alt's: 'This girl sees nothing and forgets everything when she focuses on something.'; 'This girl gets so wrapped up in something that she doesn't notice a thing happening around her.' ご覧のとうり　熱中すりゃ　すぐ周りが　目に入らんくなる子じゃのに}
-Dialogue: 12,0:54:17.15,0:54:20.99,Main,,0,0,0,,With her sitting all quiet, they must've mistook her for someone smart!{神妙にしとるのが　また無駄に　知恵者に見えんさったらしゅうて}
-Dialogue: 12,0:54:20.99,0:54:26.12,Main,,0,0,0,,S-She thought a court-martial was a court for only marshals!{Needs to be localised otherwise it doesn't work. Official: She's so clueless, she thought I work as a store clerk. こん人は　“6時”　に帰るけ　“録事″　じゃと　おもうとった人で}
-Dialogue: 12,0:54:26.12,0:54:29.79,Main,,0,0,0,,What military secrets did they think she was after? Those Army MPs are idiots!{どんな機密を狙うんか Official: Suzu a spy? Those Army MPs are idiots!}
-Dialogue: 12,0:54:29.79,0:54:33.79,Main,,0,0,0,,I don't understand, but it sounds funny!
-Dialogue: 12,0:54:36.79,0:54:40.30,Main,,0,0,0,,{\i1}I wish we could all smile and live together in peace.{Line @ ~47:17}
-Dialogue: 12,0:54:40.80,0:54:42.09,Main,,0,0,0,,Me too...
-Dialogue: 12,0:54:42.09,0:54:43.51,Main,,0,0,0,,I'm home.
-Dialogue: 12,0:54:43.51,0:54:46.80,Main,,0,0,0,,Oh, Dad's home! Let's tell him, too!
-Dialogue: 12,0:54:47.81,0:54:50.31,Main,,0,0,0,,{\i1}Am I the only one who doesn't find it funny?
-Dialogue: 12,0:54:57.23,0:55:00.78,Main,,0,0,0,,{\i1}Even in war, cicadas cry and butterflies fly.{keyframe}
-Dialogue: 12,0:55:01.90,0:55:03.57,Main,,0,0,0,,It's so hot...
-Dialogue: 12,0:55:05.70,0:55:07.28,Main,,0,0,0,,Oh no, no more sugar?{double 'no' might not work...}
-Dialogue: 12,0:55:08.70,0:55:14.04,Main,,0,0,0,,{\i1}We thought the war would hit home soon when all the air raids happened in June...
-Dialogue: 12,0:55:15.17,0:55:17.46,Main,,0,0,0,,{\i1}Wonder where it is now?{\i0}
-Dialogue: 12,0:55:20.76,0:55:22.22,Main,,0,0,0,,Ouch.
-Dialogue: 12,0:55:22.22,0:55:24.09,Main,,0,0,0,***,I'm sorry, Harumi-san.
-Dialogue: 12,0:55:24.09,0:55:25.89,Main,,0,0,0,,I'm okay.
-Dialogue: 12,0:55:25.89,0:55:27.64,Main,,0,0,0,,I was just looking at the ants.
-Dialogue: 12,0:55:29.31,0:55:32.60,Main,,0,0,0,,I wonder where they're going.
-Dialogue: 12,0:55:53.20,0:55:56.50,Main,,0,0,0,,Sugar's so scarce right now!
-Dialogue: 12,0:56:03.46,0:56:06.59,Main,,0,0,0,,We need to hide it from the ants.
-Dialogue: 12,0:56:06.59,0:56:10.10,Main,,0,0,0,,But, uh, where?
-Dialogue: 12,0:56:14.23,0:56:15.89,Main,,0,0,0,,W-What's wrong?{She's making toilet paper I think.}
-Dialogue: 12,0:56:16.64,0:56:21.77,Main,,0,0,0,,We thought putting it in the water would keep the ants away from it.
-Dialogue: 12,0:56:30.53,0:56:34.12,Main,,0,0,0,,Here, take this. Buy some at the black market.
-Dialogue: 12,0:56:38.17,0:56:40.21,Main,,0,0,0,,{\i1}Roads I usually don't travel.
-Dialogue: 12,0:56:43.21,0:56:44.21,Main,,0,0,0,,Eat up!
-Dialogue: 12,0:56:49.80,0:56:52.31,Main,,0,0,0,,{\i1}They said we're supposed to be low on everything,{Added the they said so this line makes it's obvious she's talking about the government and not her family (should be obvious, but there is a chance of misunderstanding this line without my additions). Alt (more literally): 'We're not supposed to have much to sell,' It doesn't really work. Far more natural to translate the idea conveyed and talk about [the gov] being low on goods/supplies/food.}
-Dialogue: 12,0:56:52.31,0:56:54.72,Main,,0,0,0,,{\i1}so what with all these people selling stuff here?{\i0}
-Dialogue: 12,0:56:55.18,0:56:56.10,Main,,0,0,0,,{\i1\fad(0,100)}Huh?
-Dialogue: 12,0:56:56.10,0:56:57.39,Main,,0,0,0,,{\i1\fad(100,100)}Huh?
-Dialogue: 12,0:56:57.39,0:56:58.73,Main,,0,0,0,,{\i1\fad(100,0)}Huh?
-Dialogue: 12,0:56:59.10,0:57:02.73,Main,,0,0,0,,This is a fine rice from Taiwan.
-Dialogue: 12,0:57:03.73,0:57:07.24,Main,,0,0,0,,I could also arrange for some homegrown rice, if you want.{Different person speaking? The guy in the background, stopping at the door, in the previous shot/angle/scene}
-Comment: 12,0:57:05.57,0:57:07.24,Main,,0,0,0,,{\i1}Whoa!
-Dialogue: 12,0:57:07.61,0:57:11.62,Main,,0,0,0,,Oh my, I thought we weren't supposed to grow watermelons now.{Her mouth moving might be nothing. Official subs italicise this.}
-Dialogue: 12,0:57:12.70,0:57:15.70,Main,,0,0,0,,{\i1}Wow, they have everything here.
-Dialogue: 12,0:57:19.71,0:57:23.13,Main,,0,0,0,,{\i1}It's like summer breaks before the war.
-Dialogue: 12,0:57:23.59,0:57:25.67,Main,,0,0,0,,Sugar's 20 yen a pound.
-Dialogue: 12,0:57:26.13,0:57:29.34,Main,,0,0,0,,Huh?! That's fifty times the ration price!
-Dialogue: 12,0:57:29.34,0:57:32.47,Main,,0,0,0,,The price is only gonna go up from now on.{Alt: If ya don't buy now, it's only gonna be more expensive [for ya].}
-Dialogue: 12,0:57:32.47,0:57:37.52,Main,,0,0,0,,{\i1}With that secret stash mother gave me,  and this month's budget, I only have 25 yen.
-Dialogue: 12,0:57:37.52,0:57:41.02,Main,,0,0,0,,Eeny, meeny, miny, moe...
-Dialogue: 12,0:57:43.73,0:57:45.02,Main,,0,0,0,,{\i1}What'll we do?{keyframe}
-Dialogue: 12,0:57:45.02,0:57:48.11,Main,,0,0,0,,{\i1}Sugar might soon cost about 150 yen.{MTBB: 'With sugar shooting up this fast, it could get up to 150 yen.' Nice but the first part isn't in the JP.}
-Dialogue: 12,0:57:48.11,0:57:51.53,Main,,0,0,0,,{\i1}A box of caramel could cost more than 100 yen.
-Dialogue: 12,0:57:51.53,0:57:56.41,Main,,0,0,0,,{\i1}And three pairs of socks might cost 1,000 yen.
-Dialogue: 12,0:57:57.54,0:58:01.21,Main,,0,0,0,,{\i1}How will we be able to survive in a country like that?
-Dialogue: 12,0:58:05.00,0:58:05.84,Main,,0,0,0,,{\i1}What?
-Dialogue: 12,0:58:06.55,0:58:10.05,Main,,0,0,0,,{\i1}Where the heck am I?
-Dialogue: 12,0:58:10.80,0:58:13.84,Main,,0,0,0,,{Hmm, }Naganoki? The naval cemetery?
-Dialogue: 12,0:58:13.84,0:58:15.55,Main,,0,0,0,,Oh, that's Nagasako.
-Dialogue: 12,0:58:15.55,0:58:17.43,Main,,0,0,0,,Oh, isn't it that way?
-Dialogue: 12,0:58:17.43,0:58:18.56,Main,,0,0,0,,It's that way.
-Dialogue: 12,0:58:33.61,0:58:35.24,Main,,0,0,0,,Oops, I'm sorry.
-Dialogue: 12,0:58:39.75,0:58:40.16,Main,,0,0,0,,It's okay.{keyframe}
-Dialogue: 12,0:58:41.50,0:58:42.92,Main,,0,0,0,,Watermelon?
-Dialogue: 12,0:58:42.92,0:58:44.00,Main,,0,0,0,,Yeah.
+Dialogue: 12,0:50:11.66,0:50:16.41,Main,,0,0,0,,Hẳn là xưa cả nhà chị ấy từng rất hạnh phúc\N cùng nhau đo chiều cao đây mà.
+Dialogue: 12,0:50:17.04,0:50:22.46,Main,,0,0,0,,Không lẽ... đó là chồng của chị dâu...
+Dialogue: 12,0:50:22.46,0:50:27.09,Main,,0,0,0,,Ảnh quá ốm yếu để nhập ngũ.
+Dialogue: 12,0:50:27.09,0:50:28.67,Main,,0,0,0,,Gầy như xe điếu.
+Dialogue: 12,0:50:30.17,0:50:33.59,Main,,0,0,0,,Khi bố anh nhận được việc ở \NNhà máy Vũ khí Quân đội.
+Dialogue: 12,0:50:34.05,0:50:36.97,Main,,0,0,0,***,Nē-chan có đi mua đồng hồ làm quà.
+Dialogue: 12,0:50:36.97,0:50:39.47,Main,,0,0,0,,Và thế là gặp được ông chủ trẻ tuổi ở đó.
+Dialogue: 12,0:50:40.52,0:50:45.19,Main,,0,0,0,,Thế rồi họ cưới nhau,\N đôi vợ chồng trẻ cùng nhau tân trang lại tiệm.
+Dialogue: 12,0:50:46.02,0:50:52.78,Main,,0,0,0,,Thế nhưng mà, Keiko với cái tính khí nóng nảy đó\N không hòa thuận được với gia đình nhà chồng.
+Dialogue: 12,0:50:52.78,0:50:58.91,Main,,0,0,0,,Sau khi cậu con rể của mẹ khuất núi,\N đã nảy sinh mâu thuẫn trong việc quản lý tiệm.
+Dialogue: 12,0:50:58.91,0:51:03.83,Main,,0,0,0,,Nhưng cuối cùng thì bị dỡ bỏ, chẳng còn gì nữa.
+Dialogue: 12,0:51:05.71,0:51:09.13,Main,,0,0,0,,Hisao là người thừa kế của gia tộc Kuromura.
+Dialogue: 12,0:51:09.13,0:51:11.84,Main,,0,0,0,,Thằng bé được đưa tới Shimonoseki.
+Dialogue: 12,0:51:12.59,0:51:15.13,Main,,0,0,0,,Hẳn là con bé khổ tâm lắm.
+Dialogue: 12,0:51:15.93,0:51:20.14,Main,,0,0,0,,Ước gì mọi người có thể chung sống hòa thuận.
+Dialogue: 12,0:51:20.14,0:51:21.89,Main,,0,0,0,,Con cũng vậy.
+Dialogue: 12,0:51:30.69,0:51:32.49,Main,,0,0,0,,Con ra thăm rau cỏ chút đây ạ.
+Dialogue: 12,0:51:46.29,0:51:51.30,Main,,0,0,0,,{\i1}Mất tận mấy tháng mình mới hiểu ra vấn đề.
+Dialogue: 12,0:51:51.30,0:51:53.38,Main,,0,0,0,,{\i1}Đầu óc trên mây mà, cũng phải thôi.
+Dialogue: 12,0:51:58.34,0:51:59.64,Main,,0,0,0,,Kia là Yamato.
+Dialogue: 12,0:52:01.10,0:52:01.89,Main,,0,0,0,,Còn kia là Tone.
+Dialogue: 12,0:52:08.44,0:52:10.77,Main,,0,0,0,,À... dạ thưa...
+Dialogue: 12,0:52:12.53,0:52:16.11,Main,,0,0,0,,C-Cháu chỉ muốn tặng bức vẽ con tàu cho\N em bé từ xa chuyển—
+Dialogue: 12,0:52:16.11,0:52:18.03,Main,,0,0,0,,Cô này sống ở đây hả!
+Dialogue: 12,0:52:18.03,0:52:19.66,Main,,0,0,0,,H-Hiến binh sao?
+Dialogue: 12,0:52:20.53,0:52:23.12,Main,,0,0,0,,Cô ta đang phác thảo\N đường bờ biển và các con tàu.
+Dialogue: 12,0:52:23.79,0:52:25.12,Main,,0,0,0,,Rõ ràng là gián điệp!
+Dialogue: 12,0:52:25.12,0:52:30.71,Main,,0,0,0,,Mặt mũi thì ngây thơ nhưng \Nai mà biết được đang âm mưu đen tối xảo quyệt gì cơ chứ!
+Dialogue: 12,0:52:32.25,0:52:37.76,Main,,0,0,0,,Chồng ả ta là sĩ quan thư ký quèn\N tại Tòa án Quân sự Hải quân.
+Dialogue: 12,0:52:37.76,0:52:41.05,Main,,0,0,0,,Tôi sợ rằng ả ta cố moi móc bí mật quân sự.
+Dialogue: 12,0:52:42.51,0:52:44.97,Main,,0,0,0,,Đã thấy dấu hiệu mã hóa thông tin nào chưa?
+Dialogue: 12,0:52:44.97,0:52:48.02,Main,,0,0,0,,Đã nhìn thấy bảng số ngẫu nhiên nào đó\N trong đống đồ đạc phụ nữ chưa?
+Dialogue: 12,0:52:48.02,0:52:49.98,Main,,0,0,0,,Xuất thân có gì khả nghi không?
+Dialogue: 12,0:52:49.98,0:52:51.56,Main,,0,0,0,,Hửm! Có không!
+Dialogue: 12,0:52:53.44,0:52:58.36,Main,,0,0,0,,Lần này chúng tôi sẽ không bắt giữ,\N nhưng vẫn sẽ theo dõi sát sao.
+Dialogue: 12,0:52:58.36,0:53:00.57,Main,,0,0,0,,Con dâu suy cho cùng vẫn là người ngoài.
+Dialogue: 12,0:53:12.50,0:53:14.05,Main,,0,0,0,,Về rồi đây.
+Dialogue: 12,0:53:14.88,0:53:18.30,Main,,0,0,0,,Có chuyện gì thế? \NQuần áo vẫn còn chưa thu vào kìa.
+Dialogue: 12,0:53:18.30,0:53:20.01,Main,,0,0,0,,Ôi, Shūsaku, chuyện là...
+Dialogue: 12,0:53:20.01,0:53:22.43,Main,,0,0,0,***,Suzu-san bị hiến binh bắt.
+Dialogue: 12,0:53:25.52,0:53:27.73,Main,,0,0,0,***,Suzu-san, qua đây một lát.
+Dialogue: 12,0:53:35.48,0:53:38.61,Main,,0,0,0,,Nó có hơi bé nên không vẽ hết bờ biển được.
+Dialogue: 12,0:53:40.82,0:53:44.16,Main,,0,0,0,***,Suzu-san, em chắc là rất thích vẽ nhỉ?
+Dialogue: 12,0:53:44.16,0:53:47.45,Main,,0,0,0,,Lần tới, vẽ anh được không?
+Dialogue: 12,0:53:47.45,0:53:51.79,Main,,0,0,0,,Chuyện đó thì... \Nem không biết là vẽ đẹp hay không nữa...
+Dialogue: 12,0:53:54.04,0:53:56.30,Main,,0,0,0,***,Suzu-san là gián điệp à...
+Dialogue: 12,0:53:57.38,0:54:00.30,Main,,0,0,0,,Shūsaku, đừng nói nữa.
+Dialogue: 12,0:54:00.30,0:54:03.89,Main,,0,0,0,,Cả nhà đã cố xin lỗi bên hiến binh rồi.
+Dialogue: 12,0:54:03.89,0:54:05.97,Main,,0,0,0,,Muốn cười lắm mà không dám cười.
+Dialogue: 12,0:54:05.97,0:54:08.31,Main,,0,0,0,,Hết chịu nổi luôn.
+Dialogue: 12,0:54:11.81,0:54:17.15,Main,,0,0,0,,Đấy, cứ tập trung một cái là\N không biết trời đất xung quanh là gì.
+Dialogue: 12,0:54:17.15,0:54:20.99,Main,,0,0,0,,Lại còn cứ im im, chả trách người ta nhìn vào\N tưởng đang âm mưu âm miếc gì đó.
+Dialogue: 12,0:54:20.99,0:54:26.12,Main,,0,0,0,,Thư ký quèn 6 giờ là cắp cặp về\N mà bày đặt bí mật quân sự.
+Dialogue: 12,0:54:26.12,0:54:29.79,Main,,0,0,0,,Rình mò cãi nỗi gì chứ! \NHiến binh gì mà cùi quá vậy.
+Dialogue: 12,0:54:29.79,0:54:33.79,Main,,0,0,0,,Nghe chả hiểu gì nhưng buồn cười thật đấy.
+Dialogue: 12,0:54:36.79,0:54:40.30,Main,,0,0,0,,{\i1}Ước gì mọi người có thể chung sống hòa thuận.{nhất quán}
+Dialogue: 12,0:54:40.80,0:54:42.09,Main,,0,0,0,,Con cũng vậy.
+Dialogue: 12,0:54:42.09,0:54:43.51,Main,,0,0,0,,Về rồi đây.
+Dialogue: 12,0:54:43.51,0:54:46.80,Main,,0,0,0,,A bố về rồi! Kể với bố đi.
+Dialogue: 12,0:54:47.81,0:54:50.31,Main,,0,0,0,,{\i1}Bộ cả nhà có mỗi mình là không thấy hài à?
+Dialogue: 0,0:54:50.08,0:54:52.14,Main,,0,0,0,,{\an8}Âm mưu mới kinh chứ!
+Dialogue: 0,0:54:52.14,0:54:54.38,Main,,0,0,0,,{\an8}Chả hiểu nổi luôn~
+Dialogue: 12,0:54:57.23,0:55:00.78,Main,,0,0,0,,{\i1}Dù là đang có chiến tranh,\N nhưng ve vẫn kêu, bướm vẫn bay.
+Dialogue: 12,0:55:01.90,0:55:03.57,Main,,0,0,0,,Nóng thế nhở.
+Dialogue: 12,0:55:05.70,0:55:07.28,Main,,0,0,0,,Ui trời! Không còn đường nữa rồi.
+Dialogue: 12,0:55:08.70,0:55:14.04,Main,,0,0,0,,{\i1}Từ hồi tháng 6 có mấy trận không kích \Ntưởng đâu là chiến tranh sẽ kéo đến sớm thôi.
+Dialogue: 12,0:55:15.17,0:55:17.46,Main,,0,0,0,,{\i1}Chả hiểu đang diễn ra ở đâu nữa.
+Dialogue: 12,0:55:20.76,0:55:22.22,Main,,0,0,0,,Au ui~
+Dialogue: 12,0:55:22.22,0:55:24.09,Main,,0,0,0,***,Harumi-san, mợ xin lỗi.
+Dialogue: 12,0:55:24.09,0:55:25.89,Main,,0,0,0,,Hông sao ạ.
+Dialogue: 12,0:55:25.89,0:55:27.64,Main,,0,0,0,,Cháu đang ngắm mấy bạn kiến thôi.
+Dialogue: 12,0:55:29.31,0:55:32.60,Main,,0,0,0,,Chả biết là chúng kéo dài tới tận đâu ha?
+Dialogue: 12,0:55:53.20,0:55:56.50,Main,,0,0,0,,Đường giờ là của hiếm đấy!
+Dialogue: 12,0:56:03.46,0:56:06.59,Main,,0,0,0,,Chúng ta phải giấu đường đi\N không cho mấy bạn kiến tìm ra.
+Dialogue: 12,0:56:06.59,0:56:10.10,Main,,0,0,0,,Đúng cơ mà... ở đâu đây?
+Dialogue: 12,0:56:14.23,0:56:15.89,Main,,0,0,0,,S-Sao thế?!
+Dialogue: 12,0:56:16.64,0:56:21.77,Main,,0,0,0,,Tính là để trên mặt nước\N để mấy bạn kiến không bò vào được.
+Dialogue: 12,0:56:30.53,0:56:34.12,Main,,0,0,0,,Cầm lấy này, ra chợ đen mà mua.
+Dialogue: 12,0:56:38.17,0:56:40.21,Main,,0,0,0,,{\i1}Một con đường khác mọi hôm.
+Dialogue: 12,0:56:43.21,0:56:44.21,Main,,0,0,0,,Ăn đi nè!
+Dialogue: 12,0:56:49.80,0:56:52.31,Main,,0,0,0,,{\i1}Thế mà kêu không còn gì để bán?
+Dialogue: 12,0:56:52.31,0:56:54.72,Main,,0,0,0,,{\i1}Vậy mà ở đây đông nghịt người.
+Dialogue: 12,0:56:59.10,0:57:02.73,Main,,0,0,0,,Gạo Đài Loan đấy, thấy khác biệt không.
+Dialogue: 12,0:57:03.73,0:57:07.24,Main,,0,0,0,,Không thích thì tôi vẫn còn gạo của mình.
+Dialogue: 12,0:57:07.61,0:57:11.62,Main,,0,0,0,,Ui trời! Tưởng là bị cấm trồng dưa hấu chứ.
+Dialogue: 12,0:57:12.70,0:57:15.70,Main,,0,0,0,,{\i1}Chà~ Gì cũng có hết.
+Dialogue: 12,0:57:19.71,0:57:23.13,Main,,0,0,0,,{\i1}Cứ như kỳ nghỉ hè trước chiến tranh ấy.
+Dialogue: 12,0:57:23.59,0:57:25.67,Main,,0,0,0,,Đường 20 yên 1 cân.
+Dialogue: 12,0:57:23.59,0:57:25.67,GT 2,,0,0,0,,{\pos(1138,892)}(600 gam)
+Dialogue: 12,0:57:26.13,0:57:29.34,Main,,0,0,0,,Hả! Gấp hơn 50 lần phân phát sao?
+Dialogue: 12,0:57:29.34,0:57:32.47,Main,,0,0,0,,Không mua giờ thì còn đắt nữa.
+Dialogue: 12,0:57:32.47,0:57:37.52,Main,,0,0,0,,{\i1}Số tiền riêng của mẹ đưa cộng với ngân sách tháng này\N mới có 25 yên.
+Dialogue: 12,0:57:37.52,0:57:41.02,Main,,0,0,0,,Mua-hay-là-không-mua...
+Dialogue: 12,0:57:43.73,0:57:45.02,Main,,0,0,0,,{\i1}Sao giờ?!
+Dialogue: 12,0:57:45.02,0:57:48.11,Main,,0,0,0,,{\i1}Đường rồi sẽ tăng lên 150 yên.
+Dialogue: 12,0:57:48.11,0:57:51.53,Main,,0,0,0,,{\i1}Chẳng thể mua caramel hay gì khác\N với cái giá 100 yên nữa.
+Dialogue: 12,0:57:51.53,0:57:56.41,Main,,0,0,0,,{\i1}Và nếu mua 3 đôi tất, đâu đó là 1000 yên lận.
+Dialogue: 12,0:57:57.54,0:58:01.21,Main,,0,0,0,,{\i1}Cái quốc gia này... Biết sống sao đây trời!
+Dialogue: 12,0:58:06.55,0:58:10.05,Main,,0,0,0,,{\i1}Mà đây là đâu trời ơi!
+Dialogue: 12,0:58:10.80,0:58:13.84,Main,,0,0,0,,Naganoki? Chỗ có Nghĩa trang Hải quân ấy à?
+Dialogue: 12,0:58:13.84,0:58:15.55,Main,,0,0,0,,À nhầm, đó là Nagasako chứ.
+Dialogue: 12,0:58:15.55,0:58:17.43,Main,,0,0,0,,À, lối kia?
+Dialogue: 12,0:58:17.43,0:58:18.56,Main,,0,0,0,,Lối này chứ.
+Dialogue: 12,0:58:33.61,0:58:35.24,Main,,0,0,0,,Ôi xin lỗi.
+Dialogue: 12,0:58:39.75,0:58:40.16,Main,,0,0,0,,Không sao.
+Dialogue: 12,0:58:41.50,0:58:42.92,Main,,0,0,0,,Dưa hấu?
+Dialogue: 12,0:58:42.92,0:58:44.00,Main,,0,0,0,,Vầng.
 Dialogue: 12,0:58:44.00,0:58:45.33,Main,,0,0,0,,Caramel?
-Dialogue: 12,0:58:45.33,0:58:46.46,Main,,0,0,0,,Yeah.
-Dialogue: 12,0:58:46.46,0:58:47.67,Main,,0,0,0,,You lost?
-Dialogue: 12,0:58:47.67,0:58:48.55,Main,,0,0,0,,Yeah.
-Dialogue: 12,0:58:49.34,0:58:51.42,Main,,0,0,0,,Even though you're grown up?
-Dialogue: 12,0:58:51.42,0:58:53.34,Main,,0,0,0,,Where did you come from?
+Dialogue: 12,0:58:45.33,0:58:46.46,Main,,0,0,0,,Vầng.
+Dialogue: 12,0:58:46.46,0:58:47.67,Main,,0,0,0,,Bị lạc à?
+Dialogue: 12,0:58:47.67,0:58:48.55,Main,,0,0,0,,Vầng~
+Dialogue: 12,0:58:49.34,0:58:51.42,Main,,0,0,0,,Dù đã lớn rồi sao?
+Dialogue: 12,0:58:51.42,0:58:53.34,Main,,0,0,0,,Cô từ đâu đến?
 Dialogue: 12,0:58:53.34,0:58:54.43,Main,,0,0,0,,Naganoki.
-Dialogue: 12,0:58:55.30,0:59:01.43,Main,,0,0,0,***,Onee-san, no one will give me directions, and everyone smells real nice.
-Dialogue: 12,0:59:01.43,0:59:04.44,Main,,0,0,0,,Is this some fairy tale palace or something?{竜宮城 "Dragon Palace" from the famous folktale of Urashima Taro}
-Dialogue: 12,0:59:04.44,0:59:10.07,Main,,0,0,0,,For Naganoki, you turn that corner, go down to the post office, and then...
-Dialogue: 12,0:59:10.82,0:59:12.03,Main,,0,0,0,,Wait here.
-Dialogue: 12,0:59:13.49,0:59:16.07,Main,,0,0,0,***,Nee-san, I have a question.{can you tell me...}
-Dialogue: 12,0:59:21.16,0:59:27.96,Main,,0,0,0,,From here, go straight and turn right when you pass the post office.
-Dialogue: 12,0:59:27.96,0:59:29.75,Main,,0,0,0,,Thank you so much.
-Dialogue: 12,0:59:30.59,0:59:34.51,Main,,0,0,0,,Many folks in these parts don't really know their way around.{不案内な ill-informed; unfamiliar; unaquanted; stranger to}
-Dialogue: 12,0:59:34.51,0:59:38.55,Main,,0,0,0,,Most of us aren't locals, and we don't go beyond these gates.{literally: won't leave Official: Most of us aren't locals and we stay within these gates.}
-Dialogue: 12,0:59:39.22,0:59:42.31,Main,,0,0,0,,Are you also from South Hiroshima?
-Dialogue: 12,0:59:42.31,0:59:43.64,Main,,0,0,0,,Near the ocean?
-Dialogue: 12,0:59:43.64,0:59:46.15,Main,,0,0,0,,I am. But how did you...?
-Dialogue: 12,0:59:46.15,0:59:47.10,Main,,0,0,0,,Your accent.
-Dialogue: 12,0:59:47.48,0:59:49.52,Main,,0,0,0,,Oh, are you from Eba?
-Dialogue: 12,0:59:49.52,0:59:51.48,Main,,0,0,0,,Yeah, from Kusatsu.
+Dialogue: 12,0:58:55.30,0:58:59.12,Main,,0,0,0,***,Onē-san ơi, chả có ai chỉ được đường cho em về cả.
+Dialogue: 12,0:58:59.12,0:59:01.43,Main,,0,0,0,,Ai ngửi cũng thơm phức ấy.
+Dialogue: 12,0:59:01.43,0:59:04.44,Main,,0,0,0,,Đây là Long Cung à chị?
+Dialogue: 12,0:59:04.44,0:59:10.07,Main,,0,0,0,,Naganogi thì rẽ ở góc phố đằng kia,\N rồi đi qua bưu điện...
+Dialogue: 12,0:59:10.82,0:59:12.03,Main,,0,0,0,,Mà chờ chút.
+Dialogue: 12,0:59:13.49,0:59:16.07,Main,,0,0,0,***,Nē-san, hỏi cái...
+Dialogue: 12,0:59:21.16,0:59:27.96,Main,,0,0,0,,Từ đây, đi thẳng, qua bưu điện thì rẽ phải.
+Dialogue: 12,0:59:27.96,0:59:29.75,Main,,0,0,0,,Em cảm ơn ạ.
+Dialogue: 12,0:59:30.59,0:59:34.51,Main,,0,0,0,,Dân quanh đây không thông thuộc đường sá mấy.
+Dialogue: 12,0:59:34.51,0:59:38.55,Main,,0,0,0,,Vì hầu hết là tha hương, \Nthậm chí còn chẳng ra khỏi cánh cổng được.
+Dialogue: 12,0:59:39.22,0:59:42.31,Main,,0,0,0,,Cô cũng từ Nam Hiroshima nhỉ?
+Dialogue: 12,0:59:42.31,0:59:43.64,Main,,0,0,0,,Gần biển đúng không?
+Dialogue: 12,0:59:43.64,0:59:46.15,Main,,0,0,0,,Đúng ạ! Nhưng sao chị biết?
+Dialogue: 12,0:59:46.15,0:59:47.10,Main,,0,0,0,,Do giọng đó.
+Dialogue: 12,0:59:47.48,0:59:49.52,Main,,0,0,0,,Ồ~ Thế chị Eba à?
+Dialogue: 12,0:59:49.52,0:59:51.48,Main,,0,0,0,,Kusatsu đó.
 Dialogue: 12,0:59:51.48,0:59:52.78,Main,,0,0,0,,Kusatsu!
-Dialogue: 12,0:59:53.49,0:59:57.07,Main,,0,0,0,,I had watermelon at my grandma's place every summer.
-Dialogue: 12,0:59:57.07,1:00:01.99,Main,,0,0,0,,We were poor, so I always ate the rinds people left behind.
-Dialogue: 12,1:00:02.66,1:00:05.00,Main,,0,0,0,,I met a kind person once,
-Dialogue: 12,1:00:05.62,1:00:08.00,Main,,0,0,0,,and I finally ate the red flesh.
-Dialogue: 12,1:00:08.63,1:00:11.13,Main,,0,0,0,,It was a long time ago.
-Dialogue: 12,1:00:11.55,1:00:14.26,Main,,0,0,0,,But anyway, you sure can draw.
-Dialogue: 12,1:00:14.26,1:00:15.84,Main,,0,0,0,,After looking at them...
-Dialogue: 12,1:00:16.63,1:00:17.64,Main,,0,0,0,,Um...{arguably could join this with previous}
-Dialogue: 12,1:00:18.59,1:00:20.47,Main,,0,0,0,,Sure, no problem!
-Dialogue: 12,1:00:20.47,1:00:22.72,Main,,0,0,0,,If there's anything else you want me to draw, just tell me.{'me to draw' not in JP. It could be omitted but it might not really make sense. Official: 'I'll draw whatever you want.'}
-Dialogue: 12,1:00:22.72,1:00:25.10,Main,,0,0,0,***,Mint candy and warabi-mochi!{bracken dumplings}
-Dialogue: 12,1:00:25.10,1:00:26.73,Main,,0,0,0,,Mint candy.
-Dialogue: 12,1:00:26.73,1:00:31.19,Main,,0,0,0,,And ice cream with wafers on top.
-Dialogue: 12,1:00:31.19,1:00:32.36,Main,,0,0,0,,Wafers?
-Dialogue: 12,1:00:32.36,1:00:33.61,Main,,0,0,0,,Not heard of 'em?
-Dialogue: 12,1:00:33.61,1:00:36.03,Main,,0,0,0,,You've never been to a coffeehouse?{喫茶店 Official subs just go with café. Not sure but coffeehouse/coffee shop is the literal. And since this is in the 40's...}
-Dialogue: 12,1:00:35.03,1:00:36.03,Main,,0,0,0,,Rin!
-Dialogue: 12,1:00:36.03,1:00:38.53,Main,,0,0,0,,Quit dawdling!{油を売る = dawdle; loaf/laze about [on the job]; waste time.}
-Dialogue: 12,1:00:38.03,1:00:38.53,Main,,0,0,0,,Hey.{What would they say in time period? Hiya; howdy ? 'Sup/What's up/Yo are all too modern}
-Dialogue: 12,1:00:38.53,1:00:41.49,Main,,0,0,0,,Sorry, I have to go.
-Dialogue: 12,1:00:41.49,1:00:43.91,Main,,0,0,0,,Oh, I'll draw them up and bring it to you later.
-Dialogue: 12,1:00:46.08,1:00:47.58,Main,,0,0,0,,Don't.
-Dialogue: 12,1:00:47.58,1:00:49.92,Main,,0,0,0,,You shouldn't come back here.
-Dialogue: 12,1:00:50.29,1:00:50.83,Main,,0,0,0,,Huh?
-Dialogue: 12,1:00:53.30,1:00:55.92,Main,,0,0,0,,You'll just get lost again!
-Dialogue: 12,1:01:16.57,1:01:17.86,Main,,0,0,0,,What took you so long?
-Dialogue: 12,1:01:17.86,1:01:21.78,Main,,0,0,0,,Did you somehow forget your way home from shopping?
-Dialogue: 12,1:01:22.91,1:01:29.37,Main,,0,0,0,***,Onee-san, what's an ice cream with wafers that you can get at coffeehouses?{MTBB: 'Keiko, do you know what wafers are? That you apparently eat with "iced cream"? ウエハーの付いた　喫茶店のアイスクリームいうたら　どんな物ですか？}
-Dialogue: 12,1:01:29.37,1:01:30.71,Main,,0,0,0,,What? You don't know?
-Dialogue: 12,1:01:31.71,1:01:34.67,Main,,0,0,0,,Well, it's sweet and cold.
-Dialogue: 12,1:01:34.67,1:01:37.72,Main,,0,0,0,,You eat it with something that's a bit like a crispy rice cracker.{More literally: you scoop it up and eat it with...}
-Dialogue: 12,1:01:38.30,1:01:39.59,Main,,0,0,0,,Ah, wonderful...
-Dialogue: 12,1:01:39.59,1:01:40.68,Main,,0,0,0,,Oh!
-Dialogue: 12,1:01:40.68,1:01:41.84,Main,,0,0,0,,That's...
-Dialogue: 12,1:01:44.81,1:01:50.19,Main,,0,0,0,,Talking about desserts for the first time in ages, somehow makes even water taste sweet.{Alt: 'All this talk about desserts has made even this water taste sweet.' I like this but it isn't quite what she's saying, she is talking in general, not just "this water" or in this instance. I guess it's still acceptable, though. The simple, official version: 'Thinking about desserts makes water taste sweet.'}
-Dialogue: 12,1:01:57.53,1:01:58.99,Main,,0,0,0,,{\i1}It's still very hot.
-Dialogue: 12,1:02:00.57,1:02:01.66,Main,,0,0,0,***,Mrs. Hōjo-san.{keyframe / 北条の嫁さん 'Hōjo-san's wife.' Except this is not natural at all. Mrs. + san might be so wrong but...}
-Dialogue: 12,1:02:02.62,1:02:04.37,Main,,0,0,0,,You've got a phone call.
-Dialogue: 12,1:02:05.37,1:02:08.08,Main,,0,0,0,,Yes? A phone call for me?
-Dialogue: 12,1:02:11.29,1:02:13.17,Main,,0,0,0,,Ah, this is what he wants.
-Dialogue: 12,1:02:14.08,1:02:15.67,Main,,0,0,0,,Ahh, it's so hot.
-Dialogue: 12,1:02:15.67,1:02:17.38,Main,,0,0,0,,{\move(960,984.788,600,984.788)}You'll embarrass Shūsaku dressed like that!
-Dialogue: 12,1:02:17.38,1:02:18.67,Main,,0,0,0,,{\move(600,984.788,-300,984.788)}You'll embarrass Shūsaku dressed like that!
-Dialogue: 12,1:02:29.02,1:02:31.44,Main,,0,0,0,,We've still got time. Let's take a walk.
-Dialogue: 12,1:02:31.85,1:02:34.94,Main,,0,0,0,,So how goes it with the GKF?{GKF = 南西方面艦隊 Southwest Area Fleet. Some sort of Naval fleet.}
-Dialogue: 12,1:02:34.94,1:02:36.57,Main,,0,0,0,,They're quite laid back.
-Dialogue: 12,1:02:36.57,1:02:37.78,Main,,0,0,0,,That so?
-Dialogue: 12,1:02:37.78,1:02:39.86,Main,,0,0,0,,Well, let's go have a cold beer.
-Dialogue: 12,1:02:55.79,1:02:59.51,Main,,0,0,0,***,Shūsaku-san, I've brought your notebook.
-Dialogue: 12,1:02:59.51,1:03:00.09,Main,,0,0,0,,Huh?
-Dialogue: 12,1:03:04.13,1:03:06.55,Main,,0,0,0,***,Oh, Suzu-san?
-Dialogue: 12,1:03:06.55,1:03:08.68,Main,,0,0,0,,You're pale as a ghost. Are you okay?
-Dialogue: 12,1:03:09.52,1:03:11.39,Main,,0,0,0,,D-Do I really look that funny?
-Dialogue: 12,1:03:12.31,1:03:14.90,Main,,0,0,0,,Nah. I'm happy if you're okay.
-Dialogue: 12,1:03:14.90,1:03:16.19,Main,,0,0,0,,Well then, let's go.
-Dialogue: 12,1:03:17.02,1:03:19.27,Main,,0,0,0,,Huh? What about work?
-Dialogue: 12,1:03:19.27,1:03:22.70,Main,,0,0,0,,There's no rush. I just used the notebook as an excuse to get you down here.{'to get you down here' not in the JP; added by the official translators so this makes more sense.}
-Dialogue: 12,1:03:23.57,1:03:26.66,Main,,0,0,0,,Didn't you tell me that you enjoyed going out to shop in the city?
-Dialogue: 12,1:03:30.08,1:03:33.54,Main,,0,0,0,,{Huh? }What's the matter? Don't tell me you really aren't feeling well.
-Dialogue: 12,1:03:33.54,1:03:36.00,Main,,0,0,0,,I don't want you seeing this silly grin on my face!
-Dialogue: 12,1:03:41.59,1:03:43.67,Main,,0,0,0,,I wanted to take you to the cinema, but...
-Dialogue: 12,1:03:45.93,1:03:49.01,Main,,0,0,0,,I guess a big ship is back in port.
-Dialogue: 12,1:03:51.01,1:03:52.52,Main,,0,0,0,,Sailors do need their time off.{譲る hand over; surrender to. Translating the idea otherwise this line makes little sense.}
-Dialogue: 12,1:03:53.64,1:03:56.02,Main,,0,0,0,,We'll just have to go another day.
+Dialogue: 12,0:59:53.49,0:59:57.07,Main,,0,0,0,,Năm nào em cũng ăn dưa hấu ở nhà bà em đấy.
+Dialogue: 12,0:59:57.07,1:00:01.99,Main,,0,0,0,,Nhà tôi nghèo nên chỉ gặm vỏ người ta vứt đi thôi.
+Dialogue: 12,1:00:02.66,1:00:05.00,Main,,0,0,0,,Nhớ có cái lần người ta hào phóng...
+Dialogue: 12,1:00:05.62,1:00:08.00,Main,,0,0,0,,Cho tôi được ăn phần ruột đỏ.
+Dialogue: 12,1:00:08.63,1:00:11.13,Main,,0,0,0,,Lâu lắm rồi.
+Dialogue: 12,1:00:11.55,1:00:14.26,Main,,0,0,0,,Mà chắc cô biết vẽ vời nhỉ.
+Dialogue: 12,1:00:14.26,1:00:15.84,Main,,0,0,0,,Sau khi trông thấy cô vẽ tôi...
+Dialogue: 12,1:00:16.63,1:00:17.64,Main,,0,0,0,,À thì...
+Dialogue: 12,1:00:18.59,1:00:20.47,Main,,0,0,0,,Đơn giản thôi mà.
+Dialogue: 12,1:00:20.47,1:00:22.72,Main,,0,0,0,,Cần vẽ gì nữa thì cứ bảo em.
+Dialogue: 12,1:00:22.72,1:00:25.10,Main,,0,0,0,***,Kẹo dồi... Warabimochi...
+Dialogue: 12,1:00:25.10,1:00:26.73,Main,,0,0,0,,Kẹo dồi...
+Dialogue: 12,1:00:26.73,1:00:31.19,Main,,0,0,0,,Và cả kem kèm với bánh quế.
+Dialogue: 12,1:00:31.19,1:00:32.36,Main,,0,0,0,,Bánh quế?
+Dialogue: 12,1:00:32.36,1:00:33.61,Main,,0,0,0,,Không biết à?
+Dialogue: 12,1:00:33.61,1:00:36.03,Main,,0,0,0,,Chưa đi cà phê bao giờ à?
+Dialogue: 12,1:00:35.03,1:00:36.03,Main,,0,0,0,,{\an8}Rin!
+Dialogue: 12,1:00:36.03,1:00:38.53,Main,,0,0,0,,Lại đi buôn dưa lê đấy à!
+Dialogue: 12,1:00:38.53,1:00:41.49,Main,,0,0,0,,Thôi nha, tôi phải đi rồi.
+Dialogue: 12,1:00:41.49,1:00:43.91,Main,,0,0,0,,Vậy để lần tới em vẽ cho.
+Dialogue: 12,1:00:46.08,1:00:47.58,Main,,0,0,0,,Thôi khỏi.
+Dialogue: 12,1:00:47.58,1:00:49.92,Main,,0,0,0,,Đây không nơi cô nên lui tới đâu.
+Dialogue: 12,1:00:53.30,1:00:55.92,Main,,0,0,0,,Kẻo lại lạc đấy.
+Dialogue: 12,1:01:16.57,1:01:17.86,Main,,0,0,0,,Về muộn thế!
+Dialogue: 12,1:01:17.86,1:01:21.78,Main,,0,0,0,,Có cái việc đi chợ, chắc lại lạc đường chứ gì.
+Dialogue: 12,1:01:22.91,1:01:29.37,Main,,0,0,0,***,Onē-san, ở quán cà phê,\N cái món kem đi kèm với bánh quế là gì thế?
+Dialogue: 12,1:01:29.37,1:01:30.71,Main,,0,0,0,,Gì cơ, không biết luôn à?
+Dialogue: 12,1:01:31.71,1:01:34.67,Main,,0,0,0,,Thì nó lạnh với ngọt.
+Dialogue: 12,1:01:34.67,1:01:37.72,Main,,0,0,0,,Ăn kiểu như ăn bánh gạo dòn ấy, xúc từng miếng.
+Dialogue: 12,1:01:38.30,1:01:39.59,Main,,0,0,0,,Ôi chà~ Ngon thật~
+Dialogue: 12,1:01:40.72,1:01:41.84,Main,,0,0,0,,Đó là...
+Dialogue: 12,1:01:44.81,1:01:50.19,Main,,0,0,0,,Lâu rồi mới bàn về đồ ngọt cái mà\N uống nước lã cũng thấy ngọt luôn này.
+Dialogue: 12,1:01:57.53,1:01:58.99,Main,,0,0,0,,{\i1}Trời vẫn còn rất nóng!
+Dialogue: 12,1:02:00.57,1:02:01.66,Main,,0,0,0,***,Dâu nhà Hōjo ơi!
+Dialogue: 12,1:02:02.62,1:02:04.37,Main,,0,0,0,,Cháu có điện này.
+Dialogue: 12,1:02:05.37,1:02:08.08,Main,,0,0,0,,Dạ! Nhà cháu gọi à?
+Dialogue: 12,1:02:11.29,1:02:13.17,Main,,0,0,0,,A~ đây rồi, đây rồi.
+Dialogue: 12,1:02:14.08,1:02:15.67,Main,,0,0,0,,Nóng thật đấy.
+Dialogue: 12,1:02:15.67,1:02:17.38,Main,,0,0,0,,{\move(960,984.788,600,984.788)}Cô làm xấu mặt Shūsaku mất thôi! \NĂn mặc gì nhếch nhác chả đâu vào đâu!
+Dialogue: 12,1:02:17.38,1:02:18.67,Main,,0,0,0,,{\move(600,984.788,-300,984.788)}Cô làm xấu mặt Shūsaku mất thôi! \NĂn mặc gì nhếch nhác chả đâu vào đâu!
+Dialogue: 12,1:02:29.02,1:02:31.44,Main,,0,0,0,,Sắp tới giờ đi tuần rồi, đi dần là vừa.
+Dialogue: 12,1:02:31.85,1:02:34.94,GT 2,,0,0,0,,(GKF = Hạm đội Tây Nam)
+Dialogue: 12,1:02:31.85,1:02:34.94,Main,,0,0,0,,Tình hình GKF thế nào?
+Dialogue: 12,1:02:34.94,1:02:36.57,Main,,0,0,0,,Khá là thoải mái.
+Dialogue: 12,1:02:36.57,1:02:37.78,Main,,0,0,0,,Vậy à.
+Dialogue: 12,1:02:37.78,1:02:39.86,Main,,0,0,0,,Mà, làm cốc bia lạnh cho đã.
+Dialogue: 12,1:02:55.79,1:02:59.51,Main,,0,0,0,***,Shūsaku-san, em đem sổ đến cho anh đây.
+Dialogue: 12,1:03:04.13,1:03:06.55,Main,,0,0,0,***,À~ Suzu-san?
+Dialogue: 12,1:03:06.55,1:03:08.68,Main,,0,0,0,,Nhìn mặt em trắng bệch, có sao không thế?
+Dialogue: 12,1:03:09.52,1:03:11.39,Main,,0,0,0,,T-Trồng kỳ lắm nhỉ?
+Dialogue: 12,1:03:12.31,1:03:14.90,Main,,0,0,0,,À không, khỏe là tốt rồi.
+Dialogue: 12,1:03:14.90,1:03:16.19,Main,,0,0,0,,Mình đi thôi nào.
+Dialogue: 12,1:03:17.02,1:03:19.27,Main,,0,0,0,,Hể?! Thế còn công việc?
+Dialogue: 12,1:03:19.27,1:03:22.70,Main,,0,0,0,,Không phải vội,\N anh lấy cớ kêu em mang sổ tới thôi.
+Dialogue: 12,1:03:23.57,1:03:26.66,Main,,0,0,0,,Em có bảo là lên phố mua sắm rất vui còn gì.
+Dialogue: 12,1:03:30.08,1:03:33.54,Main,,0,0,0,,Ơ sao thế? Không khỏe ở đâu à?
+Dialogue: 12,1:03:33.54,1:03:36.00,Main,,0,0,0,,Người ta không muốn anh thấy người ta cười thôi.
+Dialogue: 12,1:03:41.59,1:03:43.67,Main,,0,0,0,,Anh tính là đi xem phim cơ mà...
+Dialogue: 12,1:03:45.93,1:03:49.01,Main,,0,0,0,,Chắc là có tàu lớn mới về đây.
+Dialogue: 12,1:03:51.01,1:03:52.52,Main,,0,0,0,,Chắc đành thôi vậy.
+Dialogue: 12,1:03:53.64,1:03:56.02,Main,,0,0,0,,Tiếc thật cơ mà để lần sau vậy.
 Dialogue: 12,1:03:59.11,1:04:00.65,Main,,0,0,0,***,Suzu-san?
-Dialogue: 12,1:04:00.65,1:04:05.95,Main,,0,0,0,,A classmate of mine from elementary school became a sailor.
-Dialogue: 12,1:04:05.95,1:04:08.41,Main,,0,0,0,,What if I bump into him?{MTBB: I don't know what I'll do if I see him.}
-Dialogue: 12,1:04:08.41,1:04:11.03,Main,,0,0,0,,Just say hi like you normally would.
-Dialogue: 12,1:04:11.83,1:04:18.96,Main,,0,0,0,,I feel like I might wake from this dream if I meet someone from my past.
-Dialogue: 12,1:04:18.96,1:04:20.17,Main,,0,0,0,,Dream?
-Dialogue: 12,1:04:20.17,1:04:23.55,Main,,0,0,0,,Changing my name and moving was hard for me.
-Dialogue: 12,1:04:24.34,1:04:27.59,Main,,0,0,0,,But you've been so kind to me.
-Dialogue: 12,1:04:27.59,1:04:29.55,Main,,0,0,0,,And I've made friends.
-Dialogue: 12,1:04:31.18,1:04:33.72,Main,,0,0,0,,Waking up now wouldn't be any fun.
-Dialogue: 12,1:04:33.72,1:04:36.64,Main,,0,0,0,,I'm just happy to be who I am today.{MTBB: It'd be nice if the me I am now gets to be the real me.}
-Dialogue: 12,1:04:36.64,1:04:38.02,Main,,0,0,0,,I see.
-Dialogue: 12,1:04:39.06,1:04:42.48,Main,,0,0,0,,Stuff from the past and the paths we didn't choose to walk.
-Dialogue: 12,1:04:42.48,1:04:45.24,Main,,0,0,0,,They're like dreams we woke up from.
-Dialogue: 12,1:04:45.99,1:04:51.41,Main,,0,0,0,***,Suzu-san, choosing to marry you was the best decision of my life.
-Dialogue: 12,1:04:53.29,1:04:56.12,Main,,0,0,0,,But I am a little worried that you've lost weight.
-Dialogue: 12,1:04:56.87,1:05:00.96,Main,,0,0,0,,I suppose I haven't had much appetite lately.
-Dialogue: 12,1:05:07.93,1:05:09.64,Main,,0,0,0,,Here. Eat for two people!
-Dialogue: 12,1:05:22.52,1:05:24.07,Main,,0,0,0,,Oh...
-Dialogue: 12,1:05:24.90,1:05:26.69,Main,,0,0,0,,You're good at this!
-Dialogue: 12,1:05:27.74,1:05:29.45,Main,,0,0,0,,Thanks for coming all this way to visit me.
-Dialogue: 12,1:05:29.95,1:05:31.82,Main,,0,0,0,,Well, you know...
-Dialogue: 12,1:05:32.74,1:05:35.04,Main,,0,0,0,,I just dropped by on my way from the hospital.
-Dialogue: 12,1:05:35.04,1:05:38.16,Main,,0,0,0,,Hospital? Are you sick?
-Dialogue: 12,1:05:38.58,1:05:40.08,Main,,0,0,0,,No, it's not that.
-Dialogue: 12,1:05:40.96,1:05:42.46,Main,,0,0,0,,That's good.
-Dialogue: 12,1:05:43.17,1:05:45.34,Main,,0,0,0,,Watermelon looks great.
-Dialogue: 12,1:05:45.34,1:05:48.97,Main,,0,0,0,,And warabi-mochi. And mint candy.
-Dialogue: 12,1:05:51.51,1:05:52.85,Main,,0,0,0,,What's this?
-Dialogue: 12,1:06:03.73,1:06:07.19,Main,,0,0,0,,Um... This is ice cream.
-Dialogue: 12,1:06:07.19,1:06:10.32,Main,,0,0,0,,What kind of ice cream is this?
-Dialogue: 12,1:06:12.20,1:06:13.28,Main,,0,0,0,,Sorry.
-Dialogue: 12,1:06:13.28,1:06:15.83,Main,,0,0,0,,It's so expensive, I never actually ate it.
-Dialogue: 12,1:06:16.87,1:06:18.75,Main,,0,0,0,,It's me who should apologize.
-Dialogue: 12,1:06:18.75,1:06:24.46,Main,,0,0,0,,I only went to school for half a year. Didn't learn anything but katakana.
-Dialogue: 12,1:06:25.38,1:06:27.63,Main,,0,0,0,,Can't read hiragana at all.
-Dialogue: 12,1:06:29.97,1:06:33.93,Main,,0,0,0,,But how did you fill your identity card?
-Dialogue: 12,1:06:34.60,1:06:39.10,Main,,0,0,0,,It's all right. One kind customer did that for me.
-Dialogue: 12,1:06:41.06,1:06:42.64,Main,,0,0,0,,So it's all right.
-Dialogue: 12,1:06:44.02,1:06:44.94,Main,,0,0,0,,See?
-Dialogue: 12,1:06:44.94,1:06:49.03,Main,,0,0,0,,Ooh, so your name is Shiraki Rin.
-Dialogue: 12,1:06:50.57,1:06:54.99,Main,,0,0,0,,Well then, time to make my introductions too.Better late than never.
-Dialogue: 12,1:07:03.92,1:07:05.83,Main,,0,0,0,,So...
+Dialogue: 12,1:04:00.65,1:04:05.95,Main,,0,0,0,,Em có cậu bạn cùng lớp hồi tiểu học\N đã trở thành thủy thủ.
+Dialogue: 12,1:04:05.95,1:04:08.41,Main,,0,0,0,,Nhỡ gặp phải thì sao?
+Dialogue: 12,1:04:08.41,1:04:11.03,Main,,0,0,0,,Thì chào hỏi bình thường là được rồi.
+Dialogue: 12,1:04:11.83,1:04:18.96,Main,,0,0,0,,Em có cảm giác nếu em gặp phải người quen cũ\N thì giấc mơ này sẽ chấm dứt.
+Dialogue: 12,1:04:18.96,1:04:20.17,Main,,0,0,0,,Giấc mơ?
+Dialogue: 12,1:04:20.17,1:04:23.55,Main,,0,0,0,,Tới nhà chồng, đổi họ, cả đống chuyện.
+Dialogue: 12,1:04:24.34,1:04:27.59,Main,,0,0,0,,Nhưng may là được Shūsaku-san đối tốt.
+Dialogue: 12,1:04:27.59,1:04:29.55,Main,,0,0,0,,Cũng quen biết thêm bạn bè.
+Dialogue: 12,1:04:31.18,1:04:33.72,Main,,0,0,0,,Em chẳng muốn tỉnh giấc bây giờ đâu.
+Dialogue: 12,1:04:33.72,1:04:36.64,Main,,0,0,0,,Em hạnh phúc với cuộc sống hiện tại.
+Dialogue: 12,1:04:36.64,1:04:38.02,Main,,0,0,0,,Anh hiểu.
+Dialogue: 12,1:04:39.06,1:04:42.48,Main,,0,0,0,,Chuyện từ quá khứ...\N Con đường mà ta đã không chọn...
+Dialogue: 12,1:04:42.48,1:04:45.24,Main,,0,0,0,,Tất cả đều như một giấc mơ.
+Dialogue: 12,1:04:45.99,1:04:51.41,Main,,0,0,0,***,Suzu-san này, chọn em... \Nchắc là lựa chọn tuyệt vời nhất đời anh.
+Dialogue: 12,1:04:53.29,1:04:56.12,Main,,0,0,0,,Mà hình như em sụt cân đấy, anh có hơi lo.
+Dialogue: 12,1:04:56.87,1:05:00.96,Main,,0,0,0,,À thì gần đây em hơi chán ăn.
+Dialogue: 12,1:05:07.88,1:05:09.64,Main,,0,0,0,,Đây! Ăn cho 2 người!
+Dialogue: 12,1:05:24.90,1:05:26.69,Main,,0,0,0,,Vẽ đẹp nhỉ.
+Comment: 12,1:05:21.27,1:05:27.28,Signs,,0,0,0,add.sign,
+Dialogue: 12,1:05:27.74,1:05:29.45,Main,,0,0,0,,Cảm ơn {\i1}em{\i0} nhé, làm phiền {\i1}em{\i0} rồi.
+Dialogue: 12,1:05:29.95,1:05:31.82,Main,,0,0,0,,Không có gì ạ.
+Dialogue: 12,1:05:32.74,1:05:35.04,Main,,0,0,0,,Tiện đường em tới bệnh viện ấy mà.
+Dialogue: 12,1:05:35.04,1:05:38.16,Main,,0,0,0,,Bệnh viện? Em ốm à?
+Dialogue: 12,1:05:38.58,1:05:40.08,Main,,0,0,0,,Dạ không ạ.
+Dialogue: 12,1:05:40.96,1:05:42.46,Main,,0,0,0,,Thế thì tốt.
+Dialogue: 12,1:05:43.17,1:05:45.34,Main,,0,0,0,,Đẹp nhỉ, xem dưa hấu này.
+Dialogue: 12,1:05:45.34,1:05:48.97,Main,,0,0,0,,Cả warabi-mochi... và kẹo dồi nữa.
+Dialogue: 12,1:05:51.51,1:05:52.85,Main,,0,0,0,,Đây là gì thế?
+Comment: 12,1:05:49.80,1:05:53.55,Main,,0,0,0,add.sign,
+Dialogue: 12,1:06:03.73,1:06:07.19,Main,,0,0,0,,À thì... đấy là kem...
+Dialogue: 12,1:06:07.19,1:06:10.32,Main,,0,0,0,,Hể?! Đây là kem á?
+Dialogue: 12,1:06:12.20,1:06:13.28,Main,,0,0,0,,Xin lỗi~
+Dialogue: 12,1:06:13.28,1:06:15.83,Main,,0,0,0,,Em chẳng biết nó trông như nào.
+Dialogue: 12,1:06:16.87,1:06:18.75,Main,,0,0,0,,Là chị xin lỗi mới phải.
+Dialogue: 12,1:06:18.75,1:06:24.46,Main,,0,0,0,,Chị chỉ đi học có nửa năm.\NKhông học được gì ngoài katakana.
+Dialogue: 12,1:06:25.38,1:06:27.63,Main,,0,0,0,,Hiragana chịu không đọc được.
+Dialogue: 12,1:06:29.97,1:06:33.93,Main,,0,0,0,,Ơ thế sao chị viết được tên mình?
+Dialogue: 12,1:06:34.60,1:06:39.10,Main,,0,0,0,,Cái đó thì không sao, có vị khách đã viết cho chị.
+Comment: 12,1:06:39.73,1:06:43.73,Main,,0,0,0,add.sign,
+Dialogue: 12,1:06:41.06,1:06:42.64,Main,,0,0,0,,Nên không sao hết.
+Dialogue: 12,1:06:44.02,1:06:44.94,Main,,0,0,0,,Nè.
+Dialogue: 12,1:06:44.94,1:06:49.03,Main,,0,0,0,,Ồ~ Vậy tên chị là Shiraki Rin nhỉ.
+Dialogue: 12,1:06:50.57,1:06:54.99,Main,,0,0,0,,Vậy em cũng phải giới thiệu bản thân rồi,\N muộn còn hơn không.
+Dialogue: 12,1:07:03.92,1:07:05.83,Main,,0,0,0,,Xem nào....
+Comment: 12,1:07:05.83,1:07:10.96,Main,,0,0,0,add.sign,
 Dialogue: 12,1:07:07.25,1:07:08.34,Main,,0,0,0,,Hou...
 Dialogue: 12,1:07:08.34,1:07:09.55,Main,,0,0,0,,Ji...
 Dialogue: 12,1:07:09.55,1:07:10.76,Main,,0,0,0,,Jo?
@@ -1766,7 +1765,7 @@ Dialogue: 12,1:52:50.45,1:52:51.33,Main,,0,0,0,,Nothing.
 Dialogue: 12,1:52:51.33,1:52:54.12,Main,,0,0,0,,That's why I told Keiko{Added her name to make it clearer. Alt: "her"}
 Dialogue: 12,1:52:54.12,1:52:58.54,Main,,0,0,0,,to ask the Kuromuras to let Harumi stay with them for the time being.{you'd never say "ask to have Harumi evacuate to the Kuromuras house," which is the more literal rendering. That "for the time being" should convey the idea that it's a temporary evac to a safer city/place.  黒村のご両親家へ　晴美を疎開さしてもらえと}
 Dialogue: 12,1:52:58.54,1:53:00.13,Main,,0,0,0,,It's safer.{keyframe / ここよりゃ　なんぼか不安じゃろ}
-Dialogue: 12,1:53:02.21,1:53:03.59,Main,,0,0,0,***,So that's why Onee-san was...{Was italicised, but Suzu being a bit of airhead was clearing thinking out loud (even if Harumi was right there)}
+Dialogue: 12,1:53:02.21,1:53:03.59,Main,,0,0,0,***,So that's why Onē-san was...{Was italicised, but Suzu being a bit of airhead was clearing thinking out loud (even if Harumi was right there)}
 Dialogue: 12,1:53:03.59,1:53:07.18,Main,,0,0,0,***,Hey Suzu-san, can we go that way?{MTBB: Suzu, can we look over thataway?}
 Dialogue: 12,1:53:07.18,1:53:10.72,Main,,0,0,0,***,I want to see what ships are here so I can tell Onii-san.{my brother}
 Dialogue: 12,1:53:10.72,1:53:13.02,Main,,0,0,0,,Hmm, I wonder if we can see anything.
@@ -1839,7 +1838,7 @@ Dialogue: 12,1:57:44.33,1:57:45.25,Main,,0,0,0,,You were there with her.{keyfram
 Dialogue: 12,1:57:47.16,1:57:49.75,Main,,0,0,0,,How could you let this happen?
 Dialogue: 12,1:57:50.21,1:57:51.59,Main,,0,0,0,,I'm sorry.
 Dialogue: 12,1:57:51.59,1:57:53.67,Main,,0,0,0,***,I'm so sorry, Harumi-san.
-Dialogue: 12,1:57:53.67,1:57:55.21,Main,,0,0,0,***,I'm so sorry, Onee-san.
+Dialogue: 12,1:57:53.67,1:57:55.21,Main,,0,0,0,***,I'm so sorry, Onē-san.
 Dialogue: 12,1:57:55.21,1:57:57.05,Main,,0,0,0,,Murderer.
 Dialogue: 12,1:57:57.84,1:57:59.64,Main,,0,0,0,,You killed her!
 Dialogue: 12,1:57:59.64,1:58:01.80,Main,,0,0,0,,Stop, Keiko.
@@ -1912,7 +1911,7 @@ Dialogue: 12,2:02:06.42,2:02:07.97,Main,,0,0,0,,Yes. Go ahead.
 Dialogue: 12,2:02:10.01,2:02:12.97,Main,,0,0,0,,Oh, here. Eat up while it's still warm.
 Dialogue: 12,2:02:12.97,2:02:16.02,Main,,0,0,0,,My house burnt down, but the potatoes I stored under the floor cooked.{got nicely roasted. 床下へしもおとった芋がええがに焼けとったけえ}
 Dialogue: 12,2:02:16.68,2:02:19.44,Main,,0,0,0,,Oh, thank you.
-Dialogue: 12,2:02:19.44,2:02:20.73,Main,,0,0,0,***,Onee-san, do you...
+Dialogue: 12,2:02:19.44,2:02:20.73,Main,,0,0,0,***,Onē-san, do you...
 Dialogue: 12,2:02:22.19,2:02:25.78,Main,,0,0,0,,I'm beat. It's so, so hot.
 Dialogue: 12,2:02:26.44,2:02:29.28,Main,,0,0,0,,Hey! Anyone here from Shinonome?
 Dialogue: 12,2:02:29.28,2:02:34.70,Main,,0,0,0,,We can't go south to Asahi town.Even the red-light district burned to the ground.{朝日町より南は行けんわ　遊郭も丸焼けよのう}
@@ -1939,7 +1938,7 @@ Dialogue: 12,2:03:34.05,2:03:36.93,Main,hi-light,0,0,0,,{Kara Effector 3.5 arata
 Dialogue: 12,2:03:37.01,2:03:41.56,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 3 - line fx: 1] \an8\q2\pos(735,0)\fscx446.33\fscy899.02\t(0,121.49,\fscx436.33\fscy891.02)\t(121.49,376.92,\fscx462.33\fscy898.02)\t(376.92,621.74,\fscx441.33\fscy913.02)\t(621.74,896.86,\fscx462.33\fscy893.02)\t(896.86,1164,\fscx434.33\fscy890.02)\t(1164,1412.29,\fscx453.33\fscy908.02)\t(1412.29,1592.78,\fscx452.33\fscy889.02)\t(1592.78,1841.08,\fscx434.33\fscy908.02)\t(1841.08,2114.71,\fscx458.33\fscy892.02)\t(2114.71,2394.85,\fscx432.33\fscy906.02)\t(2394.85,2643.86,\fscx452.33\fscy889.02)\t(2643.86,2860.2,\fscx434.33\fscy903.02)\t(2860.2,3085.69,\fscx457.33\fscy897.02)\t(3085.69,3328.66,\fscx437.33\fscy913.02)\t(3328.66,3602.47,\fscx444.33\fscy885.02)\t(3602.47,3864.86,\fscx450.33\fscy912.02)\t(3864.86,4067.66,\fscx454.33\fscy891.02)\t(4067.66,4313.76,\fscx431.33\fscy903.02)\t(4313.8,4550,\fscx459.33\fscy894.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&HA0&\t(0,41.71,\fscx99\fscy96)\t(41.71,83.42,\fscx101\fscy101)\t(83.42,125.13,\fscx100\fscy101)\t(125.13,166.84,\fscx101\fscy98)\t(166.84,208.55,\fscx97\fscy103)\t(208.55,250.26,\fscx97\fscy96)\t(250.26,291.97,\fscx98\fscy100)\t(291.97,333.68,\fscx98\fscy96)\t(333.68,375.39,\fscx101\fscy98)\t(375.39,417.1,\fscx100\fscy104)\t(417.1,458.81,\fscx96\fscy97)\t(458.81,500.52,\fscx100\fscy96)\t(500.52,542.23,\fscx98\fscy97)\t(542.23,583.94,\fscx98\fscy102)\t(583.94,625.65,\fscx101\fscy104)\t(625.65,667.36,\fscx104\fscy98)\t(667.36,709.07,\fscx98\fscy103)\t(709.07,750.78,\fscx97\fscy98)\t(750.78,792.49,\fscx104\fscy102)\t(792.49,834.2,\fscx102\fscy103)\t(834.2,875.91,\fscx100\fscy101)\t(875.91,917.62,\fscx100\fscy96)\t(917.62,959.33,\fscx103\fscy96)\t(959.33,1001.04,\fscx98\fscy100)\t(1001.04,1042.75,\fscx96\fscy99)\t(1042.75,1084.46,\fscx97\fscy96)\t(1084.46,1126.17,\fscx104\fscy96)\t(1126.17,1167.88,\fscx100\fscy98)\t(1167.88,1209.59,\fscx98\fscy96)\t(1209.59,1251.3,\fscx104\fscy96)\t(1251.3,1293.01,\fscx102\fscy98)\t(1293.01,1334.72,\fscx102\fscy104)\t(1334.72,1376.43,\fscx102\fscy102)\t(1376.43,1418.14,\fscx100\fscy99)\t(1418.14,1459.85,\fscx98\fscy97)\t(1459.85,1501.56,\fscx102\fscy96)\t(1501.56,1543.27,\fscx96\fscy96)\t(1543.27,1584.98,\fscx96\fscy101)\t(1584.98,1626.69,\fscx100\fscy98)\t(1626.69,1668.4,\fscx101\fscy100)\t(1668.4,1710.11,\fscx102\fscy103)\t(1710.11,1751.82,\fscx96\fscy100)\t(1751.82,1793.53,\fscx97\fscy97)\t(1793.53,1835.24,\fscx101\fscy101)\t(1835.24,1876.95,\fscx97\fscy97)\t(1876.95,1918.66,\fscx102\fscy102)\t(1918.66,1960.37,\fscx99\fscy100)\t(1960.37,2002.08,\fscx100\fscy96)\t(2002.08,2043.79,\fscx103\fscy98)\t(2043.79,2085.5,\fscx96\fscy97)\t(2085.5,2127.21,\fscx101\fscy100)\t(2127.21,2168.92,\fscx97\fscy97)\t(2168.92,2210.63,\fscx102\fscy102)\t(2210.63,2252.34,\fscx102\fscy104)\t(2252.34,2294.05,\fscx101\fscy96)\t(2294.05,2335.76,\fscx99\fscy101)\t(2335.76,2377.47,\fscx96\fscy101)\t(2377.47,2419.18,\fscx104\fscy101)\t(2419.18,2460.89,\fscx98\fscy99)\t(2460.89,2502.6,\fscx98\fscy96)\t(2502.6,2544.31,\fscx101\fscy104)\t(2544.31,2586.02,\fscx97\fscy100)\t(2586.02,2627.73,\fscx102\fscy102)\t(2627.73,2669.44,\fscx103\fscy100)\t(2669.44,2711.15,\fscx98\fscy97)\t(2711.15,2752.86,\fscx99\fscy99)\t(2752.86,2794.57,\fscx96\fscy96)\t(2794.57,2836.28,\fscx101\fscy104)\t(2836.28,2877.99,\fscx102\fscy100)\t(2877.99,2919.7,\fscx100\fscy98)\t(2919.7,2961.41,\fscx99\fscy98)\t(2961.41,3003.12,\fscx104\fscy100)\t(3003.12,3044.83,\fscx101\fscy103)\t(3044.83,3086.54,\fscx97\fscy97)\t(3086.54,3128.25,\fscx104\fscy100)\t(3128.25,3169.96,\fscx98\fscy101)\t(3169.96,3211.67,\fscx103\fscy96)\t(3211.67,3253.38,\fscx101\fscy97)\t(3253.38,3295.09,\fscx102\fscy97)\t(3295.09,3336.8,\fscx96\fscy97)\t(3336.8,3378.51,\fscx99\fscy99)\t(3378.51,3420.22,\fscx96\fscy104)\t(3420.22,3461.93,\fscx102\fscy100)\t(3461.93,3503.64,\fscx104\fscy100)\t(3503.64,3545.35,\fscx102\fscy100)\t(3545.35,3587.06,\fscx96\fscy102)\t(3587.06,3628.77,\fscx101\fscy104)\t(3628.77,3670.48,\fscx101\fscy101)\t(3670.48,3712.19,\fscx102\fscy102)\t(3712.19,3753.9,\fscx102\fscy99)\t(3753.9,3795.61,\fscx101\fscy101)\t(3795.61,3837.32,\fscx99\fscy104)\t(3837.32,3879.03,\fscx101\fscy99)\t(3879.03,3920.74,\fscx100\fscy100)\t(3920.74,3962.45,\fscx100\fscy102)\t(3962.45,4004.16,\fscx100\fscy104)\t(4004.16,4045.87,\fscx100\fscy101)\t(4045.87,4087.58,\fscx104\fscy104)\t(4087.58,4129.29,\fscx98\fscy104)\t(4129.29,4171,\fscx100\fscy97)\t(4171,4212.71,\fscx101\fscy99)\t(4212.71,4254.42,\fscx96\fscy102)\t(4254.42,4296.13,\fscx101\fscy100)\t(4296.13,4337.84,\fscx100\fscy100)\t(4337.84,4379.55,\fscx97\fscy103)\t(4379.55,4421.26,\fscx104\fscy99)\t(4421.26,4462.97,\fscx100\fscy100)\t(4462.97,4504.68,\fscx102\fscy102)\t(4504.68,4546.39,\fscx103\fscy104)\t(4546.4,4550,\fscx100\fscy100)}The right hand that held Onii-chan's brain
 Dialogue: 12,2:03:37.01,2:03:41.56,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 4 - line fx: 2] \an7\q2\pos(0,0)\fscx817.59\fscy967.02\t(0,150.85,\fscx827.59\fscy980.02)\t(150.85,422.44,\fscx813.59\fscy954.02)\t(422.44,665.26,\fscx824.59\fscy978.02)\t(665.26,896.84,\fscx821.59\fscy953.02)\t(896.84,1131.32,\fscx802.59\fscy970.02)\t(1131.32,1422.17,\fscx832.59\fscy960.02)\t(1422.17,1643.67,\fscx816.59\fscy978.02)\t(1643.67,1878.15,\fscx827.59\fscy955.02)\t(1878.15,2108.09,\fscx820.59\fscy979.02)\t(2108.09,2368.22,\fscx816.59\fscy951.02)\t(2368.22,2631.6,\fscx822.59\fscy979.02)\t(2631.6,2852.53,\fscx823.59\fscy955.02)\t(2852.53,3079.68,\fscx814.59\fscy978.02)\t(3079.68,3294.98,\fscx822.59\fscy956.02)\t(3294.98,3533.58,\fscx810.59\fscy979.02)\t(3533.58,3750.05,\fscx815.59\fscy956.02)\t(3750.05,3985.62,\fscx831.59\fscy976.02)\t(3985.62,4261.23,\fscx804.59\fscy963.02)\t(4261.23,4524.61,\fscx832.59\fscy969.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&HA0&\t(0,41.71,\fscx96\fscy103)\t(41.71,83.42,\fscx99\fscy96)\t(83.42,125.13,\fscx96\fscy103)\t(125.13,166.84,\fscx104\fscy97)\t(166.84,208.55,\fscx101\fscy99)\t(208.55,250.26,\fscx104\fscy98)\t(250.26,291.97,\fscx96\fscy103)\t(291.97,333.68,\fscx100\fscy102)\t(333.68,375.39,\fscx102\fscy99)\t(375.39,417.1,\fscx104\fscy99)\t(417.1,458.81,\fscx97\fscy102)\t(458.81,500.52,\fscx101\fscy102)\t(500.52,542.23,\fscx98\fscy96)\t(542.23,583.94,\fscx104\fscy103)\t(583.94,625.65,\fscx96\fscy104)\t(625.65,667.36,\fscx97\fscy96)\t(667.36,709.07,\fscx100\fscy96)\t(709.07,750.78,\fscx101\fscy97)\t(750.78,792.49,\fscx104\fscy104)\t(792.49,834.2,\fscx98\fscy99)\t(834.2,875.91,\fscx102\fscy104)\t(875.91,917.62,\fscx102\fscy104)\t(917.62,959.33,\fscx99\fscy97)\t(959.33,1001.04,\fscx97\fscy103)\t(1001.04,1042.75,\fscx103\fscy98)\t(1042.75,1084.46,\fscx97\fscy104)\t(1084.46,1126.17,\fscx102\fscy103)\t(1126.17,1167.88,\fscx99\fscy96)\t(1167.88,1209.59,\fscx97\fscy100)\t(1209.59,1251.3,\fscx101\fscy98)\t(1251.3,1293.01,\fscx102\fscy99)\t(1293.01,1334.72,\fscx98\fscy99)\t(1334.72,1376.43,\fscx104\fscy97)\t(1376.43,1418.14,\fscx96\fscy96)\t(1418.14,1459.85,\fscx97\fscy102)\t(1459.85,1501.56,\fscx97\fscy103)\t(1501.56,1543.27,\fscx104\fscy102)\t(1543.27,1584.98,\fscx98\fscy101)\t(1584.98,1626.69,\fscx102\fscy103)\t(1626.69,1668.4,\fscx102\fscy97)\t(1668.4,1710.11,\fscx104\fscy100)\t(1710.11,1751.82,\fscx96\fscy104)\t(1751.82,1793.53,\fscx99\fscy98)\t(1793.53,1835.24,\fscx99\fscy103)\t(1835.24,1876.95,\fscx102\fscy96)\t(1876.95,1918.66,\fscx103\fscy101)\t(1918.66,1960.37,\fscx102\fscy99)\t(1960.37,2002.08,\fscx104\fscy104)\t(2002.08,2043.79,\fscx103\fscy97)\t(2043.79,2085.5,\fscx103\fscy104)\t(2085.5,2127.21,\fscx98\fscy100)\t(2127.21,2168.92,\fscx98\fscy102)\t(2168.92,2210.63,\fscx101\fscy104)\t(2210.63,2252.34,\fscx104\fscy102)\t(2252.34,2294.05,\fscx98\fscy102)\t(2294.05,2335.76,\fscx102\fscy98)\t(2335.76,2377.47,\fscx103\fscy101)\t(2377.47,2419.18,\fscx103\fscy96)\t(2419.18,2460.89,\fscx97\fscy104)\t(2460.89,2502.6,\fscx99\fscy101)\t(2502.6,2544.31,\fscx98\fscy98)\t(2544.31,2586.02,\fscx104\fscy103)\t(2586.02,2627.73,\fscx101\fscy102)\t(2627.73,2669.44,\fscx103\fscy97)\t(2669.44,2711.15,\fscx99\fscy99)\t(2711.15,2752.86,\fscx102\fscy96)\t(2752.86,2794.57,\fscx101\fscy98)\t(2794.57,2836.28,\fscx97\fscy103)\t(2836.28,2877.99,\fscx97\fscy100)\t(2877.99,2919.7,\fscx96\fscy98)\t(2919.7,2961.41,\fscx101\fscy97)\t(2961.41,3003.12,\fscx101\fscy101)\t(3003.12,3044.83,\fscx97\fscy103)\t(3044.83,3086.54,\fscx100\fscy101)\t(3086.54,3128.25,\fscx99\fscy98)\t(3128.25,3169.96,\fscx102\fscy98)\t(3169.96,3211.67,\fscx96\fscy101)\t(3211.67,3253.38,\fscx102\fscy96)\t(3253.38,3295.09,\fscx98\fscy102)\t(3295.09,3336.8,\fscx96\fscy96)\t(3336.8,3378.51,\fscx100\fscy102)\t(3378.51,3420.22,\fscx96\fscy103)\t(3420.22,3461.93,\fscx98\fscy96)\t(3461.93,3503.64,\fscx102\fscy96)\t(3503.64,3545.35,\fscx100\fscy97)\t(3545.35,3587.06,\fscx100\fscy99)\t(3587.06,3628.77,\fscx97\fscy100)\t(3628.77,3670.48,\fscx103\fscy100)\t(3670.48,3712.19,\fscx97\fscy96)\t(3712.19,3753.9,\fscx97\fscy100)\t(3753.9,3795.61,\fscx100\fscy98)\t(3795.61,3837.32,\fscx96\fscy102)\t(3837.32,3879.03,\fscx102\fscy97)\t(3879.03,3920.74,\fscx103\fscy104)\t(3920.74,3962.45,\fscx101\fscy104)\t(3962.45,4004.16,\fscx97\fscy103)\t(4004.16,4045.87,\fscx100\fscy98)\t(4045.87,4087.58,\fscx101\fscy100)\t(4087.58,4129.29,\fscx97\fscy98)\t(4129.29,4171,\fscx101\fscy104)\t(4171,4212.71,\fscx103\fscy102)\t(4212.71,4254.42,\fscx96\fscy98)\t(4254.42,4296.13,\fscx98\fscy102)\t(4296.13,4337.84,\fscx104\fscy96)\t(4337.84,4379.55,\fscx100\fscy102)\t(4379.55,4421.26,\fscx103\fscy101)\t(4421.26,4462.97,\fscx104\fscy100)\t(4462.97,4504.68,\fscx102\fscy103)\t(4504.68,4546.39,\fscx98\fscy103)\t(4546.4,4550,\fscx99\fscy99)}in February.
 Dialogue: 12,2:03:41.56,2:03:47.23,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 5 - line fx: 1] \an7\q2\pos(0,0)\fscx626.21\fscy899.02\t(0,110.61,\fscx617.21\fscy887.02)\t(110.61,300.9,\fscx638.21\fscy902.02)\t(300.9,504.85,\fscx617.21\fscy884.02)\t(504.85,697.85,\fscx620.21\fscy910.02)\t(697.85,896.25,\fscx640.21\fscy892.02)\t(896.25,1066.49,\fscx617.21\fscy890.02)\t(1066.49,1258.78,\fscx631.21\fscy912.02)\t(1258.78,1457.32,\fscx617.21\fscy889.02)\t(1457.32,1652,\fscx628.21\fscy913.02)\t(1652,1843.71,\fscx638.21\fscy889.02)\t(1843.71,2070.87,\fscx613.21\fscy907.02)\t(2070.87,2275.75,\fscx637.21\fscy893.02)\t(2275.75,2455.16,\fscx613.21\fscy897.02)\t(2455.16,2685.64,\fscx644.21\fscy901.02)\t(2685.64,2886.23,\fscx622.21\fscy885.02)\t(2886.23,3077.52,\fscx634.21\fscy908.02)\t(3077.52,3275.38,\fscx610.21\fscy896.02)\t(3275.38,3526.2,\fscx644.21\fscy897.02)\t(3526.2,3753.36,\fscx614.21\fscy904.02)\t(3753.36,3937.85,\fscx639.21\fscy905.02)\t(3937.85,4142.73,\fscx625.21\fscy881.02)\t(4142.73,4386.51,\fscx627.21\fscy914.02)\t(4386.51,4566.53,\fscx613.21\fscy894.02)\t(4566.53,4755.39,\fscx629.21\fscy914.02)\t(4755.39,4993.18,\fscx625.21\fscy882.02)\t(4993.18,5245.4,\fscx634.21\fscy915.02)\t(5245.4,5463.77,\fscx628.21\fscy886.02)\t(5463.8,5670,\fscx612.21\fscy910.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&HA0&\t(0,41.71,\fscx100\fscy103)\t(41.71,83.42,\fscx99\fscy105)\t(83.42,125.13,\fscx101\fscy104)\t(125.13,166.84,\fscx96\fscy97)\t(166.84,208.55,\fscx103\fscy101)\t(208.55,250.26,\fscx100\fscy101)\t(250.26,291.97,\fscx99\fscy95)\t(291.97,333.68,\fscx99\fscy95)\t(333.68,375.39,\fscx101\fscy105)\t(375.39,417.1,\fscx102\fscy101)\t(417.1,458.81,\fscx98\fscy96)\t(458.81,500.52,\fscx98\fscy100)\t(500.52,542.23,\fscx101\fscy96)\t(542.23,583.94,\fscx103\fscy95)\t(583.94,625.65,\fscx97\fscy104)\t(625.65,667.36,\fscx97\fscy100)\t(667.36,709.07,\fscx101\fscy95)\t(709.07,750.78,\fscx102\fscy96)\t(750.78,792.49,\fscx101\fscy100)\t(792.49,834.2,\fscx105\fscy101)\t(834.2,875.91,\fscx101\fscy103)\t(875.91,917.62,\fscx98\fscy96)\t(917.62,959.33,\fscx96\fscy102)\t(959.33,1001.04,\fscx98\fscy95)\t(1001.04,1042.75,\fscx100\fscy105)\t(1042.75,1084.46,\fscx95\fscy104)\t(1084.46,1126.17,\fscx102\fscy95)\t(1126.17,1167.88,\fscx95\fscy95)\t(1167.88,1209.59,\fscx96\fscy101)\t(1209.59,1251.3,\fscx102\fscy98)\t(1251.3,1293.01,\fscx104\fscy95)\t(1293.01,1334.72,\fscx98\fscy103)\t(1334.72,1376.43,\fscx96\fscy104)\t(1376.43,1418.14,\fscx98\fscy103)\t(1418.14,1459.85,\fscx99\fscy104)\t(1459.85,1501.56,\fscx95\fscy97)\t(1501.56,1543.27,\fscx104\fscy97)\t(1543.27,1584.98,\fscx102\fscy105)\t(1584.98,1626.69,\fscx97\fscy100)\t(1626.69,1668.4,\fscx96\fscy102)\t(1668.4,1710.11,\fscx104\fscy103)\t(1710.11,1751.82,\fscx101\fscy95)\t(1751.82,1793.53,\fscx104\fscy95)\t(1793.53,1835.24,\fscx101\fscy99)\t(1835.24,1876.95,\fscx103\fscy98)\t(1876.95,1918.66,\fscx101\fscy95)\t(1918.66,1960.37,\fscx97\fscy98)\t(1960.37,2002.08,\fscx95\fscy103)\t(2002.08,2043.79,\fscx99\fscy104)\t(2043.79,2085.5,\fscx102\fscy97)\t(2085.5,2127.21,\fscx99\fscy99)\t(2127.21,2168.92,\fscx99\fscy98)\t(2168.92,2210.63,\fscx100\fscy96)\t(2210.63,2252.34,\fscx105\fscy103)\t(2252.34,2294.05,\fscx98\fscy97)\t(2294.05,2335.76,\fscx97\fscy105)\t(2335.76,2377.47,\fscx105\fscy98)\t(2377.47,2419.18,\fscx101\fscy100)\t(2419.18,2460.89,\fscx101\fscy102)\t(2460.89,2502.6,\fscx95\fscy99)\t(2502.6,2544.31,\fscx101\fscy98)\t(2544.31,2586.02,\fscx98\fscy102)\t(2586.02,2627.73,\fscx96\fscy98)\t(2627.73,2669.44,\fscx104\fscy103)\t(2669.44,2711.15,\fscx99\fscy104)\t(2711.15,2752.86,\fscx96\fscy102)\t(2752.86,2794.57,\fscx101\fscy101)\t(2794.57,2836.28,\fscx98\fscy98)\t(2836.28,2877.99,\fscx101\fscy100)\t(2877.99,2919.7,\fscx101\fscy98)\t(2919.7,2961.41,\fscx103\fscy101)\t(2961.41,3003.12,\fscx102\fscy102)\t(3003.12,3044.83,\fscx103\fscy101)\t(3044.83,3086.54,\fscx96\fscy105)\t(3086.54,3128.25,\fscx101\fscy98)\t(3128.25,3169.96,\fscx99\fscy97)\t(3169.96,3211.67,\fscx98\fscy98)\t(3211.67,3253.38,\fscx99\fscy101)\t(3253.38,3295.09,\fscx97\fscy97)\t(3295.09,3336.8,\fscx98\fscy96)\t(3336.8,3378.51,\fscx98\fscy99)\t(3378.51,3420.22,\fscx100\fscy105)\t(3420.22,3461.93,\fscx100\fscy101)\t(3461.93,3503.64,\fscx99\fscy97)\t(3503.64,3545.35,\fscx97\fscy103)\t(3545.35,3587.06,\fscx98\fscy102)\t(3587.06,3628.77,\fscx104\fscy103)\t(3628.77,3670.48,\fscx100\fscy99)\t(3670.48,3712.19,\fscx102\fscy103)\t(3712.19,3753.9,\fscx104\fscy98)\t(3753.9,3795.61,\fscx105\fscy102)\t(3795.61,3837.32,\fscx104\fscy102)\t(3837.32,3879.03,\fscx99\fscy100)\t(3879.03,3920.74,\fscx99\fscy99)\t(3920.74,3962.45,\fscx95\fscy105)\t(3962.45,4004.16,\fscx102\fscy103)\t(4004.16,4045.87,\fscx98\fscy97)\t(4045.87,4087.58,\fscx100\fscy100)\t(4087.58,4129.29,\fscx97\fscy97)\t(4129.29,4171,\fscx105\fscy101)\t(4171,4212.71,\fscx105\fscy104)\t(4212.71,4254.42,\fscx96\fscy100)\t(4254.42,4296.13,\fscx104\fscy97)\t(4296.13,4337.84,\fscx97\fscy99)\t(4337.84,4379.55,\fscx98\fscy101)\t(4379.55,4421.26,\fscx95\fscy102)\t(4421.26,4462.97,\fscx97\fscy104)\t(4462.97,4504.68,\fscx100\fscy99)\t(4504.68,4546.39,\fscx104\fscy104)\t(4546.39,4588.1,\fscx99\fscy105)\t(4588.1,4629.81,\fscx100\fscy96)\t(4629.81,4671.52,\fscx97\fscy100)\t(4671.52,4713.23,\fscx96\fscy98)\t(4713.23,4754.94,\fscx96\fscy102)\t(4754.94,4796.65,\fscx102\fscy95)\t(4796.65,4838.36,\fscx104\fscy100)\t(4838.36,4880.07,\fscx103\fscy100)\t(4880.07,4921.78,\fscx95\fscy104)\t(4921.78,4963.49,\fscx100\fscy96)\t(4963.49,5005.2,\fscx105\fscy96)\t(5005.2,5046.91,\fscx98\fscy101)\t(5046.91,5088.62,\fscx105\fscy97)\t(5088.62,5130.33,\fscx95\fscy96)\t(5130.33,5172.04,\fscx100\fscy98)\t(5172.04,5213.75,\fscx101\fscy98)\t(5213.75,5255.46,\fscx100\fscy102)\t(5255.46,5297.17,\fscx101\fscy101)\t(5297.17,5338.88,\fscx100\fscy103)\t(5338.88,5380.59,\fscx99\fscy103)\t(5380.59,5422.3,\fscx97\fscy102)\t(5422.3,5464.01,\fscx101\fscy95)\t(5464.01,5505.72,\fscx101\fscy101)\t(5505.72,5547.43,\fscx96\fscy97)\t(5547.43,5589.14,\fscx95\fscy96)\t(5589.14,5630.85,\fscx103\fscy104)\t(5630.9,5670,\fscx102\fscy97)}The right hand that botched
-Dialogue: 12,2:03:41.56,2:03:47.23,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 6 - line fx: 2] \an7\q2\pos(0,0)\fscx537.88\fscy967.02\t(0,117.44,\fscx529.88\fscy953.02)\t(117.44,355.25,\fscx544.88\fscy982.02)\t(355.25,552.43,\fscx542.88\fscy955.02)\t(552.43,728.6,\fscx539.88\fscy979.02)\t(728.6,911.26,\fscx537.88\fscy954.02)\t(911.26,1084.39,\fscx546.88\fscy976.02)\t(1084.39,1270.08,\fscx527.88\fscy959.02)\t(1270.08,1472.58,\fscx549.88\fscy976.02)\t(1472.58,1698.83,\fscx532.88\fscy950.02)\t(1698.83,1919.26,\fscx536.88\fscy980.02)\t(1919.26,2099.14,\fscx523.88\fscy959.02)\t(2099.14,2317.64,\fscx541.88\fscy983.02)\t(2317.64,2523.91,\fscx520.88\fscy964.02)\t(2523.91,2738.12,\fscx548.88\fscy973.02)\t(2738.12,2905.63,\fscx525.88\fscy973.02)\t(2905.63,3096.81,\fscx542.88\fscy953.02)\t(3096.81,3318.69,\fscx530.88\fscy981.02)\t(3318.69,3515.34,\fscx530.88\fscy954.02)\t(3515.34,3732.62,\fscx549.88\fscy977.02)\t(3732.62,3924.91,\fscx538.88\fscy953.02)\t(3924.91,4127.8,\fscx528.88\fscy979.02)\t(4127.8,4364.15,\fscx546.88\fscy952.02)\t(4364.15,4590.4,\fscx520.88\fscy969.02)\t(4590.4,4832.51,\fscx553.88\fscy965.02)\t(4832.51,5054.38,\fscx525.88\fscy977.02)\t(5054.38,5272.88,\fscx543.88\fscy953.02)\t(5272.88,5475.38,\fscx526.88\fscy975.02)\t(5475.4,5670,\fscx552.88\fscy961.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&HA0&\t(0,41.71,\fscx99\fscy103)\t(41.71,83.42,\fscx100\fscy105)\t(83.42,125.13,\fscx105\fscy95)\t(125.13,166.84,\fscx99\fscy97)\t(166.84,208.55,\fscx102\fscy98)\t(208.55,250.26,\fscx103\fscy104)\t(250.26,291.97,\fscx102\fscy99)\t(291.97,333.68,\fscx102\fscy95)\t(333.68,375.39,\fscx98\fscy102)\t(375.39,417.1,\fscx97\fscy95)\t(417.1,458.81,\fscx98\fscy99)\t(458.81,500.52,\fscx102\fscy105)\t(500.52,542.23,\fscx99\fscy100)\t(542.23,583.94,\fscx97\fscy99)\t(583.94,625.65,\fscx95\fscy100)\t(625.65,667.36,\fscx103\fscy98)\t(667.36,709.07,\fscx103\fscy97)\t(709.07,750.78,\fscx103\fscy100)\t(750.78,792.49,\fscx99\fscy101)\t(792.49,834.2,\fscx97\fscy95)\t(834.2,875.91,\fscx96\fscy102)\t(875.91,917.62,\fscx96\fscy103)\t(917.62,959.33,\fscx103\fscy101)\t(959.33,1001.04,\fscx104\fscy97)\t(1001.04,1042.75,\fscx104\fscy98)\t(1042.75,1084.46,\fscx102\fscy102)\t(1084.46,1126.17,\fscx104\fscy99)\t(1126.17,1167.88,\fscx99\fscy104)\t(1167.88,1209.59,\fscx97\fscy96)\t(1209.59,1251.3,\fscx100\fscy96)\t(1251.3,1293.01,\fscx97\fscy105)\t(1293.01,1334.72,\fscx97\fscy96)\t(1334.72,1376.43,\fscx96\fscy105)\t(1376.43,1418.14,\fscx95\fscy102)\t(1418.14,1459.85,\fscx105\fscy97)\t(1459.85,1501.56,\fscx96\fscy97)\t(1501.56,1543.27,\fscx98\fscy98)\t(1543.27,1584.98,\fscx104\fscy95)\t(1584.98,1626.69,\fscx99\fscy102)\t(1626.69,1668.4,\fscx100\fscy95)\t(1668.4,1710.11,\fscx104\fscy95)\t(1710.11,1751.82,\fscx103\fscy95)\t(1751.82,1793.53,\fscx105\fscy105)\t(1793.53,1835.24,\fscx101\fscy100)\t(1835.24,1876.95,\fscx95\fscy97)\t(1876.95,1918.66,\fscx103\fscy96)\t(1918.66,1960.37,\fscx99\fscy105)\t(1960.37,2002.08,\fscx101\fscy98)\t(2002.08,2043.79,\fscx99\fscy103)\t(2043.79,2085.5,\fscx101\fscy102)\t(2085.5,2127.21,\fscx96\fscy103)\t(2127.21,2168.92,\fscx97\fscy105)\t(2168.92,2210.63,\fscx100\fscy103)\t(2210.63,2252.34,\fscx99\fscy98)\t(2252.34,2294.05,\fscx98\fscy101)\t(2294.05,2335.76,\fscx98\fscy105)\t(2335.76,2377.47,\fscx99\fscy96)\t(2377.47,2419.18,\fscx96\fscy98)\t(2419.18,2460.89,\fscx98\fscy97)\t(2460.89,2502.6,\fscx96\fscy101)\t(2502.6,2544.31,\fscx103\fscy102)\t(2544.31,2586.02,\fscx96\fscy101)\t(2586.02,2627.73,\fscx100\fscy98)\t(2627.73,2669.44,\fscx95\fscy95)\t(2669.44,2711.15,\fscx99\fscy103)\t(2711.15,2752.86,\fscx95\fscy100)\t(2752.86,2794.57,\fscx105\fscy100)\t(2794.57,2836.28,\fscx98\fscy97)\t(2836.28,2877.99,\fscx97\fscy102)\t(2877.99,2919.7,\fscx102\fscy99)\t(2919.7,2961.41,\fscx99\fscy96)\t(2961.41,3003.12,\fscx101\fscy104)\t(3003.12,3044.83,\fscx100\fscy104)\t(3044.83,3086.54,\fscx101\fscy101)\t(3086.54,3128.25,\fscx103\fscy105)\t(3128.25,3169.96,\fscx98\fscy95)\t(3169.96,3211.67,\fscx95\fscy102)\t(3211.67,3253.38,\fscx98\fscy103)\t(3253.38,3295.09,\fscx100\fscy101)\t(3295.09,3336.8,\fscx104\fscy98)\t(3336.8,3378.51,\fscx104\fscy95)\t(3378.51,3420.22,\fscx103\fscy95)\t(3420.22,3461.93,\fscx102\fscy105)\t(3461.93,3503.64,\fscx98\fscy96)\t(3503.64,3545.35,\fscx101\fscy105)\t(3545.35,3587.06,\fscx104\fscy96)\t(3587.06,3628.77,\fscx105\fscy102)\t(3628.77,3670.48,\fscx104\fscy95)\t(3670.48,3712.19,\fscx103\fscy102)\t(3712.19,3753.9,\fscx98\fscy95)\t(3753.9,3795.61,\fscx100\fscy98)\t(3795.61,3837.32,\fscx96\fscy100)\t(3837.32,3879.03,\fscx101\fscy103)\t(3879.03,3920.74,\fscx99\fscy100)\t(3920.74,3962.45,\fscx105\fscy104)\t(3962.45,4004.16,\fscx97\fscy101)\t(4004.16,4045.87,\fscx104\fscy105)\t(4045.87,4087.58,\fscx99\fscy97)\t(4087.58,4129.29,\fscx102\fscy100)\t(4129.29,4171,\fscx95\fscy97)\t(4171,4212.71,\fscx103\fscy96)\t(4212.71,4254.42,\fscx96\fscy100)\t(4254.42,4296.13,\fscx95\fscy101)\t(4296.13,4337.84,\fscx105\fscy102)\t(4337.84,4379.55,\fscx103\fscy100)\t(4379.55,4421.26,\fscx97\fscy105)\t(4421.26,4462.97,\fscx100\fscy100)\t(4462.97,4504.68,\fscx96\fscy104)\t(4504.68,4546.39,\fscx99\fscy102)\t(4546.39,4588.1,\fscx105\fscy103)\t(4588.1,4629.81,\fscx105\fscy105)\t(4629.81,4671.52,\fscx104\fscy102)\t(4671.52,4713.23,\fscx95\fscy100)\t(4713.23,4754.94,\fscx98\fscy96)\t(4754.94,4796.65,\fscx96\fscy104)\t(4796.65,4838.36,\fscx100\fscy98)\t(4838.36,4880.07,\fscx100\fscy105)\t(4880.07,4921.78,\fscx102\fscy101)\t(4921.78,4963.49,\fscx103\fscy95)\t(4963.49,5005.2,\fscx103\fscy102)\t(5005.2,5046.91,\fscx104\fscy98)\t(5046.91,5088.62,\fscx103\fscy99)\t(5088.62,5130.33,\fscx96\fscy102)\t(5130.33,5172.04,\fscx104\fscy96)\t(5172.04,5213.75,\fscx96\fscy104)\t(5213.75,5255.46,\fscx103\fscy104)\t(5255.46,5297.17,\fscx103\fscy100)\t(5297.17,5338.88,\fscx97\fscy98)\t(5338.88,5380.59,\fscx95\fscy101)\t(5380.59,5422.3,\fscx105\fscy102)\t(5422.3,5464.01,\fscx102\fscy98)\t(5464.01,5505.72,\fscx99\fscy102)\t(5505.72,5547.43,\fscx95\fscy97)\t(5547.43,5589.14,\fscx101\fscy95)\t(5589.14,5630.85,\fscx98\fscy100)\t(5630.9,5670,\fscx98\fscy103)}Onee-san's kimono last November.
+Dialogue: 12,2:03:41.56,2:03:47.23,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 6 - line fx: 2] \an7\q2\pos(0,0)\fscx537.88\fscy967.02\t(0,117.44,\fscx529.88\fscy953.02)\t(117.44,355.25,\fscx544.88\fscy982.02)\t(355.25,552.43,\fscx542.88\fscy955.02)\t(552.43,728.6,\fscx539.88\fscy979.02)\t(728.6,911.26,\fscx537.88\fscy954.02)\t(911.26,1084.39,\fscx546.88\fscy976.02)\t(1084.39,1270.08,\fscx527.88\fscy959.02)\t(1270.08,1472.58,\fscx549.88\fscy976.02)\t(1472.58,1698.83,\fscx532.88\fscy950.02)\t(1698.83,1919.26,\fscx536.88\fscy980.02)\t(1919.26,2099.14,\fscx523.88\fscy959.02)\t(2099.14,2317.64,\fscx541.88\fscy983.02)\t(2317.64,2523.91,\fscx520.88\fscy964.02)\t(2523.91,2738.12,\fscx548.88\fscy973.02)\t(2738.12,2905.63,\fscx525.88\fscy973.02)\t(2905.63,3096.81,\fscx542.88\fscy953.02)\t(3096.81,3318.69,\fscx530.88\fscy981.02)\t(3318.69,3515.34,\fscx530.88\fscy954.02)\t(3515.34,3732.62,\fscx549.88\fscy977.02)\t(3732.62,3924.91,\fscx538.88\fscy953.02)\t(3924.91,4127.8,\fscx528.88\fscy979.02)\t(4127.8,4364.15,\fscx546.88\fscy952.02)\t(4364.15,4590.4,\fscx520.88\fscy969.02)\t(4590.4,4832.51,\fscx553.88\fscy965.02)\t(4832.51,5054.38,\fscx525.88\fscy977.02)\t(5054.38,5272.88,\fscx543.88\fscy953.02)\t(5272.88,5475.38,\fscx526.88\fscy975.02)\t(5475.4,5670,\fscx552.88\fscy961.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&HA0&\t(0,41.71,\fscx99\fscy103)\t(41.71,83.42,\fscx100\fscy105)\t(83.42,125.13,\fscx105\fscy95)\t(125.13,166.84,\fscx99\fscy97)\t(166.84,208.55,\fscx102\fscy98)\t(208.55,250.26,\fscx103\fscy104)\t(250.26,291.97,\fscx102\fscy99)\t(291.97,333.68,\fscx102\fscy95)\t(333.68,375.39,\fscx98\fscy102)\t(375.39,417.1,\fscx97\fscy95)\t(417.1,458.81,\fscx98\fscy99)\t(458.81,500.52,\fscx102\fscy105)\t(500.52,542.23,\fscx99\fscy100)\t(542.23,583.94,\fscx97\fscy99)\t(583.94,625.65,\fscx95\fscy100)\t(625.65,667.36,\fscx103\fscy98)\t(667.36,709.07,\fscx103\fscy97)\t(709.07,750.78,\fscx103\fscy100)\t(750.78,792.49,\fscx99\fscy101)\t(792.49,834.2,\fscx97\fscy95)\t(834.2,875.91,\fscx96\fscy102)\t(875.91,917.62,\fscx96\fscy103)\t(917.62,959.33,\fscx103\fscy101)\t(959.33,1001.04,\fscx104\fscy97)\t(1001.04,1042.75,\fscx104\fscy98)\t(1042.75,1084.46,\fscx102\fscy102)\t(1084.46,1126.17,\fscx104\fscy99)\t(1126.17,1167.88,\fscx99\fscy104)\t(1167.88,1209.59,\fscx97\fscy96)\t(1209.59,1251.3,\fscx100\fscy96)\t(1251.3,1293.01,\fscx97\fscy105)\t(1293.01,1334.72,\fscx97\fscy96)\t(1334.72,1376.43,\fscx96\fscy105)\t(1376.43,1418.14,\fscx95\fscy102)\t(1418.14,1459.85,\fscx105\fscy97)\t(1459.85,1501.56,\fscx96\fscy97)\t(1501.56,1543.27,\fscx98\fscy98)\t(1543.27,1584.98,\fscx104\fscy95)\t(1584.98,1626.69,\fscx99\fscy102)\t(1626.69,1668.4,\fscx100\fscy95)\t(1668.4,1710.11,\fscx104\fscy95)\t(1710.11,1751.82,\fscx103\fscy95)\t(1751.82,1793.53,\fscx105\fscy105)\t(1793.53,1835.24,\fscx101\fscy100)\t(1835.24,1876.95,\fscx95\fscy97)\t(1876.95,1918.66,\fscx103\fscy96)\t(1918.66,1960.37,\fscx99\fscy105)\t(1960.37,2002.08,\fscx101\fscy98)\t(2002.08,2043.79,\fscx99\fscy103)\t(2043.79,2085.5,\fscx101\fscy102)\t(2085.5,2127.21,\fscx96\fscy103)\t(2127.21,2168.92,\fscx97\fscy105)\t(2168.92,2210.63,\fscx100\fscy103)\t(2210.63,2252.34,\fscx99\fscy98)\t(2252.34,2294.05,\fscx98\fscy101)\t(2294.05,2335.76,\fscx98\fscy105)\t(2335.76,2377.47,\fscx99\fscy96)\t(2377.47,2419.18,\fscx96\fscy98)\t(2419.18,2460.89,\fscx98\fscy97)\t(2460.89,2502.6,\fscx96\fscy101)\t(2502.6,2544.31,\fscx103\fscy102)\t(2544.31,2586.02,\fscx96\fscy101)\t(2586.02,2627.73,\fscx100\fscy98)\t(2627.73,2669.44,\fscx95\fscy95)\t(2669.44,2711.15,\fscx99\fscy103)\t(2711.15,2752.86,\fscx95\fscy100)\t(2752.86,2794.57,\fscx105\fscy100)\t(2794.57,2836.28,\fscx98\fscy97)\t(2836.28,2877.99,\fscx97\fscy102)\t(2877.99,2919.7,\fscx102\fscy99)\t(2919.7,2961.41,\fscx99\fscy96)\t(2961.41,3003.12,\fscx101\fscy104)\t(3003.12,3044.83,\fscx100\fscy104)\t(3044.83,3086.54,\fscx101\fscy101)\t(3086.54,3128.25,\fscx103\fscy105)\t(3128.25,3169.96,\fscx98\fscy95)\t(3169.96,3211.67,\fscx95\fscy102)\t(3211.67,3253.38,\fscx98\fscy103)\t(3253.38,3295.09,\fscx100\fscy101)\t(3295.09,3336.8,\fscx104\fscy98)\t(3336.8,3378.51,\fscx104\fscy95)\t(3378.51,3420.22,\fscx103\fscy95)\t(3420.22,3461.93,\fscx102\fscy105)\t(3461.93,3503.64,\fscx98\fscy96)\t(3503.64,3545.35,\fscx101\fscy105)\t(3545.35,3587.06,\fscx104\fscy96)\t(3587.06,3628.77,\fscx105\fscy102)\t(3628.77,3670.48,\fscx104\fscy95)\t(3670.48,3712.19,\fscx103\fscy102)\t(3712.19,3753.9,\fscx98\fscy95)\t(3753.9,3795.61,\fscx100\fscy98)\t(3795.61,3837.32,\fscx96\fscy100)\t(3837.32,3879.03,\fscx101\fscy103)\t(3879.03,3920.74,\fscx99\fscy100)\t(3920.74,3962.45,\fscx105\fscy104)\t(3962.45,4004.16,\fscx97\fscy101)\t(4004.16,4045.87,\fscx104\fscy105)\t(4045.87,4087.58,\fscx99\fscy97)\t(4087.58,4129.29,\fscx102\fscy100)\t(4129.29,4171,\fscx95\fscy97)\t(4171,4212.71,\fscx103\fscy96)\t(4212.71,4254.42,\fscx96\fscy100)\t(4254.42,4296.13,\fscx95\fscy101)\t(4296.13,4337.84,\fscx105\fscy102)\t(4337.84,4379.55,\fscx103\fscy100)\t(4379.55,4421.26,\fscx97\fscy105)\t(4421.26,4462.97,\fscx100\fscy100)\t(4462.97,4504.68,\fscx96\fscy104)\t(4504.68,4546.39,\fscx99\fscy102)\t(4546.39,4588.1,\fscx105\fscy103)\t(4588.1,4629.81,\fscx105\fscy105)\t(4629.81,4671.52,\fscx104\fscy102)\t(4671.52,4713.23,\fscx95\fscy100)\t(4713.23,4754.94,\fscx98\fscy96)\t(4754.94,4796.65,\fscx96\fscy104)\t(4796.65,4838.36,\fscx100\fscy98)\t(4838.36,4880.07,\fscx100\fscy105)\t(4880.07,4921.78,\fscx102\fscy101)\t(4921.78,4963.49,\fscx103\fscy95)\t(4963.49,5005.2,\fscx103\fscy102)\t(5005.2,5046.91,\fscx104\fscy98)\t(5046.91,5088.62,\fscx103\fscy99)\t(5088.62,5130.33,\fscx96\fscy102)\t(5130.33,5172.04,\fscx104\fscy96)\t(5172.04,5213.75,\fscx96\fscy104)\t(5213.75,5255.46,\fscx103\fscy104)\t(5255.46,5297.17,\fscx103\fscy100)\t(5297.17,5338.88,\fscx97\fscy98)\t(5338.88,5380.59,\fscx95\fscy101)\t(5380.59,5422.3,\fscx105\fscy102)\t(5422.3,5464.01,\fscx102\fscy98)\t(5464.01,5505.72,\fscx99\fscy102)\t(5505.72,5547.43,\fscx95\fscy97)\t(5547.43,5589.14,\fscx101\fscy95)\t(5589.14,5630.85,\fscx98\fscy100)\t(5630.9,5670,\fscx98\fscy103)}Onē-san's kimono last November.
 Dialogue: 12,2:03:47.23,2:03:52.78,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 7 - line fx: 1] \an7\q2\pos(0,0)\fscx494.54\fscy899.02\t(0,110.38,\fscx499.54\fscy915.02)\t(110.38,310.31,\fscx490.54\fscy886.02)\t(310.31,491.12,\fscx513.54\fscy901.02)\t(491.12,703.46,\fscx485.54\fscy885.02)\t(703.46,930.03,\fscx505.54\fscy913.02)\t(930.03,1103.24,\fscx501.54\fscy887.02)\t(1103.24,1315.28,\fscx487.54\fscy916.02)\t(1315.28,1530.57,\fscx500.54\fscy886.02)\t(1530.57,1746.26,\fscx483.54\fscy914.02)\t(1746.26,1974.55,\fscx512.54\fscy895.02)\t(1974.55,2204.53,\fscx480.54\fscy909.02)\t(2204.53,2394.46,\fscx496.54\fscy885.02)\t(2394.46,2612.64,\fscx493.54\fscy918.02)\t(2612.64,2827.12,\fscx503.54\fscy887.02)\t(2827.12,3012.66,\fscx490.54\fscy912.02)\t(3012.66,3230.65,\fscx504.54\fscy882.02)\t(3230.65,3455.88,\fscx483.54\fscy909.02)\t(3455.88,3653.96,\fscx511.54\fscy898.02)\t(3653.96,3853.89,\fscx482.54\fscy889.02)\t(3853.89,4085.86,\fscx511.54\fscy909.02)\t(4085.86,4333.72,\fscx482.54\fscy885.02)\t(4333.72,4546.47,\fscx512.54\fscy897.02)\t(4546.47,4758.1,\fscx480.54\fscy894.02)\t(4758.1,4958.03,\fscx509.54\fscy903.02)\t(4958.03,5155.68,\fscx479.54\fscy904.02)\t(5155.68,5364.94,\fscx510.54\fscy911.02)\t(5364.9,5550,\fscx477.54\fscy898.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&H9B&\t(0,41.71,\fscx98\fscy95)\t(41.71,83.42,\fscx104\fscy94)\t(83.42,125.13,\fscx94\fscy102)\t(125.13,166.84,\fscx95\fscy104)\t(166.84,208.55,\fscx94\fscy102)\t(208.55,250.26,\fscx102\fscy96)\t(250.26,291.97,\fscx105\fscy100)\t(291.97,333.68,\fscx100\fscy97)\t(333.68,375.39,\fscx94\fscy106)\t(375.39,417.1,\fscx94\fscy104)\t(417.1,458.81,\fscx105\fscy95)\t(458.81,500.52,\fscx97\fscy104)\t(500.52,542.23,\fscx100\fscy102)\t(542.23,583.94,\fscx106\fscy102)\t(583.94,625.65,\fscx101\fscy94)\t(625.65,667.36,\fscx96\fscy97)\t(667.36,709.07,\fscx106\fscy105)\t(709.07,750.78,\fscx104\fscy99)\t(750.78,792.49,\fscx95\fscy95)\t(792.49,834.2,\fscx94\fscy95)\t(834.2,875.91,\fscx103\fscy95)\t(875.91,917.62,\fscx106\fscy94)\t(917.62,959.33,\fscx102\fscy96)\t(959.33,1001.04,\fscx96\fscy105)\t(1001.04,1042.75,\fscx98\fscy103)\t(1042.75,1084.46,\fscx105\fscy102)\t(1084.46,1126.17,\fscx96\fscy99)\t(1126.17,1167.88,\fscx96\fscy104)\t(1167.88,1209.59,\fscx106\fscy97)\t(1209.59,1251.3,\fscx98\fscy95)\t(1251.3,1293.01,\fscx94\fscy106)\t(1293.01,1334.72,\fscx105\fscy98)\t(1334.72,1376.43,\fscx101\fscy95)\t(1376.43,1418.14,\fscx95\fscy94)\t(1418.14,1459.85,\fscx99\fscy103)\t(1459.85,1501.56,\fscx101\fscy103)\t(1501.56,1543.27,\fscx99\fscy96)\t(1543.27,1584.98,\fscx106\fscy99)\t(1584.98,1626.69,\fscx98\fscy97)\t(1626.69,1668.4,\fscx97\fscy94)\t(1668.4,1710.11,\fscx102\fscy98)\t(1710.11,1751.82,\fscx106\fscy96)\t(1751.82,1793.53,\fscx105\fscy98)\t(1793.53,1835.24,\fscx102\fscy101)\t(1835.24,1876.95,\fscx97\fscy98)\t(1876.95,1918.66,\fscx96\fscy100)\t(1918.66,1960.37,\fscx105\fscy103)\t(1960.37,2002.08,\fscx105\fscy105)\t(2002.08,2043.79,\fscx97\fscy99)\t(2043.79,2085.5,\fscx99\fscy104)\t(2085.5,2127.21,\fscx96\fscy95)\t(2127.21,2168.92,\fscx96\fscy98)\t(2168.92,2210.63,\fscx102\fscy95)\t(2210.63,2252.34,\fscx103\fscy95)\t(2252.34,2294.05,\fscx105\fscy95)\t(2294.05,2335.76,\fscx95\fscy104)\t(2335.76,2377.47,\fscx103\fscy96)\t(2377.47,2419.18,\fscx95\fscy94)\t(2419.18,2460.89,\fscx105\fscy98)\t(2460.89,2502.6,\fscx96\fscy97)\t(2502.6,2544.31,\fscx97\fscy99)\t(2544.31,2586.02,\fscx98\fscy106)\t(2586.02,2627.73,\fscx102\fscy97)\t(2627.73,2669.44,\fscx96\fscy100)\t(2669.44,2711.15,\fscx104\fscy102)\t(2711.15,2752.86,\fscx95\fscy98)\t(2752.86,2794.57,\fscx106\fscy96)\t(2794.57,2836.28,\fscx104\fscy103)\t(2836.28,2877.99,\fscx100\fscy95)\t(2877.99,2919.7,\fscx105\fscy101)\t(2919.7,2961.41,\fscx106\fscy97)\t(2961.41,3003.12,\fscx100\fscy96)\t(3003.12,3044.83,\fscx101\fscy95)\t(3044.83,3086.54,\fscx97\fscy104)\t(3086.54,3128.25,\fscx97\fscy99)\t(3128.25,3169.96,\fscx96\fscy101)\t(3169.96,3211.67,\fscx94\fscy106)\t(3211.67,3253.38,\fscx98\fscy98)\t(3253.38,3295.09,\fscx101\fscy103)\t(3295.09,3336.8,\fscx96\fscy102)\t(3336.8,3378.51,\fscx102\fscy94)\t(3378.51,3420.22,\fscx104\fscy106)\t(3420.22,3461.93,\fscx96\fscy105)\t(3461.93,3503.64,\fscx95\fscy98)\t(3503.64,3545.35,\fscx105\fscy95)\t(3545.35,3587.06,\fscx97\fscy106)\t(3587.06,3628.77,\fscx104\fscy102)\t(3628.77,3670.48,\fscx99\fscy103)\t(3670.48,3712.19,\fscx105\fscy101)\t(3712.19,3753.9,\fscx101\fscy103)\t(3753.9,3795.61,\fscx96\fscy96)\t(3795.61,3837.32,\fscx98\fscy102)\t(3837.32,3879.03,\fscx105\fscy105)\t(3879.03,3920.74,\fscx103\fscy97)\t(3920.74,3962.45,\fscx105\fscy97)\t(3962.45,4004.16,\fscx100\fscy99)\t(4004.16,4045.87,\fscx95\fscy103)\t(4045.87,4087.58,\fscx106\fscy106)\t(4087.58,4129.29,\fscx99\fscy100)\t(4129.29,4171,\fscx94\fscy102)\t(4171,4212.71,\fscx96\fscy99)\t(4212.71,4254.42,\fscx98\fscy99)\t(4254.42,4296.13,\fscx99\fscy102)\t(4296.13,4337.84,\fscx99\fscy99)\t(4337.84,4379.55,\fscx94\fscy106)\t(4379.55,4421.26,\fscx96\fscy100)\t(4421.26,4462.97,\fscx95\fscy100)\t(4462.97,4504.68,\fscx98\fscy105)\t(4504.68,4546.39,\fscx97\fscy100)\t(4546.39,4588.1,\fscx105\fscy95)\t(4588.1,4629.81,\fscx101\fscy105)\t(4629.81,4671.52,\fscx106\fscy102)\t(4671.52,4713.23,\fscx96\fscy100)\t(4713.23,4754.94,\fscx103\fscy97)\t(4754.94,4796.65,\fscx96\fscy104)\t(4796.65,4838.36,\fscx96\fscy103)\t(4838.36,4880.07,\fscx102\fscy103)\t(4880.07,4921.78,\fscx101\fscy99)\t(4921.78,4963.49,\fscx102\fscy94)\t(4963.49,5005.2,\fscx97\fscy94)\t(5005.2,5046.91,\fscx106\fscy96)\t(5046.91,5088.62,\fscx100\fscy106)\t(5088.62,5130.33,\fscx97\fscy99)\t(5130.33,5172.04,\fscx105\fscy97)\t(5172.04,5213.75,\fscx105\fscy102)\t(5213.75,5255.46,\fscx97\fscy101)\t(5255.46,5297.17,\fscx97\fscy101)\t(5297.17,5338.88,\fscx103\fscy103)\t(5338.88,5380.59,\fscx102\fscy97)\t(5380.59,5422.3,\fscx103\fscy103)\t(5422.3,5464.01,\fscx101\fscy98)\t(5464.01,5505.72,\fscx100\fscy98)\t(5505.72,5547.43,\fscx105\fscy101)\t(5547.4,5550,\fscx96\fscy99)}The right hand that drew a watermelon
 Dialogue: 12,2:03:47.23,2:03:52.78,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 8 - line fx: 2] \an7\q2\pos(0,0)\fscx682.4\fscy967.02\t(0,120.48,\fscx683.4\fscy985.02)\t(120.48,329.36,\fscx679.4\fscy954.02)\t(329.36,516.47,\fscx679.4\fscy982.02)\t(516.47,744.57,\fscx682.4\fscy948.02)\t(744.57,971.88,\fscx681.4\fscy982.02)\t(971.88,1166.14,\fscx683.4\fscy953.02)\t(1166.14,1318.53,\fscx669.4\fscy971.02)\t(1318.53,1526.02,\fscx699.4\fscy963.02)\t(1526.02,1754.6,\fscx666.4\fscy972.02)\t(1754.6,1951.14,\fscx690.4\fscy955.02)\t(1951.14,2150.51,\fscx683.4\fscy984.02)\t(2150.51,2349.87,\fscx690.4\fscy955.02)\t(2349.87,2548.23,\fscx674.4\fscy980.02)\t(2548.23,2712.6,\fscx696.4\fscy969.02)\t(2712.6,2930.18,\fscx664.4\fscy975.02)\t(2930.18,3149.08,\fscx696.4\fscy968.02)\t(3149.08,3354.08,\fscx667.4\fscy958.02)\t(3354.08,3557.33,\fscx697.4\fscy963.02)\t(3557.33,3791.99,\fscx664.4\fscy975.02)\t(3791.99,4019.59,\fscx698.4\fscy977.02)\t(4019.59,4262.57,\fscx667.4\fscy958.02)\t(4262.57,4479.42,\fscx685.4\fscy985.02)\t(4479.42,4709.56,\fscx670.4\fscy954.02)\t(4709.56,4934.11,\fscx697.4\fscy974.02)\t(4934.11,5164.54,\fscx667.4\fscy957.02)\t(5164.54,5352.13,\fscx695.4\fscy959.02)\t(5352.1,5550,\fscx664.4\fscy970.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&H9B&\t(0,41.71,\fscx101\fscy99)\t(41.71,83.42,\fscx97\fscy102)\t(83.42,125.13,\fscx106\fscy97)\t(125.13,166.84,\fscx104\fscy105)\t(166.84,208.55,\fscx105\fscy94)\t(208.55,250.26,\fscx94\fscy102)\t(250.26,291.97,\fscx105\fscy100)\t(291.97,333.68,\fscx96\fscy104)\t(333.68,375.39,\fscx103\fscy103)\t(375.39,417.1,\fscx95\fscy104)\t(417.1,458.81,\fscx100\fscy100)\t(458.81,500.52,\fscx101\fscy105)\t(500.52,542.23,\fscx100\fscy95)\t(542.23,583.94,\fscx105\fscy94)\t(583.94,625.65,\fscx102\fscy106)\t(625.65,667.36,\fscx102\fscy95)\t(667.36,709.07,\fscx97\fscy94)\t(709.07,750.78,\fscx104\fscy99)\t(750.78,792.49,\fscx104\fscy97)\t(792.49,834.2,\fscx105\fscy96)\t(834.2,875.91,\fscx101\fscy99)\t(875.91,917.62,\fscx103\fscy98)\t(917.62,959.33,\fscx104\fscy98)\t(959.33,1001.04,\fscx98\fscy97)\t(1001.04,1042.75,\fscx100\fscy97)\t(1042.75,1084.46,\fscx97\fscy101)\t(1084.46,1126.17,\fscx104\fscy104)\t(1126.17,1167.88,\fscx105\fscy98)\t(1167.88,1209.59,\fscx105\fscy101)\t(1209.59,1251.3,\fscx94\fscy104)\t(1251.3,1293.01,\fscx102\fscy102)\t(1293.01,1334.72,\fscx94\fscy104)\t(1334.72,1376.43,\fscx97\fscy95)\t(1376.43,1418.14,\fscx98\fscy96)\t(1418.14,1459.85,\fscx97\fscy99)\t(1459.85,1501.56,\fscx106\fscy106)\t(1501.56,1543.27,\fscx104\fscy96)\t(1543.27,1584.98,\fscx104\fscy101)\t(1584.98,1626.69,\fscx106\fscy99)\t(1626.69,1668.4,\fscx98\fscy98)\t(1668.4,1710.11,\fscx105\fscy101)\t(1710.11,1751.82,\fscx98\fscy98)\t(1751.82,1793.53,\fscx104\fscy103)\t(1793.53,1835.24,\fscx97\fscy103)\t(1835.24,1876.95,\fscx97\fscy95)\t(1876.95,1918.66,\fscx101\fscy104)\t(1918.66,1960.37,\fscx97\fscy106)\t(1960.37,2002.08,\fscx98\fscy102)\t(2002.08,2043.79,\fscx102\fscy106)\t(2043.79,2085.5,\fscx102\fscy105)\t(2085.5,2127.21,\fscx98\fscy100)\t(2127.21,2168.92,\fscx97\fscy95)\t(2168.92,2210.63,\fscx95\fscy99)\t(2210.63,2252.34,\fscx94\fscy106)\t(2252.34,2294.05,\fscx95\fscy99)\t(2294.05,2335.76,\fscx104\fscy96)\t(2335.76,2377.47,\fscx103\fscy100)\t(2377.47,2419.18,\fscx103\fscy99)\t(2419.18,2460.89,\fscx98\fscy99)\t(2460.89,2502.6,\fscx104\fscy98)\t(2502.6,2544.31,\fscx98\fscy99)\t(2544.31,2586.02,\fscx105\fscy104)\t(2586.02,2627.73,\fscx103\fscy98)\t(2627.73,2669.44,\fscx94\fscy95)\t(2669.44,2711.15,\fscx100\fscy106)\t(2711.15,2752.86,\fscx100\fscy101)\t(2752.86,2794.57,\fscx98\fscy104)\t(2794.57,2836.28,\fscx100\fscy96)\t(2836.28,2877.99,\fscx103\fscy100)\t(2877.99,2919.7,\fscx95\fscy106)\t(2919.7,2961.41,\fscx96\fscy105)\t(2961.41,3003.12,\fscx99\fscy98)\t(3003.12,3044.83,\fscx96\fscy98)\t(3044.83,3086.54,\fscx98\fscy96)\t(3086.54,3128.25,\fscx97\fscy99)\t(3128.25,3169.96,\fscx97\fscy95)\t(3169.96,3211.67,\fscx101\fscy103)\t(3211.67,3253.38,\fscx94\fscy101)\t(3253.38,3295.09,\fscx106\fscy105)\t(3295.09,3336.8,\fscx106\fscy96)\t(3336.8,3378.51,\fscx95\fscy104)\t(3378.51,3420.22,\fscx97\fscy101)\t(3420.22,3461.93,\fscx106\fscy97)\t(3461.93,3503.64,\fscx100\fscy94)\t(3503.64,3545.35,\fscx104\fscy100)\t(3545.35,3587.06,\fscx102\fscy104)\t(3587.06,3628.77,\fscx98\fscy99)\t(3628.77,3670.48,\fscx98\fscy96)\t(3670.48,3712.19,\fscx94\fscy104)\t(3712.19,3753.9,\fscx105\fscy100)\t(3753.9,3795.61,\fscx97\fscy102)\t(3795.61,3837.32,\fscx106\fscy95)\t(3837.32,3879.03,\fscx100\fscy106)\t(3879.03,3920.74,\fscx102\fscy95)\t(3920.74,3962.45,\fscx105\fscy106)\t(3962.45,4004.16,\fscx106\fscy106)\t(4004.16,4045.87,\fscx104\fscy97)\t(4045.87,4087.58,\fscx105\fscy102)\t(4087.58,4129.29,\fscx97\fscy101)\t(4129.29,4171,\fscx101\fscy104)\t(4171,4212.71,\fscx97\fscy103)\t(4212.71,4254.42,\fscx94\fscy104)\t(4254.42,4296.13,\fscx104\fscy104)\t(4296.13,4337.84,\fscx105\fscy96)\t(4337.84,4379.55,\fscx100\fscy104)\t(4379.55,4421.26,\fscx101\fscy99)\t(4421.26,4462.97,\fscx95\fscy97)\t(4462.97,4504.68,\fscx102\fscy97)\t(4504.68,4546.39,\fscx101\fscy103)\t(4546.39,4588.1,\fscx97\fscy98)\t(4588.1,4629.81,\fscx100\fscy95)\t(4629.81,4671.52,\fscx106\fscy96)\t(4671.52,4713.23,\fscx100\fscy106)\t(4713.23,4754.94,\fscx95\fscy106)\t(4754.94,4796.65,\fscx95\fscy94)\t(4796.65,4838.36,\fscx102\fscy104)\t(4838.36,4880.07,\fscx98\fscy104)\t(4880.07,4921.78,\fscx105\fscy103)\t(4921.78,4963.49,\fscx104\fscy106)\t(4963.49,5005.2,\fscx105\fscy100)\t(5005.2,5046.91,\fscx104\fscy103)\t(5046.91,5088.62,\fscx97\fscy98)\t(5088.62,5130.33,\fscx95\fscy100)\t(5130.33,5172.04,\fscx99\fscy95)\t(5172.04,5213.75,\fscx100\fscy106)\t(5213.75,5255.46,\fscx106\fscy94)\t(5255.46,5297.17,\fscx104\fscy104)\t(5297.17,5338.88,\fscx96\fscy105)\t(5338.88,5380.59,\fscx102\fscy101)\t(5380.59,5422.3,\fscx96\fscy105)\t(5422.3,5464.01,\fscx104\fscy103)\t(5464.01,5505.72,\fscx99\fscy104)\t(5505.72,5547.43,\fscx97\fscy102)\t(5547.4,5550,\fscx97\fscy102)}for Rin-san last August.
 Dialogue: 12,2:03:52.78,2:03:56.74,Main,hi-light,0,0,0,,{Kara Effector 3.5 aratani: Jitter Soft II [line origin: 9 - line fx: 1] \an7\q2\pos(0,0)\fscx374.9\fscy967.02\t(0,80.68,\fscx386.9\fscy980.02)\t(80.68,248.36,\fscx372.9\fscy946.02)\t(248.36,438.04,\fscx379.9\fscy987.02)\t(438.04,622.71,\fscx357.9\fscy953.02)\t(622.71,807.9,\fscx382.9\fscy985.02)\t(807.9,961.13,\fscx355.9\fscy965.02)\t(961.13,1107.13,\fscx386.9\fscy957.02)\t(1107.13,1271.55,\fscx352.9\fscy969.02)\t(1271.55,1430.84,\fscx384.9\fscy983.02)\t(1430.84,1617.14,\fscx369.9\fscy945.02)\t(1617.14,1804.11,\fscx369.9\fscy986.02)\t(1804.11,1967.58,\fscx383.9\fscy953.02)\t(1967.58,2118.69,\fscx380.9\fscy986.02)\t(2118.69,2284.5,\fscx361.9\fscy955.02)\t(2284.5,2417.29,\fscx369.9\fscy983.02)\t(2417.29,2586.94,\fscx391.9\fscy953.02)\t(2586.94,2756.66,\fscx372.9\fscy985.02)\t(2756.66,2922.66,\fscx362.9\fscy950.02)\t(2922.66,3072.04,\fscx390.9\fscy967.02)\t(3072.04,3221.14,\fscx360.9\fscy954.02)\t(3221.14,3383.91,\fscx395.9\fscy961.02)\t(3383.91,3582.11,\fscx355.9\fscy978.02)\t(3582.11,3776.93,\fscx396.9\fscy966.02)\t(3776.9,3960,\fscx353.9\fscy962.02)\p1}m 0 0 m 100 100.375{\p0\r\i1\alpha&H95&\t(0,41.71,\fscx94\fscy101)\t(41.71,83.42,\fscx96\fscy95)\t(83.42,125.13,\fscx95\fscy104)\t(125.13,166.84,\fscx99\fscy106)\t(166.84,208.55,\fscx106\fscy97)\t(208.55,250.26,\fscx93\fscy92)\t(250.26,291.97,\fscx94\fscy102)\t(291.97,333.68,\fscx107\fscy98)\t(333.68,375.39,\fscx102\fscy98)\t(375.39,417.1,\fscx102\fscy98)\t(417.1,458.81,\fscx102\fscy100)\t(458.81,500.52,\fscx101\fscy108)\t(500.52,542.23,\fscx95\fscy94)\t(542.23,583.94,\fscx96\fscy106)\t(583.94,625.65,\fscx92\fscy101)\t(625.65,667.36,\fscx100\fscy108)\t(667.36,709.07,\fscx94\fscy107)\t(709.07,750.78,\fscx101\fscy108)\t(750.78,792.49,\fscx106\fscy103)\t(792.49,834.2,\fscx101\fscy103)\t(834.2,875.91,\fscx98\fscy102)\t(875.91,917.62,\fscx96\fscy105)\t(917.62,959.33,\fscx102\fscy104)\t(959.33,1001.04,\fscx104\fscy100)\t(1001.04,1042.75,\fscx106\fscy106)\t(1042.75,1084.46,\fscx99\fscy104)\t(1084.46,1126.17,\fscx101\fscy104)\t(1126.17,1167.88,\fscx98\fscy102)\t(1167.88,1209.59,\fscx100\fscy100)\t(1209.59,1251.3,\fscx100\fscy101)\t(1251.3,1293.01,\fscx93\fscy104)\t(1293.01,1334.72,\fscx107\fscy107)\t(1334.72,1376.43,\fscx108\fscy93)\t(1376.43,1418.14,\fscx94\fscy96)\t(1418.14,1459.85,\fscx108\fscy108)\t(1459.85,1501.56,\fscx107\fscy97)\t(1501.56,1543.27,\fscx104\fscy93)\t(1543.27,1584.98,\fscx106\fscy107)\t(1584.98,1626.69,\fscx95\fscy93)\t(1626.69,1668.4,\fscx105\fscy99)\t(1668.4,1710.11,\fscx94\fscy108)\t(1710.11,1751.82,\fscx100\fscy101)\t(1751.82,1793.53,\fscx96\fscy92)\t(1793.53,1835.24,\fscx105\fscy92)\t(1835.24,1876.95,\fscx108\fscy100)\t(1876.95,1918.66,\fscx95\fscy100)\t(1918.66,1960.37,\fscx97\fscy96)\t(1960.37,2002.08,\fscx104\fscy92)\t(2002.08,2043.79,\fscx94\fscy108)\t(2043.79,2085.5,\fscx102\fscy102)\t(2085.5,2127.21,\fscx108\fscy104)\t(2127.21,2168.92,\fscx105\fscy93)\t(2168.92,2210.63,\fscx107\fscy95)\t(2210.63,2252.34,\fscx93\fscy98)\t(2252.34,2294.05,\fscx92\fscy93)\t(2294.05,2335.76,\fscx104\fscy104)\t(2335.76,2377.47,\fscx101\fscy92)\t(2377.47,2419.18,\fscx107\fscy94)\t(2419.18,2460.89,\fscx92\fscy105)\t(2460.89,2502.6,\fscx96\fscy99)\t(2502.6,2544.31,\fscx94\fscy100)\t(2544.31,2586.02,\fscx92\fscy98)\t(2586.02,2627.73,\fscx102\fscy104)\t(2627.73,2669.44,\fscx102\fscy94)\t(2669.44,2711.15,\fscx97\fscy101)\t(2711.15,2752.86,\fscx106\fscy101)\t(2752.86,2794.57,\fscx105\fscy99)\t(2794.57,2836.28,\fscx94\fscy105)\t(2836.28,2877.99,\fscx107\fscy93)\t(2877.99,2919.7,\fscx106\fscy103)\t(2919.7,2961.41,\fscx94\fscy98)\t(2961.41,3003.12,\fscx106\fscy102)\t(3003.12,3044.83,\fscx99\fscy94)\t(3044.83,3086.54,\fscx97\fscy108)\t(3086.54,3128.25,\fscx94\fscy92)\t(3128.25,3169.96,\fscx95\fscy107)\t(3169.96,3211.67,\fscx104\fscy100)\t(3211.67,3253.38,\fscx108\fscy103)\t(3253.38,3295.09,\fscx96\fscy107)\t(3295.09,3336.8,\fscx97\fscy100)\t(3336.8,3378.51,\fscx92\fscy97)\t(3378.51,3420.22,\fscx97\fscy98)\t(3420.22,3461.93,\fscx104\fscy93)\t(3461.93,3503.64,\fscx98\fscy93)\t(3503.64,3545.35,\fscx102\fscy93)\t(3545.35,3587.06,\fscx96\fscy104)\t(3587.06,3628.77,\fscx106\fscy92)\t(3628.77,3670.48,\fscx94\fscy98)\t(3670.48,3712.19,\fscx99\fscy98)\t(3712.19,3753.9,\fscx101\fscy100)\t(3753.9,3795.61,\fscx93\fscy95)\t(3795.61,3837.32,\fscx106\fscy95)\t(3837.32,3879.03,\fscx107\fscy101)\t(3879.03,3920.74,\fscx94\fscy106)\t(3920.7,3960,\fscx106\fscy107)}The right hand that cooked Lord Kusunoki's rice.
@@ -1950,7 +1949,7 @@ Dialogue: 12,2:03:23.63,2:03:26.96,Main,,0,0,0,***,{\i1}The right hand that held
 Dialogue: 12,2:03:27.92,2:03:31.68,Main,,0,0,0,***,{\i1}The right hand that drew Shūsaku-san's face in May.
 Dialogue: 12,2:03:32.80,2:03:37.01,Main,,0,0,0,***,{\i1}The right hand that held Teru-san's lip balm in April.
 Dialogue: 12,2:03:37.01,2:03:41.56,Main,,0,0,0,***,{\i1}The right hand that held Onii-chan's brain in February.{my brother}
-Dialogue: 12,2:03:41.56,2:03:47.23,Main,,0,0,0,***,{\i1}The right hand that botched Onee-san's kimono last November.
+Dialogue: 12,2:03:41.56,2:03:47.23,Main,,0,0,0,***,{\i1}The right hand that botched Onē-san's kimono last November.
 Dialogue: 12,2:03:47.23,2:03:52.78,Main,,0,0,0,***,{\i1}The right hand that drew a watermelon for Rin-san last August.
 Dialogue: 12,2:03:52.78,2:03:56.74,Main,,0,0,0,,{\i1}The right hand that cooked Lord Kusunoki's rice.
 Dialogue: 12,2:03:56.74,2:03:58.66,Main,,0,0,0,,{\i1}The right hand that drew...
@@ -2293,7 +2292,7 @@ Dialogue: 12,2:28:46.06,2:28:47.69,Main,,0,0,0,,That's good.
 Dialogue: 12,2:28:52.11,2:28:53.32,Main,,0,0,0,,Take care now.
 Dialogue: 12,2:28:53.99,2:28:58.20,Main,,0,0,0,,It's you who really should take it easy.
 Dialogue: 12,2:28:58.20,2:29:01.29,Main,,0,0,0,,If you get marrow inflammationthey might have to operate on you again.
-Dialogue: 12,2:29:20.85,2:29:22.10,Main,,0,0,0,***,Oh, Onee-san!
+Dialogue: 12,2:29:20.85,2:29:22.10,Main,,0,0,0,***,Oh, Onē-san!
 Dialogue: 12,2:29:22.10,2:29:25.31,Main,,0,0,0,***,Oh, Suzu-san. Do you know what this line is for?
 Dialogue: 12,2:29:25.31,2:29:29.69,Main,,0,0,0,,No idea, but I'll take anything right now since we're short on everything.
 Dialogue: 12,2:29:30.40,2:29:31.57,Main,,0,0,0,,That's true enough.
